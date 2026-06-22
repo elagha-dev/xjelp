@@ -1,0 +1,1140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+<title>Innovation in progress</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lilita+One&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --orange:#FF5A1F;
+  --orange-deep:#D8430F;
+  --orange-dark:#B8380C;
+  --ink:#240E05;
+  --cream:#FFF3E4;
+  --gold:#FFD23F;
+  --green:#1FA35C;
+  --line:rgba(36,14,5,.16);
+  --line-light:rgba(255,243,228,.28);
+  --display:'Lilita One',system-ui,sans-serif;
+  --body:'Space Grotesk',system-ui,sans-serif;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{
+  font-family:var(--body);
+  background:var(--orange);
+  color:var(--ink);
+  -webkit-font-smoothing:antialiased;
+  overflow-x:hidden;
+}
+
+/* texture: subtle stitched-ball dot grid */
+body::before{
+  content:'';
+  position:fixed;inset:0;
+  background-image:radial-gradient(rgba(36,14,5,.05) 1.5px, transparent 1.5px);
+  background-size:22px 22px;
+  pointer-events:none;
+  z-index:0;
+}
+
+/* ============ HERO ============ */
+.hero{
+  position:relative;
+  min-height:92vh;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+  padding:60px 24px 40px;
+  overflow:hidden;
+}
+.hero-glow{
+  position:absolute;
+  top:-30%;left:50%;
+  width:140%;
+  height:140%;
+  transform:translateX(-50%);
+  background:radial-gradient(circle at 50% 30%, rgba(255,210,63,.35), transparent 55%);
+  pointer-events:none;
+}
+.hero-badge{
+  font-family:var(--body);
+  font-weight:700;
+  font-size:12px;
+  letter-spacing:.22em;
+  text-transform:uppercase;
+  color:var(--ink);
+  background:var(--cream);
+  border:2px solid var(--ink);
+  border-radius:100px;
+  padding:7px 18px;
+  margin-bottom:28px;
+  display:inline-flex;
+  align-items:center;
+  gap:8px;
+  position:relative;
+  z-index:2;
+}
+.hero-badge .dot{width:7px;height:7px;border-radius:50%;background:var(--green);animation:pulse 1.8s ease-in-out infinite}
+.hero h1{
+  font-family:var(--display);
+  font-weight:400;
+  font-size:clamp(54px,13vw,128px);
+  line-height:.94;
+  letter-spacing:.01em;
+  color:var(--cream);
+  text-shadow:6px 6px 0 var(--ink);
+  position:relative;
+  z-index:2;
+  transform:rotate(-2deg);
+}
+.hero h1 span{
+  display:block;
+  color:var(--ink);
+  text-shadow:6px 6px 0 var(--cream);
+  transform:rotate(2deg);
+  margin-top:6px;
+}
+.hero p.sub{
+  font-family:var(--body);
+  font-weight:500;
+  font-size:clamp(15px,2.4vw,19px);
+  color:var(--ink);
+  max-width:520px;
+  margin:32px auto 0;
+  line-height:1.55;
+  position:relative;z-index:2;
+}
+.hero p.sub strong{font-weight:700}
+.scroll-cue{
+  margin-top:46px;
+  font-family:var(--body);
+  font-weight:600;
+  font-size:11px;
+  letter-spacing:.18em;
+  text-transform:uppercase;
+  color:var(--ink);
+  opacity:.7;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  gap:6px;
+  position:relative;z-index:2;
+}
+.scroll-cue svg{animation:bob 1.6s ease-in-out infinite}
+
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.35;transform:scale(1.3)}}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(6px)}}
+
+/* ============ DIVIDER ============ */
+.divider{
+  height:56px;
+  background:transparent;
+  position:relative;
+  margin-top:-1px;
+}
+.divider svg{position:absolute;top:0;left:0;width:100%;height:100%;display:block}
+
+/* ============ MATCH SECTION ============ */
+.matches{background:var(--cream);padding:0 0 56px}
+.section-head{
+  max-width:1180px;margin:0 auto;
+  padding:48px 24px 28px;
+  display:flex;align-items:baseline;justify-content:space-between;gap:16px;flex-wrap:wrap;
+}
+.section-head h2{
+  font-family:var(--display);
+  font-size:clamp(28px,5vw,42px);
+  color:var(--orange-deep);
+}
+.section-head .meta{
+  font-size:12px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--ink);opacity:.55;
+}
+.legend{display:flex;gap:18px;max-width:1180px;margin:0 auto;padding:0 24px 22px;flex-wrap:wrap}
+.legend-item{display:flex;align-items:center;gap:7px;font-size:11.5px;font-weight:600;letter-spacing:.04em;color:var(--ink);opacity:.75}
+.legend-dot{width:9px;height:9px;border-radius:50%}
+.legend-dot.live{background:var(--green)}
+.legend-dot.final{background:var(--ink);opacity:.5}
+.legend-dot.sched{background:var(--orange)}
+
+.carousel-wrap{position:relative;max-width:1180px;margin:0 auto}
+.carousel{
+  display:flex;
+  gap:18px;
+  overflow-x:auto;
+  scroll-snap-type:x mandatory;
+  scroll-padding-left:32px;
+  padding:22px 24px 22px 0;
+  -ms-overflow-style:none;
+  scrollbar-width:none;
+}
+.carousel::before{
+  content:'';
+  flex:0 0 32px;
+  scroll-snap-align:none;
+}
+.carousel::-webkit-scrollbar{display:none}
+.card{
+  scroll-snap-align:start;
+  flex:0 0 252px;
+  background:#fff;
+  border:3px solid var(--ink);
+  border-radius:18px;
+  padding:18px 18px 16px;
+  position:relative;
+  display:flex;
+  flex-direction:column;
+  gap:14px;
+  box-shadow:6px 6px 0 var(--line);
+}
+.card.is-final{transform:rotate(-1.1deg)}
+.card.is-live{
+  transform:rotate(1.1deg);
+  border-color:var(--green);
+  background:linear-gradient(180deg,#fff,#F2FBF6);
+  box-shadow:6px 6px 0 rgba(31,163,92,.22);
+}
+.card.is-sched{transform:rotate(-0.6deg)}
+.card-tag{
+  position:absolute;top:-12px;left:16px;
+  font-family:var(--body);font-weight:700;font-size:10px;letter-spacing:.14em;text-transform:uppercase;
+  padding:4px 10px;border-radius:100px;border:2px solid var(--ink);
+  background:var(--cream);color:var(--ink);
+  display:flex;align-items:center;gap:5px;
+}
+.card-tag.live{background:var(--green);color:#fff;border-color:var(--ink)}
+.card-tag.live .ldot{width:6px;height:6px;border-radius:50%;background:#fff;animation:pulse 1.4s ease-in-out infinite}
+.card-tag.final{background:var(--ink);color:var(--cream)}
+.card-group{
+  font-size:10.5px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--ink);opacity:.45;
+  margin-top:6px;
+}
+.card-teams{display:flex;flex-direction:column;gap:10px}
+.team-row{display:flex;align-items:center;justify-content:space-between;gap:10px}
+.team-id{display:flex;align-items:center;gap:9px;min-width:0}
+.flag{font-size:22px;line-height:1;flex-shrink:0}
+.team-name{font-size:14px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.team-score{font-family:var(--display);font-size:20px;color:var(--orange-deep);flex-shrink:0}
+.card.is-sched .team-score{color:var(--ink);opacity:.3}
+.card-foot{
+  font-size:11px;font-weight:600;color:var(--ink);opacity:.55;
+  border-top:2px dashed var(--line);padding-top:10px;
+  display:flex;flex-direction:column;gap:5px;
+}
+.card-foot-row{display:flex;justify-content:space-between;align-items:center;gap:8px}
+.tv-badge{
+  display:inline-flex;align-items:center;gap:4px;
+  font-size:9.5px;font-weight:700;letter-spacing:.04em;
+  padding:2px 8px;border-radius:100px;
+  background:var(--ink);color:var(--cream);
+  opacity:1;white-space:nowrap;
+}
+.tv-badge.ard,.tv-badge.zdf{background:var(--green)}
+.tv-badge.magenta{background:#E20074}
+.carousel-fade{
+  position:absolute;top:0;bottom:22px;width:48px;pointer-events:none;
+}
+.carousel-fade.left{left:0;background:linear-gradient(90deg,var(--cream),transparent)}
+.carousel-fade.right{right:0;background:linear-gradient(270deg,var(--cream),transparent)}
+
+/* ============ TOP SCORERS ============ */
+.scorers{background:var(--cream);padding:0 0 50px}
+.scorers-list{max-width:760px;margin:0 auto;padding:0 24px;display:flex;flex-direction:column;gap:10px}
+.scorer-row{
+  display:flex;align-items:center;gap:14px;
+  background:#fff;border:3px solid var(--ink);border-radius:14px;
+  padding:12px 16px;box-shadow:4px 4px 0 var(--line);
+}
+.scorer-rank{
+  font-family:var(--display);font-size:20px;color:var(--orange-deep);
+  width:30px;flex-shrink:0;text-align:center;
+}
+.scorer-rank.gold{color:#C9941F}
+.scorer-info{flex:1;min-width:0}
+.scorer-name{font-size:14.5px;font-weight:700;color:var(--ink)}
+.scorer-country{display:flex;align-items:center;gap:6px;font-size:11.5px;color:var(--ink);opacity:.6;margin-top:2px}
+.scorer-country .flag{font-size:14px}
+.scorer-goals{
+  font-family:var(--display);font-size:22px;color:var(--ink);
+  flex-shrink:0;display:flex;align-items:baseline;gap:4px;
+}
+.scorer-goals span{font-family:var(--body);font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--ink);opacity:.45}
+
+/* ============ TABLES ============ */
+.tables{background:var(--orange-dark);padding:54px 0 80px;position:relative}
+.tables::before{
+  content:'';position:absolute;inset:0;
+  background-image:radial-gradient(rgba(255,243,228,.05) 1.5px, transparent 1.5px);
+  background-size:20px 20px;
+}
+.tables-head{max-width:1180px;margin:0 auto;padding:0 24px 30px;position:relative;z-index:1}
+.tables-head h2{
+  font-family:var(--display);
+  font-size:clamp(28px,5vw,42px);
+  color:var(--cream);
+}
+.tables-head p{font-size:13px;color:var(--cream);opacity:.65;margin-top:8px;font-weight:500}
+.groups-grid{
+  max-width:1180px;margin:0 auto;padding:0 24px;
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(258px,1fr));
+  gap:16px;
+  position:relative;z-index:1;
+}
+.group-card{
+  background:var(--cream);
+  border:3px solid var(--ink);
+  border-radius:16px;
+  overflow:hidden;
+  box-shadow:5px 5px 0 rgba(36,14,5,.35);
+}
+.group-head{
+  background:var(--ink);color:var(--cream);
+  font-family:var(--display);font-size:15px;
+  padding:9px 14px;
+  display:flex;justify-content:space-between;align-items:center;
+}
+.group-head span{font-family:var(--body);font-weight:600;font-size:10px;letter-spacing:.1em;opacity:.6}
+table.standings{width:100%;border-collapse:collapse;font-size:12.5px}
+table.standings th{
+  font-size:9.5px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--ink);opacity:.5;
+  padding:9px 8px 6px;text-align:center;
+}
+table.standings th.team-col{text-align:left;padding-left:14px}
+table.standings td{padding:7px 8px;text-align:center;border-top:1.5px solid var(--line)}
+table.standings td.team-col{text-align:left;padding-left:14px;font-weight:600;display:flex;align-items:center;gap:8px}
+table.standings td.team-col .flag{font-size:16px}
+table.standings tr.qualify td{background:rgba(31,163,92,.08)}
+table.standings tr.qualify td.team-col{border-left:3px solid var(--green);padding-left:11px}
+table.standings td.pts{font-weight:700;color:var(--orange-deep)}
+
+footer{
+  background:var(--ink);color:var(--cream);
+  text-align:center;padding:26px 24px;
+  font-size:11px;letter-spacing:.08em;text-transform:uppercase;opacity:.6;font-weight:600;
+}
+
+@media (max-width:560px){
+  .card{flex:0 0 220px}
+  .hero{min-height:88vh}
+}
+</style>
+</head>
+<body>
+
+<!-- ============ HERO ============ -->
+<section class="hero">
+  <div class="hero-glow"></div>
+  <div class="hero-badge"><span class="dot"></span> Innovation in progress</div>
+  <h1>Something's<span>Brewing</span></h1>
+  <p class="sub">This domain is warming up on the bench. <strong>While we build, we're watching the World Cup</strong> — live scores, fixtures, and group tables below.</p>
+  <div class="scroll-cue">
+    Kick off
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"/></svg>
+  </div>
+</section>
+
+<div class="divider">
+  <svg viewBox="0 0 1200 56" preserveAspectRatio="none"><path d="M0,36 C50,16 100,16 150,36 C200,56 250,56 300,36 C350,16 400,16 450,36 C500,56 550,56 600,36 C650,16 700,16 750,36 C800,56 850,56 900,36 C950,16 1000,16 1050,36 C1100,56 1150,56 1200,36 V56 H0 Z" fill="#FFF3E4" stroke="#240E05" stroke-width="3"/></svg>
+</div>
+
+<!-- ============ MATCHES ============ -->
+<section class="matches" id="matches">
+  <div class="section-head">
+    <h2>World Cup Watch</h2>
+    <div class="meta">Updated Jun 22, 2026</div>
+  </div>
+  <div class="legend">
+    <div class="legend-item"><span class="legend-dot final"></span> Final</div>
+    <div class="legend-item"><span class="legend-dot live"></span> Live now</div>
+    <div class="legend-item"><span class="legend-dot sched"></span> Upcoming</div>
+  </div>
+  <div class="carousel-wrap">
+    <div class="carousel-fade left"></div>
+    <div class="carousel-fade right"></div>
+    <div class="carousel" id="carousel">
+      <div class="card is-live">
+        <div class="card-tag live"><span class="ldot"></span>Live</div>
+        <div class="card-group">Group I</div>
+        <div class="card-teams">
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇫🇷</span><span class="team-name">France</span></div>
+            <div class="team-score">0</div>
+          </div>
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇮🇶</span><span class="team-name">Iraq</span></div>
+            <div class="team-score">0</div>
+          </div>
+        </div>
+        <div class="card-foot">
+          <div class="card-foot-row"><span>Philadelphia</span><span class="tv-badge ard">ARD</span></div>
+          <div class="card-foot-row"><span>Mon Jun 22, 11pm CEST</span></div>
+        </div>
+      </div>
+      <div class="card is-sched">
+        <div class="card-tag ">Upcoming</div>
+        <div class="card-group">Group I</div>
+        <div class="card-teams">
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇳🇴</span><span class="team-name">Norway</span></div>
+            <div class="team-score">–</div>
+          </div>
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇸🇳</span><span class="team-name">Senegal</span></div>
+            <div class="team-score">–</div>
+          </div>
+        </div>
+        <div class="card-foot">
+          <div class="card-foot-row"><span>Boston</span><span class="tv-badge magenta">MagentaTV</span></div>
+          <div class="card-foot-row"><span>Tue Jun 23, 2am CEST</span></div>
+        </div>
+      </div>
+      <div class="card is-sched">
+        <div class="card-tag ">Upcoming</div>
+        <div class="card-group">Group J</div>
+        <div class="card-teams">
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇯🇴</span><span class="team-name">Jordan</span></div>
+            <div class="team-score">–</div>
+          </div>
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇩🇿</span><span class="team-name">Algeria</span></div>
+            <div class="team-score">–</div>
+          </div>
+        </div>
+        <div class="card-foot">
+          <div class="card-foot-row"><span>San Francisco</span><span class="tv-badge zdf">ZDF</span></div>
+          <div class="card-foot-row"><span>Tue Jun 23, 5am CEST</span></div>
+        </div>
+      </div>
+      <div class="card is-sched">
+        <div class="card-tag ">Upcoming</div>
+        <div class="card-group">Group K</div>
+        <div class="card-teams">
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇵🇹</span><span class="team-name">Portugal</span></div>
+            <div class="team-score">–</div>
+          </div>
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇺🇿</span><span class="team-name">Uzbekistan</span></div>
+            <div class="team-score">–</div>
+          </div>
+        </div>
+        <div class="card-foot">
+          <div class="card-foot-row"><span>Houston</span><span class="tv-badge ard">ARD</span></div>
+          <div class="card-foot-row"><span>Tue Jun 23, 7pm CEST</span></div>
+        </div>
+      </div>
+      <div class="card is-sched">
+        <div class="card-tag ">Upcoming</div>
+        <div class="card-group">Group L</div>
+        <div class="card-teams">
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🏴</span><span class="team-name">England</span></div>
+            <div class="team-score">–</div>
+          </div>
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇬🇭</span><span class="team-name">Ghana</span></div>
+            <div class="team-score">–</div>
+          </div>
+        </div>
+        <div class="card-foot">
+          <div class="card-foot-row"><span>Boston</span><span class="tv-badge ard">ARD</span></div>
+          <div class="card-foot-row"><span>Tue Jun 23, 10pm CEST</span></div>
+        </div>
+      </div>
+      <div class="card is-sched">
+        <div class="card-tag ">Upcoming</div>
+        <div class="card-group">Group L</div>
+        <div class="card-teams">
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇵🇦</span><span class="team-name">Panama</span></div>
+            <div class="team-score">–</div>
+          </div>
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇭🇷</span><span class="team-name">Croatia</span></div>
+            <div class="team-score">–</div>
+          </div>
+        </div>
+        <div class="card-foot">
+          <div class="card-foot-row"><span>Toronto</span><span class="tv-badge magenta">MagentaTV</span></div>
+          <div class="card-foot-row"><span>Wed Jun 24, 1am CEST</span></div>
+        </div>
+      </div>
+      <div class="card is-sched">
+        <div class="card-tag ">Upcoming</div>
+        <div class="card-group">Group K</div>
+        <div class="card-teams">
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇨🇴</span><span class="team-name">Colombia</span></div>
+            <div class="team-score">–</div>
+          </div>
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇨🇩</span><span class="team-name">Congo DR</span></div>
+            <div class="team-score">–</div>
+          </div>
+        </div>
+        <div class="card-foot">
+          <div class="card-foot-row"><span>Guadalajara</span><span class="tv-badge ard">ARD</span></div>
+          <div class="card-foot-row"><span>Wed Jun 24, 4am CEST</span></div>
+        </div>
+      </div>
+      <div class="card is-sched">
+        <div class="card-tag ">Upcoming</div>
+        <div class="card-group">Group B</div>
+        <div class="card-teams">
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇨🇭</span><span class="team-name">Switzerland</span></div>
+            <div class="team-score">–</div>
+          </div>
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇨🇦</span><span class="team-name">Canada</span></div>
+            <div class="team-score">–</div>
+          </div>
+        </div>
+        <div class="card-foot">
+          <div class="card-foot-row"><span>Vancouver</span><span class="tv-badge ard">ARD</span></div>
+          <div class="card-foot-row"><span>Wed Jun 24, 9pm CEST</span></div>
+        </div>
+      </div>
+      <div class="card is-sched">
+        <div class="card-tag ">Upcoming</div>
+        <div class="card-group">Group B</div>
+        <div class="card-teams">
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇧🇦</span><span class="team-name">Bosnia and Herzegovina</span></div>
+            <div class="team-score">–</div>
+          </div>
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇶🇦</span><span class="team-name">Qatar</span></div>
+            <div class="team-score">–</div>
+          </div>
+        </div>
+        <div class="card-foot">
+          <div class="card-foot-row"><span>Seattle</span><span class="tv-badge magenta">MagentaTV</span></div>
+          <div class="card-foot-row"><span>Wed Jun 24, 9pm CEST</span></div>
+        </div>
+      </div>
+      <div class="card is-sched">
+        <div class="card-tag ">Upcoming</div>
+        <div class="card-group">Group C</div>
+        <div class="card-teams">
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🏴</span><span class="team-name">Scotland</span></div>
+            <div class="team-score">–</div>
+          </div>
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇧🇷</span><span class="team-name">Brazil</span></div>
+            <div class="team-score">–</div>
+          </div>
+        </div>
+        <div class="card-foot">
+          <div class="card-foot-row"><span>Miami</span><span class="tv-badge magenta">MagentaTV</span></div>
+          <div class="card-foot-row"><span>Thu Jun 25, 12am CEST</span></div>
+        </div>
+      </div>
+      <div class="card is-final">
+        <div class="card-tag final">Final</div>
+        <div class="card-group">Group D</div>
+        <div class="card-teams">
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇹🇷</span><span class="team-name">Turkiye</span></div>
+            <div class="team-score">0</div>
+          </div>
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇵🇾</span><span class="team-name">Paraguay</span></div>
+            <div class="team-score">1</div>
+          </div>
+        </div>
+        <div class="card-foot">
+          <div class="card-foot-row"><span>Houston</span><span class="tv-badge magenta">MagentaTV</span></div>
+          <div class="card-foot-row"><span>Sat Jun 20</span></div>
+        </div>
+      </div>
+      <div class="card is-final">
+        <div class="card-tag final">Final</div>
+        <div class="card-group">Group F</div>
+        <div class="card-teams">
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇳🇱</span><span class="team-name">Netherlands</span></div>
+            <div class="team-score">5</div>
+          </div>
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇸🇪</span><span class="team-name">Sweden</span></div>
+            <div class="team-score">1</div>
+          </div>
+        </div>
+        <div class="card-foot">
+          <div class="card-foot-row"><span>Houston</span><span class="tv-badge zdf">ZDF</span></div>
+          <div class="card-foot-row"><span>Sat Jun 20</span></div>
+        </div>
+      </div>
+      <div class="card is-final">
+        <div class="card-tag final">Final</div>
+        <div class="card-group">Group E</div>
+        <div class="card-teams">
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇩🇪</span><span class="team-name">Germany</span></div>
+            <div class="team-score">2</div>
+          </div>
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇨🇮</span><span class="team-name">Ivory Coast</span></div>
+            <div class="team-score">1</div>
+          </div>
+        </div>
+        <div class="card-foot">
+          <div class="card-foot-row"><span>Toronto</span><span class="tv-badge magenta">MagentaTV</span></div>
+          <div class="card-foot-row"><span>Sat Jun 20</span></div>
+        </div>
+      </div>
+      <div class="card is-final">
+        <div class="card-tag final">Final</div>
+        <div class="card-group">Group E</div>
+        <div class="card-teams">
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇪🇨</span><span class="team-name">Ecuador</span></div>
+            <div class="team-score">0</div>
+          </div>
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇨🇼</span><span class="team-name">Curacao</span></div>
+            <div class="team-score">0</div>
+          </div>
+        </div>
+        <div class="card-foot">
+          <div class="card-foot-row"><span>Monterrey</span><span class="tv-badge magenta">MagentaTV</span></div>
+          <div class="card-foot-row"><span>Sun Jun 21</span></div>
+        </div>
+      </div>
+      <div class="card is-final">
+        <div class="card-tag final">Final</div>
+        <div class="card-group">Group F</div>
+        <div class="card-teams">
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇹🇳</span><span class="team-name">Tunisia</span></div>
+            <div class="team-score">0</div>
+          </div>
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇯🇵</span><span class="team-name">Japan</span></div>
+            <div class="team-score">4</div>
+          </div>
+        </div>
+        <div class="card-foot">
+          <div class="card-foot-row"><span>Monterrey</span><span class="tv-badge magenta">MagentaTV</span></div>
+          <div class="card-foot-row"><span>Sun Jun 21</span></div>
+        </div>
+      </div>
+      <div class="card is-final">
+        <div class="card-tag final">Final</div>
+        <div class="card-group">Group H</div>
+        <div class="card-teams">
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇪🇸</span><span class="team-name">Spain</span></div>
+            <div class="team-score">4</div>
+          </div>
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇸🇦</span><span class="team-name">Saudi Arabia</span></div>
+            <div class="team-score">0</div>
+          </div>
+        </div>
+        <div class="card-foot">
+          <div class="card-foot-row"><span>Miami</span><span class="tv-badge zdf">ZDF</span></div>
+          <div class="card-foot-row"><span>Sun Jun 21</span></div>
+        </div>
+      </div>
+      <div class="card is-final">
+        <div class="card-tag final">Final</div>
+        <div class="card-group">Group G</div>
+        <div class="card-teams">
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇧🇪</span><span class="team-name">Belgium</span></div>
+            <div class="team-score">0</div>
+          </div>
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇮🇷</span><span class="team-name">IR Iran</span></div>
+            <div class="team-score">0</div>
+          </div>
+        </div>
+        <div class="card-foot">
+          <div class="card-foot-row"><span>Los Angeles</span><span class="tv-badge zdf">ZDF</span></div>
+          <div class="card-foot-row"><span>Sun Jun 21</span></div>
+        </div>
+      </div>
+      <div class="card is-final">
+        <div class="card-tag final">Final</div>
+        <div class="card-group">Group H</div>
+        <div class="card-teams">
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇺🇾</span><span class="team-name">Uruguay</span></div>
+            <div class="team-score">2</div>
+          </div>
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇨🇻</span><span class="team-name">Cabo Verde</span></div>
+            <div class="team-score">2</div>
+          </div>
+        </div>
+        <div class="card-foot">
+          <div class="card-foot-row"><span>Guadalajara</span><span class="tv-badge magenta">MagentaTV</span></div>
+          <div class="card-foot-row"><span>Mon Jun 22</span></div>
+        </div>
+      </div>
+      <div class="card is-final">
+        <div class="card-tag final">Final</div>
+        <div class="card-group">Group G</div>
+        <div class="card-teams">
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇳🇿</span><span class="team-name">New Zealand</span></div>
+            <div class="team-score">1</div>
+          </div>
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇪🇬</span><span class="team-name">Egypt</span></div>
+            <div class="team-score">3</div>
+          </div>
+        </div>
+        <div class="card-foot">
+          <div class="card-foot-row"><span>Vancouver</span><span class="tv-badge magenta">MagentaTV</span></div>
+          <div class="card-foot-row"><span>Mon Jun 22</span></div>
+        </div>
+      </div>
+      <div class="card is-final">
+        <div class="card-tag final">Final</div>
+        <div class="card-group">Group J</div>
+        <div class="card-teams">
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇦🇷</span><span class="team-name">Argentina</span></div>
+            <div class="team-score">2</div>
+          </div>
+          <div class="team-row">
+            <div class="team-id"><span class="flag">🇦🇹</span><span class="team-name">Austria</span></div>
+            <div class="team-score">0</div>
+          </div>
+        </div>
+        <div class="card-foot">
+          <div class="card-foot-row"><span>Dallas</span><span class="tv-badge ard">ARD</span></div>
+          <div class="card-foot-row"><span>Mon Jun 22</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ TOP SCORERS ============ -->
+<section class="scorers" id="scorers">
+  <div class="section-head">
+    <h2>Top Scorers</h2>
+    <div class="meta">adidas Golden Boot race</div>
+  </div>
+  <div class="scorers-list">
+    <div class="scorer-row">
+      <div class="scorer-rank gold">1</div>
+      <div class="scorer-info">
+        <div class="scorer-name">Lionel Messi</div>
+        <div class="scorer-country"><span class="flag">🇦🇷</span>Argentina</div>
+      </div>
+      <div class="scorer-goals">3<span>Goals</span></div>
+    </div>
+    <div class="scorer-row">
+      <div class="scorer-rank gold">1</div>
+      <div class="scorer-info">
+        <div class="scorer-name">Jonathan David</div>
+        <div class="scorer-country"><span class="flag">🇨🇦</span>Canada</div>
+      </div>
+      <div class="scorer-goals">3<span>Goals</span></div>
+    </div>
+    <div class="scorer-row">
+      <div class="scorer-rank gold">1</div>
+      <div class="scorer-info">
+        <div class="scorer-name">Denis Undav</div>
+        <div class="scorer-country"><span class="flag">🇩🇪</span>Germany</div>
+      </div>
+      <div class="scorer-goals">3<span>Goals</span></div>
+    </div>
+    <div class="scorer-row">
+      <div class="scorer-rank">4</div>
+      <div class="scorer-info">
+        <div class="scorer-name">Cyle Larin</div>
+        <div class="scorer-country"><span class="flag">🇨🇦</span>Canada</div>
+      </div>
+      <div class="scorer-goals">2<span>Goals</span></div>
+    </div>
+    <div class="scorer-row">
+      <div class="scorer-rank">4</div>
+      <div class="scorer-info">
+        <div class="scorer-name">Ayase Ueda</div>
+        <div class="scorer-country"><span class="flag">🇯🇵</span>Japan</div>
+      </div>
+      <div class="scorer-goals">2<span>Goals</span></div>
+    </div>
+    <div class="scorer-row">
+      <div class="scorer-rank">4</div>
+      <div class="scorer-info">
+        <div class="scorer-name">Matheus Cunha</div>
+        <div class="scorer-country"><span class="flag">🇧🇷</span>Brazil</div>
+      </div>
+      <div class="scorer-goals">2<span>Goals</span></div>
+    </div>
+    <div class="scorer-row">
+      <div class="scorer-rank">4</div>
+      <div class="scorer-info">
+        <div class="scorer-name">Kylian Mbappe</div>
+        <div class="scorer-country"><span class="flag">🇫🇷</span>France</div>
+      </div>
+      <div class="scorer-goals">2<span>Goals</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ TABLES ============ -->
+<section class="tables" id="tables">
+  <div class="tables-head">
+    <h2>Group Standings</h2>
+    <p>Top 2 in each group advance automatically · 8 best third-place teams also qualify for Round of 32</p>
+  </div>
+  <div class="groups-grid" id="groupsGrid">
+    <div class="group-card">
+      <div class="group-head">Group A<span>Top 2 qualify</span></div>
+      <table class="standings">
+        <thead><tr><th class="team-col">Team</th><th>P</th><th>W</th><th>D</th><th>L</th><th>Pts</th></tr></thead>
+        <tbody>
+        <tr class="rank qualify">
+          <td class="team-col"><span class="flag">🇲🇽</span>Mexico</td>
+          <td>2</td><td>2</td><td>0</td><td>0</td>
+          <td class="pts">6</td>
+        </tr>
+        <tr class="rank qualify">
+          <td class="team-col"><span class="flag">🇰🇷</span>Korea Republic</td>
+          <td>2</td><td>1</td><td>0</td><td>1</td>
+          <td class="pts">3</td>
+        </tr>
+        <tr class="rank">
+          <td class="team-col"><span class="flag">🇨🇿</span>Czechia</td>
+          <td>2</td><td>0</td><td>1</td><td>1</td>
+          <td class="pts">1</td>
+        </tr>
+        <tr class="rank">
+          <td class="team-col"><span class="flag">🇿🇦</span>South Africa</td>
+          <td>2</td><td>0</td><td>1</td><td>1</td>
+          <td class="pts">1</td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="group-card">
+      <div class="group-head">Group B<span>Top 2 qualify</span></div>
+      <table class="standings">
+        <thead><tr><th class="team-col">Team</th><th>P</th><th>W</th><th>D</th><th>L</th><th>Pts</th></tr></thead>
+        <tbody>
+        <tr class="rank qualify">
+          <td class="team-col"><span class="flag">🇨🇦</span>Canada</td>
+          <td>2</td><td>1</td><td>1</td><td>0</td>
+          <td class="pts">4</td>
+        </tr>
+        <tr class="rank qualify">
+          <td class="team-col"><span class="flag">🇨🇭</span>Switzerland</td>
+          <td>2</td><td>1</td><td>1</td><td>0</td>
+          <td class="pts">4</td>
+        </tr>
+        <tr class="rank">
+          <td class="team-col"><span class="flag">🇧🇦</span>Bosnia and Herzegovina</td>
+          <td>2</td><td>0</td><td>1</td><td>1</td>
+          <td class="pts">1</td>
+        </tr>
+        <tr class="rank">
+          <td class="team-col"><span class="flag">🇶🇦</span>Qatar</td>
+          <td>2</td><td>0</td><td>1</td><td>1</td>
+          <td class="pts">1</td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="group-card">
+      <div class="group-head">Group C<span>Top 2 qualify</span></div>
+      <table class="standings">
+        <thead><tr><th class="team-col">Team</th><th>P</th><th>W</th><th>D</th><th>L</th><th>Pts</th></tr></thead>
+        <tbody>
+        <tr class="rank qualify">
+          <td class="team-col"><span class="flag">🇧🇷</span>Brazil</td>
+          <td>2</td><td>1</td><td>1</td><td>0</td>
+          <td class="pts">4</td>
+        </tr>
+        <tr class="rank qualify">
+          <td class="team-col"><span class="flag">🇲🇦</span>Morocco</td>
+          <td>2</td><td>1</td><td>1</td><td>0</td>
+          <td class="pts">4</td>
+        </tr>
+        <tr class="rank">
+          <td class="team-col"><span class="flag">🏴</span>Scotland</td>
+          <td>2</td><td>1</td><td>0</td><td>1</td>
+          <td class="pts">3</td>
+        </tr>
+        <tr class="rank">
+          <td class="team-col"><span class="flag">🇭🇹</span>Haiti</td>
+          <td>2</td><td>0</td><td>0</td><td>2</td>
+          <td class="pts">0</td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="group-card">
+      <div class="group-head">Group D<span>Top 2 qualify</span></div>
+      <table class="standings">
+        <thead><tr><th class="team-col">Team</th><th>P</th><th>W</th><th>D</th><th>L</th><th>Pts</th></tr></thead>
+        <tbody>
+        <tr class="rank qualify">
+          <td class="team-col"><span class="flag">🇺🇸</span>USA</td>
+          <td>2</td><td>2</td><td>0</td><td>0</td>
+          <td class="pts">6</td>
+        </tr>
+        <tr class="rank qualify">
+          <td class="team-col"><span class="flag">🇦🇺</span>Australia</td>
+          <td>2</td><td>1</td><td>0</td><td>1</td>
+          <td class="pts">3</td>
+        </tr>
+        <tr class="rank">
+          <td class="team-col"><span class="flag">🇵🇾</span>Paraguay</td>
+          <td>2</td><td>1</td><td>0</td><td>1</td>
+          <td class="pts">3</td>
+        </tr>
+        <tr class="rank">
+          <td class="team-col"><span class="flag">🇹🇷</span>Turkiye</td>
+          <td>2</td><td>0</td><td>0</td><td>2</td>
+          <td class="pts">0</td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="group-card">
+      <div class="group-head">Group E<span>Top 2 qualify</span></div>
+      <table class="standings">
+        <thead><tr><th class="team-col">Team</th><th>P</th><th>W</th><th>D</th><th>L</th><th>Pts</th></tr></thead>
+        <tbody>
+        <tr class="rank qualify">
+          <td class="team-col"><span class="flag">🇩🇪</span>Germany</td>
+          <td>2</td><td>2</td><td>0</td><td>0</td>
+          <td class="pts">6</td>
+        </tr>
+        <tr class="rank qualify">
+          <td class="team-col"><span class="flag">🇨🇮</span>Ivory Coast</td>
+          <td>2</td><td>1</td><td>0</td><td>1</td>
+          <td class="pts">3</td>
+        </tr>
+        <tr class="rank">
+          <td class="team-col"><span class="flag">🇪🇨</span>Ecuador</td>
+          <td>2</td><td>0</td><td>1</td><td>1</td>
+          <td class="pts">1</td>
+        </tr>
+        <tr class="rank">
+          <td class="team-col"><span class="flag">🇨🇼</span>Curacao</td>
+          <td>2</td><td>0</td><td>1</td><td>1</td>
+          <td class="pts">1</td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="group-card">
+      <div class="group-head">Group F<span>Top 2 qualify</span></div>
+      <table class="standings">
+        <thead><tr><th class="team-col">Team</th><th>P</th><th>W</th><th>D</th><th>L</th><th>Pts</th></tr></thead>
+        <tbody>
+        <tr class="rank qualify">
+          <td class="team-col"><span class="flag">🇳🇱</span>Netherlands</td>
+          <td>2</td><td>1</td><td>1</td><td>0</td>
+          <td class="pts">4</td>
+        </tr>
+        <tr class="rank qualify">
+          <td class="team-col"><span class="flag">🇯🇵</span>Japan</td>
+          <td>2</td><td>1</td><td>1</td><td>0</td>
+          <td class="pts">4</td>
+        </tr>
+        <tr class="rank">
+          <td class="team-col"><span class="flag">🇸🇪</span>Sweden</td>
+          <td>2</td><td>1</td><td>0</td><td>1</td>
+          <td class="pts">3</td>
+        </tr>
+        <tr class="rank">
+          <td class="team-col"><span class="flag">🇹🇳</span>Tunisia</td>
+          <td>2</td><td>0</td><td>0</td><td>2</td>
+          <td class="pts">0</td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="group-card">
+      <div class="group-head">Group G<span>Top 2 qualify</span></div>
+      <table class="standings">
+        <thead><tr><th class="team-col">Team</th><th>P</th><th>W</th><th>D</th><th>L</th><th>Pts</th></tr></thead>
+        <tbody>
+        <tr class="rank qualify">
+          <td class="team-col"><span class="flag">🇪🇬</span>Egypt</td>
+          <td>2</td><td>1</td><td>1</td><td>0</td>
+          <td class="pts">4</td>
+        </tr>
+        <tr class="rank qualify">
+          <td class="team-col"><span class="flag">🇮🇷</span>IR Iran</td>
+          <td>2</td><td>0</td><td>2</td><td>0</td>
+          <td class="pts">2</td>
+        </tr>
+        <tr class="rank">
+          <td class="team-col"><span class="flag">🇧🇪</span>Belgium</td>
+          <td>2</td><td>0</td><td>2</td><td>0</td>
+          <td class="pts">2</td>
+        </tr>
+        <tr class="rank">
+          <td class="team-col"><span class="flag">🇳🇿</span>New Zealand</td>
+          <td>2</td><td>0</td><td>1</td><td>1</td>
+          <td class="pts">1</td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="group-card">
+      <div class="group-head">Group H<span>Top 2 qualify</span></div>
+      <table class="standings">
+        <thead><tr><th class="team-col">Team</th><th>P</th><th>W</th><th>D</th><th>L</th><th>Pts</th></tr></thead>
+        <tbody>
+        <tr class="rank qualify">
+          <td class="team-col"><span class="flag">🇪🇸</span>Spain</td>
+          <td>2</td><td>1</td><td>1</td><td>0</td>
+          <td class="pts">4</td>
+        </tr>
+        <tr class="rank qualify">
+          <td class="team-col"><span class="flag">🇺🇾</span>Uruguay</td>
+          <td>2</td><td>0</td><td>2</td><td>0</td>
+          <td class="pts">2</td>
+        </tr>
+        <tr class="rank">
+          <td class="team-col"><span class="flag">🇨🇻</span>Cabo Verde</td>
+          <td>2</td><td>0</td><td>2</td><td>0</td>
+          <td class="pts">2</td>
+        </tr>
+        <tr class="rank">
+          <td class="team-col"><span class="flag">🇸🇦</span>Saudi Arabia</td>
+          <td>2</td><td>0</td><td>1</td><td>1</td>
+          <td class="pts">1</td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="group-card">
+      <div class="group-head">Group I<span>Top 2 qualify</span></div>
+      <table class="standings">
+        <thead><tr><th class="team-col">Team</th><th>P</th><th>W</th><th>D</th><th>L</th><th>Pts</th></tr></thead>
+        <tbody>
+        <tr class="rank qualify">
+          <td class="team-col"><span class="flag">🇳🇴</span>Norway</td>
+          <td>1</td><td>1</td><td>0</td><td>0</td>
+          <td class="pts">3</td>
+        </tr>
+        <tr class="rank qualify">
+          <td class="team-col"><span class="flag">🇫🇷</span>France</td>
+          <td>1</td><td>1</td><td>0</td><td>0</td>
+          <td class="pts">3</td>
+        </tr>
+        <tr class="rank">
+          <td class="team-col"><span class="flag">🇸🇳</span>Senegal</td>
+          <td>1</td><td>0</td><td>0</td><td>1</td>
+          <td class="pts">0</td>
+        </tr>
+        <tr class="rank">
+          <td class="team-col"><span class="flag">🇮🇶</span>Iraq</td>
+          <td>1</td><td>0</td><td>0</td><td>1</td>
+          <td class="pts">0</td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="group-card">
+      <div class="group-head">Group J<span>Top 2 qualify</span></div>
+      <table class="standings">
+        <thead><tr><th class="team-col">Team</th><th>P</th><th>W</th><th>D</th><th>L</th><th>Pts</th></tr></thead>
+        <tbody>
+        <tr class="rank qualify">
+          <td class="team-col"><span class="flag">🇦🇷</span>Argentina</td>
+          <td>2</td><td>2</td><td>0</td><td>0</td>
+          <td class="pts">6</td>
+        </tr>
+        <tr class="rank qualify">
+          <td class="team-col"><span class="flag">🇦🇹</span>Austria</td>
+          <td>2</td><td>1</td><td>0</td><td>1</td>
+          <td class="pts">3</td>
+        </tr>
+        <tr class="rank">
+          <td class="team-col"><span class="flag">🇯🇴</span>Jordan</td>
+          <td>1</td><td>0</td><td>0</td><td>1</td>
+          <td class="pts">0</td>
+        </tr>
+        <tr class="rank">
+          <td class="team-col"><span class="flag">🇩🇿</span>Algeria</td>
+          <td>1</td><td>0</td><td>0</td><td>1</td>
+          <td class="pts">0</td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="group-card">
+      <div class="group-head">Group K<span>Top 2 qualify</span></div>
+      <table class="standings">
+        <thead><tr><th class="team-col">Team</th><th>P</th><th>W</th><th>D</th><th>L</th><th>Pts</th></tr></thead>
+        <tbody>
+        <tr class="rank qualify">
+          <td class="team-col"><span class="flag">🇨🇴</span>Colombia</td>
+          <td>1</td><td>1</td><td>0</td><td>0</td>
+          <td class="pts">3</td>
+        </tr>
+        <tr class="rank qualify">
+          <td class="team-col"><span class="flag">🇨🇩</span>Congo DR</td>
+          <td>1</td><td>0</td><td>1</td><td>0</td>
+          <td class="pts">1</td>
+        </tr>
+        <tr class="rank">
+          <td class="team-col"><span class="flag">🇵🇹</span>Portugal</td>
+          <td>1</td><td>0</td><td>1</td><td>0</td>
+          <td class="pts">1</td>
+        </tr>
+        <tr class="rank">
+          <td class="team-col"><span class="flag">🇺🇿</span>Uzbekistan</td>
+          <td>1</td><td>0</td><td>0</td><td>1</td>
+          <td class="pts">0</td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="group-card">
+      <div class="group-head">Group L<span>Top 2 qualify</span></div>
+      <table class="standings">
+        <thead><tr><th class="team-col">Team</th><th>P</th><th>W</th><th>D</th><th>L</th><th>Pts</th></tr></thead>
+        <tbody>
+        <tr class="rank qualify">
+          <td class="team-col"><span class="flag">🏴</span>England</td>
+          <td>1</td><td>1</td><td>0</td><td>0</td>
+          <td class="pts">3</td>
+        </tr>
+        <tr class="rank qualify">
+          <td class="team-col"><span class="flag">🇬🇭</span>Ghana</td>
+          <td>1</td><td>1</td><td>0</td><td>0</td>
+          <td class="pts">3</td>
+        </tr>
+        <tr class="rank">
+          <td class="team-col"><span class="flag">🇵🇦</span>Panama</td>
+          <td>1</td><td>0</td><td>0</td><td>1</td>
+          <td class="pts">0</td>
+        </tr>
+        <tr class="rank">
+          <td class="team-col"><span class="flag">🇭🇷</span>Croatia</td>
+          <td>1</td><td>0</td><td>0</td><td>1</td>
+          <td class="pts">0</td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<footer>Built while the paint dries · Scores via live feed</footer>
+
+</body>
+</html>
