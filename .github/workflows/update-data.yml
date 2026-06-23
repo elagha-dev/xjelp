@@ -1,9 +1,9 @@
 name: Update World Cup Data
 
 on:
-  workflow_dispatch: {}        # manual "Run workflow" button in the Actions tab
+  workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"     # every 30 minutes (UTC) — edit as you like
+    - cron: "*/30 * * * *"
 
 permissions:
   contents: write
