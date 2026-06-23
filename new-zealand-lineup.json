@@ -1,0 +1,70 @@
+{
+  "formation": "4-2-3-1",
+  "available": true,
+  "note": "Confirmed XI vs Egypt on June 21, 2026.",
+  "lineup": {
+    "gk": [
+      {
+        "number": 1,
+        "name": "Max Crocombe",
+        "club": "Millwall FC"
+      }
+    ],
+    "def": [
+      {
+        "number": 2,
+        "name": "Tim Payne",
+        "club": "Wellington Phoenix"
+      },
+      {
+        "number": 16,
+        "name": "Finn Surman",
+        "club": "Portland Timbers"
+      },
+      {
+        "number": 5,
+        "name": "Michael Boxall",
+        "club": "Minnesota United FC"
+      },
+      {
+        "number": 13,
+        "name": "Liberato Cacace",
+        "club": "Wrexham"
+      }
+    ],
+    "mid": [
+      {
+        "number": 6,
+        "name": "Joe Bell",
+        "club": "Viking FK"
+      },
+      {
+        "number": 8,
+        "name": "Marko Stamenic",
+        "club": "Swansea City"
+      },
+      {
+        "number": 20,
+        "name": "Callum McCowatt",
+        "club": "Silkeborg IF"
+      },
+      {
+        "number": 10,
+        "name": "Sarpreet Singh",
+        "club": "Wellington Phoenix"
+      },
+      {
+        "number": 11,
+        "name": "Elijah Just",
+        "club": "Motherwell FC"
+      }
+    ],
+    "fwd": [
+      {
+        "number": 9,
+        "name": "Chris Wood",
+        "club": "Nottingham Forest"
+      }
+    ]
+  }
+}

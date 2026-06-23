@@ -1,0 +1,70 @@
+{
+  "formation": "4-4-2",
+  "available": true,
+  "note": "Predicted XI for FIFA World Cup 2026 match against Qatar on June 24, 2026.",
+  "lineup": {
+    "gk": [
+      {
+        "number": 1,
+        "name": "Nikola Vasilj",
+        "club": "St. Pauli"
+      }
+    ],
+    "def": [
+      {
+        "number": 7,
+        "name": "Amar Dedic",
+        "club": "SL Benfica"
+      },
+      {
+        "number": 18,
+        "name": "Nikola Katic",
+        "club": "Schalke 04"
+      },
+      {
+        "number": 3,
+        "name": "Dennis Hadzikadunic",
+        "club": "UC Sampdoria"
+      },
+      {
+        "number": 5,
+        "name": "Sead Kolasinac",
+        "club": "Atalanta BC"
+      }
+    ],
+    "mid": [
+      {
+        "number": 19,
+        "name": "Kerim Alajbegovic",
+        "club": "Red Bull Salzburg"
+      },
+      {
+        "number": 14,
+        "name": "Ivan Sunjic",
+        "club": "Pafos FC"
+      },
+      {
+        "number": 6,
+        "name": "Benjamin Tahirovic",
+        "club": "Arsenal"
+      },
+      {
+        "number": 15,
+        "name": "Amar Memic",
+        "club": "FC Viktoria Plzeň"
+      }
+    ],
+    "fwd": [
+      {
+        "number": 10,
+        "name": "Ermedin Demirovic",
+        "club": "VfB Stuttgart"
+      },
+      {
+        "number": 11,
+        "name": "Edin Dzeko",
+        "club": "FC Schalke 04"
+      }
+    ]
+  }
+}

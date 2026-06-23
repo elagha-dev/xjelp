@@ -1,0 +1,187 @@
+{
+  "coach": "Hong Myung-bo",
+  "squad": [
+    {
+      "number": 1,
+      "name": "Kim Seung-gyu",
+      "position": "GK",
+      "club": "FC Tokyo",
+      "caps": 80
+    },
+    {
+      "number": 2,
+      "name": "Lee Han-beom",
+      "position": "DF",
+      "club": "Midtjylland",
+      "caps": 10
+    },
+    {
+      "number": 3,
+      "name": "Lee Gi-hyuk",
+      "position": "DF",
+      "club": "Gangwon",
+      "caps": 1
+    },
+    {
+      "number": 4,
+      "name": "Kim Min-jae",
+      "position": "DF",
+      "club": "Bayern Munich",
+      "caps": 60
+    },
+    {
+      "number": 5,
+      "name": "Kim Tae-hyeon",
+      "position": "DF",
+      "club": "Kashima Antlers",
+      "caps": 15
+    },
+    {
+      "number": 6,
+      "name": "Hwang In-beom",
+      "position": "MF",
+      "club": "Feyenoord",
+      "caps": 70
+    },
+    {
+      "number": 7,
+      "name": "Son Heung-min",
+      "position": "FW",
+      "club": "LAFC",
+      "caps": 140
+    },
+    {
+      "number": 8,
+      "name": "Paik Seung-ho",
+      "position": "MF",
+      "club": "Birmingham",
+      "caps": 30
+    },
+    {
+      "number": 9,
+      "name": "Cho Gue-sung",
+      "position": "FW",
+      "club": "Midtjylland",
+      "caps": 40
+    },
+    {
+      "number": 10,
+      "name": "Lee Jae-sung",
+      "position": "MF",
+      "club": "FSV Mainz",
+      "caps": 65
+    },
+    {
+      "number": 11,
+      "name": "Hwang Hee-chan",
+      "position": "FW",
+      "club": "Wolves",
+      "caps": 55
+    },
+    {
+      "number": 12,
+      "name": "Song Bum-keun",
+      "position": "GK",
+      "club": "Jeonbuk",
+      "caps": 15
+    },
+    {
+      "number": 13,
+      "name": "Lee Tae-seok",
+      "position": "DF",
+      "club": "Austria Wien",
+      "caps": 8
+    },
+    {
+      "number": 14,
+      "name": "Cho Wi-je",
+      "position": "DF",
+      "club": "Jeonbuk",
+      "caps": 5
+    },
+    {
+      "number": 15,
+      "name": "Kim Moon-hwan",
+      "position": "DF",
+      "club": "Daejeon Hana",
+      "caps": 45
+    },
+    {
+      "number": 16,
+      "name": "Park Jin-seob",
+      "position": "DF",
+      "club": "Zhejiang FC",
+      "caps": 12
+    },
+    {
+      "number": 17,
+      "name": "Bae Jun-ho",
+      "position": "MF",
+      "club": "Stoke",
+      "caps": 5
+    },
+    {
+      "number": 18,
+      "name": "Oh Hyeon-gyu",
+      "position": "FW",
+      "club": "Besiktas",
+      "caps": 25
+    },
+    {
+      "number": 19,
+      "name": "Lee Kang-in",
+      "position": "MF",
+      "club": "PSG",
+      "caps": 40
+    },
+    {
+      "number": 20,
+      "name": "Yang Hyun-jun",
+      "position": "MF",
+      "club": "Celtic",
+      "caps": 10
+    },
+    {
+      "number": 21,
+      "name": "Jo Hyeon-woo",
+      "position": "GK",
+      "club": "Ulsan",
+      "caps": 50
+    },
+    {
+      "number": 22,
+      "name": "Seol Young-woo",
+      "position": "DF",
+      "club": "Crvena Zvezda",
+      "caps": 20
+    },
+    {
+      "number": 23,
+      "name": "Jens Castrop",
+      "position": "DF",
+      "club": "Borussia Monchengladbach",
+      "caps": 7
+    },
+    {
+      "number": 24,
+      "name": "Kim Jin-gyu",
+      "position": "MF",
+      "club": "Jeonbuk",
+      "caps": 3
+    },
+    {
+      "number": 25,
+      "name": "Eom Ji-sung",
+      "position": "MF",
+      "club": "Swansea",
+      "caps": 2
+    },
+    {
+      "number": 26,
+      "name": "Lee Dong-gyeong",
+      "position": "MF",
+      "club": "Ulsan",
+      "caps": 8
+    }
+  ]
+}

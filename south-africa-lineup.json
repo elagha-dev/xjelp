@@ -1,0 +1,70 @@
+{
+  "formation": "4-3-3",
+  "available": true,
+  "note": "Predicted XI vs South Korea",
+  "lineup": {
+    "gk": [
+      {
+        "number": null,
+        "name": "Ronwen Williams",
+        "club": "Mamelodi Sundowns"
+      }
+    ],
+    "def": [
+      {
+        "number": null,
+        "name": "Khuliso Mudau",
+        "club": "Mamelodi Sundowns"
+      },
+      {
+        "number": null,
+        "name": "Mbekezeli Mbokazi",
+        "club": "Chicago Fire"
+      },
+      {
+        "number": null,
+        "name": "Ime Okon",
+        "club": "Hannover 96"
+      },
+      {
+        "number": null,
+        "name": "Aubrey Modiba",
+        "club": "Mamelodi Sundowns"
+      }
+    ],
+    "mid": [
+      {
+        "number": null,
+        "name": "Jayden Adams",
+        "club": "Mamelodi Sundowns"
+      },
+      {
+        "number": null,
+        "name": "Thalente Mbatha",
+        "club": "Orlando Pirates"
+      },
+      {
+        "number": null,
+        "name": "Sphephelo Sithole",
+        "club": "CD Tondela"
+      }
+    ],
+    "fwd": [
+      {
+        "number": null,
+        "name": "Thapelo Maseko",
+        "club": "AAL Limol"
+      },
+      {
+        "number": null,
+        "name": "Evidence Makgopa",
+        "club": "Orlando Pirates"
+      },
+      {
+        "number": null,
+        "name": "Oswin Appollis",
+        "club": "Orlando Pirates"
+      }
+    ]
+  }
+}

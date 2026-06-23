@@ -1,0 +1,70 @@
+{
+  "formation": "3-5-2",
+  "available": true,
+  "note": "Predicted XI vs Mexico",
+  "lineup": {
+    "gk": [
+      {
+        "number": 1,
+        "name": "Matej Kovar",
+        "club": "PSV Eindhoven"
+      }
+    ],
+    "def": [
+      {
+        "number": 4,
+        "name": "Robin Hranac",
+        "club": "Hoffenheim"
+      },
+      {
+        "number": 3,
+        "name": "Tomas Holes",
+        "club": "Slavia Prague"
+      },
+      {
+        "number": 7,
+        "name": "Ladislav Krejci",
+        "club": "Wolverhampton Wanderers"
+      }
+    ],
+    "mid": [
+      {
+        "number": 5,
+        "name": "Vladimir Coufal",
+        "club": "Hoffenheim"
+      },
+      {
+        "number": 15,
+        "name": "Michal Sadilek",
+        "club": "Twente"
+      },
+      {
+        "number": 24,
+        "name": "Pavel Sulc",
+        "club": "Lyon"
+      },
+      {
+        "number": 22,
+        "name": "Tomas Soucek",
+        "club": "West Ham United"
+      },
+      {
+        "number": 18,
+        "name": "Alexandr Sojka",
+        "club": "Sparta Prague"
+      }
+    ],
+    "fwd": [
+      {
+        "number": null,
+        "name": "Adam Hlozek",
+        "club": "Hoffenheim"
+      },
+      {
+        "number": 10,
+        "name": "Patrik Schick",
+        "club": "Bayer Leverkusen"
+      }
+    ]
+  }
+}

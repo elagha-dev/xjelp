@@ -1,0 +1,146 @@
+{
+  "coach": "Javier Aguirre",
+  "squad": [
+    {
+      "number": 13,
+      "name": "Guillermo Ochoa",
+      "position": "GK",
+      "club": "AEL Limassol",
+      "caps": 152
+    },
+    {
+      "number": 1,
+      "name": "Raul Rangel",
+      "position": "GK",
+      "club": "Chivas"
+    },
+    {
+      "number": 12,
+      "name": "Carlos Acevedo",
+      "position": "GK",
+      "club": "Santos Laguna"
+    },
+    {
+      "number": 2,
+      "name": "Jorge Sánchez",
+      "position": "DF",
+      "club": "PAOK"
+    },
+    {
+      "number": 3,
+      "name": "César Montes",
+      "position": "DF",
+      "club": "Lokomotiv Moscow"
+    },
+    {
+      "number": 5,
+      "name": "Johan Vásquez",
+      "position": "DF",
+      "club": "Genoa"
+    },
+    {
+      "number": 15,
+      "name": "Israel Reyes",
+      "position": "DF",
+      "club": "Club América"
+    },
+    {
+      "number": 23,
+      "name": "Jesús Gallardo",
+      "position": "DF",
+      "club": "Toluca"
+    },
+    {
+      "number": 20,
+      "name": "Mateo Chávez",
+      "position": "DF",
+      "club": "AZ Alkmaar"
+    },
+    {
+      "number": 4,
+      "name": "Edson Álvarez",
+      "position": "MF",
+      "club": "Fenerbahçe"
+    },
+    {
+      "name": "Luis Romo",
+      "position": "MF",
+      "club": "Chivas"
+    },
+    {
+      "name": "Erik Lira",
+      "position": "MF",
+      "club": "Cruz Azul"
+    },
+    {
+      "name": "Obed Vargas",
+      "position": "MF",
+      "club": "Atlético Madrid"
+    },
+    {
+      "name": "Álvaro Fidalgo",
+      "position": "MF",
+      "club": "Real Betis"
+    },
+    {
+      "name": "Luis Chávez",
+      "position": "MF",
+      "club": "Dynamo Moscow"
+    },
+    {
+      "name": "Brian Gutiérrez",
+      "position": "MF",
+      "club": "Chivas"
+    },
+    {
+      "name": "Gilberto Mora",
+      "position": "MF",
+      "club": "Tijuana"
+    },
+    {
+      "name": "Orbelín Pineda",
+      "position": "MF",
+      "club": "AEK Athens"
+    },
+    {
+      "name": "César Huerta",
+      "position": "MF",
+      "club": "Anderlecht"
+    },
+    {
+      "name": "Roberto Alvarado",
+      "position": "FW",
+      "club": "Chivas"
+    },
+    {
+      "name": "Alexis Vega",
+      "position": "FW",
+      "club": "Toluca"
+    },
+    {
+      "name": "Julián Quiñones",
+      "position": "FW",
+      "club": "Al Qadsiah"
+    },
+    {
+      "name": "Raúl Jiménez",
+      "position": "FW",
+      "club": "Fulham"
+    },
+    {
+      "name": "Santiago Giménez",
+      "position": "FW",
+      "club": "AC Milan"
+    },
+    {
+      "name": "Armando González",
+      "position": "FW",
+      "club": "Chivas"
+    },
+    {
+      "name": "Guillermo Martínez",
+      "position": "FW",
+      "club": "Pumas UNAM"
+    }
+  ]
+}

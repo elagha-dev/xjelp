@@ -1,0 +1,59 @@
+{
+  "formation": "4-4-2",
+  "available": true,
+  "note": "Predicted XI vs Switzerland",
+  "lineup": {
+    "gk": [
+      {
+        "name": "Maxime Crépeau",
+        "club": "Orlando City"
+      }
+    ],
+    "def": [
+      {
+        "name": "Alistair Johnston",
+        "club": "Celtic"
+      },
+      {
+        "name": "Derek Cornelius",
+        "club": "Marseille"
+      },
+      {
+        "name": "Luc De Fougerolles",
+        "club": "Fulham"
+      },
+      {
+        "name": "Richie Laryea",
+        "club": "Toronto FC"
+      }
+    ],
+    "mid": [
+      {
+        "name": "Tajon Buchanan",
+        "club": "Villarreal"
+      },
+      {
+        "name": "Stephen Eustáquio",
+        "club": "Porto"
+      },
+      {
+        "name": "Nathan Saliba",
+        "club": "Anderlecht"
+      },
+      {
+        "name": "Ali Ahmed",
+        "club": "Norwich City"
+      }
+    ],
+    "fwd": [
+      {
+        "name": "Jonathan David",
+        "club": "Juventus"
+      },
+      {
+        "name": "Cyle Larin",
+        "club": "Mallorca"
+      }
+    ]
+  }
+}

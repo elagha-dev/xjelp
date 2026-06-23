@@ -1,0 +1,70 @@
+{
+  "formation": "4-3-3",
+  "available": true,
+  "note": "Predicted XI vs Scotland, World Cup Group C Matchday 3",
+  "lineup": {
+    "gk": [
+      {
+        "number": 1,
+        "name": "Alisson",
+        "club": "Liverpool"
+      }
+    ],
+    "def": [
+      {
+        "number": 13,
+        "name": "Danilo",
+        "club": "Flamengo"
+      },
+      {
+        "number": 4,
+        "name": "Marquinhos",
+        "club": "Paris Saint-Germain"
+      },
+      {
+        "number": 3,
+        "name": "Gabriel Magalhaes",
+        "club": "Arsenal"
+      },
+      {
+        "number": 16,
+        "name": "Douglas Santos",
+        "club": "Zenit"
+      }
+    ],
+    "mid": [
+      {
+        "number": 5,
+        "name": "Casemiro",
+        "club": "Manchester United"
+      },
+      {
+        "number": 8,
+        "name": "Bruno Guimaraes",
+        "club": "Newcastle"
+      },
+      {
+        "number": 20,
+        "name": "Lucas Paqueta",
+        "club": "Flamengo"
+      }
+    ],
+    "fwd": [
+      {
+        "number": 26,
+        "name": "Rayan",
+        "club": "Bournemouth"
+      },
+      {
+        "number": 9,
+        "name": "Matheus Cunha",
+        "club": "Manchester United"
+      },
+      {
+        "number": 7,
+        "name": "Vinicius Junior",
+        "club": "Real Madrid"
+      }
+    ]
+  }
+}

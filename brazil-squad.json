@@ -1,0 +1,187 @@
+{
+  "coach": "Carlo Ancelotti",
+  "squad": [
+    {
+      "number": 1,
+      "name": "Alisson Ramses Becker",
+      "position": "GK",
+      "club": "Liverpool",
+      "caps": 80
+    },
+    {
+      "number": 12,
+      "name": "Ederson Santana de Moraes",
+      "position": "GK",
+      "club": "Fenerbahçe",
+      "caps": 40
+    },
+    {
+      "number": 23,
+      "name": "Weverton Pereira da Silva",
+      "position": "GK",
+      "club": "Grêmio",
+      "caps": 10
+    },
+    {
+      "number": 2,
+      "name": "Danilo Luiz da Silva",
+      "position": "DF",
+      "club": "Flamengo",
+      "caps": 70
+    },
+    {
+      "number": 3,
+      "name": "Gabriel dos Santos Magalhães",
+      "position": "DF",
+      "club": "Arsenal",
+      "caps": 25
+    },
+    {
+      "number": 4,
+      "name": "Marcos Aoás Corrêa",
+      "position": "DF",
+      "club": "Paris Saint-Germain",
+      "caps": 90
+    },
+    {
+      "number": 6,
+      "name": "Alex Sandro Lobo Silva",
+      "position": "DF",
+      "club": "Flamengo",
+      "caps": 60
+    },
+    {
+      "number": 13,
+      "name": "Léo Pereira",
+      "position": "DF",
+      "club": "Flamengo",
+      "caps": 5
+    },
+    {
+      "number": 14,
+      "name": "Douglas dos Santos Justino de Melo",
+      "position": "DF",
+      "club": "Zenit",
+      "caps": 15
+    },
+    {
+      "number": 15,
+      "name": "Gleison Bremer Silva Nascimento",
+      "position": "DF",
+      "club": "Juventus",
+      "caps": 10
+    },
+    {
+      "number": 24,
+      "name": "Roger Ibañez da Silva",
+      "position": "DF",
+      "club": "Al-Ahli",
+      "caps": 8
+    },
+    {
+      "number": 5,
+      "name": "Carlos Henrique Casimiro",
+      "position": "MF",
+      "club": "Manchester United",
+      "caps": 85
+    },
+    {
+      "number": 8,
+      "name": "Bruno Guimarães Rodriguez Moura",
+      "position": "MF",
+      "club": "Newcastle",
+      "caps": 30
+    },
+    {
+      "number": 11,
+      "name": "Fábio Henrique Tavares",
+      "position": "MF",
+      "club": "Al-Ittihad",
+      "caps": 30
+    },
+    {
+      "number": 17,
+      "name": "Lucas Tolentino Coelho de Lima",
+      "position": "MF",
+      "club": "Flamengo",
+      "caps": 50
+    },
+    {
+      "number": 18,
+      "name": "Danilo dos Santos de Oliveria",
+      "position": "MF",
+      "club": "Botafogo",
+      "caps": 10
+    },
+    {
+      "number": 25,
+      "name": "Éderson José dos Santos Lourenço da Silva",
+      "position": "MF",
+      "club": "Atalanta",
+      "caps": 5
+    },
+    {
+      "number": 7,
+      "name": "Vinícius José P. Oliveira Júnior",
+      "position": "FW",
+      "club": "Real Madrid",
+      "caps": 60
+    },
+    {
+      "number": 9,
+      "name": "Matheus Santos Carneiro de Cunha",
+      "position": "FW",
+      "club": "Manchester United",
+      "caps": 20
+    },
+    {
+      "number": 10,
+      "name": "Neymar da Silva Santos Júnior",
+      "position": "FW",
+      "club": "Santos",
+      "caps": 130
+    },
+    {
+      "number": 19,
+      "name": "Raphael Dias Belloli",
+      "position": "FW",
+      "club": "Barcelona",
+      "caps": 35
+    },
+    {
+      "number": 20,
+      "name": "Rayan Vitor Simplico Rocha",
+      "position": "FW",
+      "club": "Bournemouth",
+      "caps": 3
+    },
+    {
+      "number": 21,
+      "name": "Igor Thiago Nascimento Rodrigues",
+      "position": "FW",
+      "club": "Brentford",
+      "caps": 2
+    },
+    {
+      "number": 16,
+      "name": "Endrick Felipe Moreira de Sousa",
+      "position": "FW",
+      "club": "Real Madrid",
+      "caps": 5
+    },
+    {
+      "number": 22,
+      "name": "Luiz Henrique André Rosa da Silva",
+      "position": "FW",
+      "club": "Zenit",
+      "caps": 7
+    },
+    {
+      "number": 26,
+      "name": "Gabriel Teodoro Martinelli Silva",
+      "position": "FW",
+      "club": "Arsenal",
+      "caps": 20
+    }
+  ]
+}

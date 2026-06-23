@@ -1,0 +1,70 @@
+{
+  "formation": "3-4-2-1",
+  "available": true,
+  "note": "Predicted XI vs South Africa, aligning with general World Cup 2026 lineup expectations.",
+  "lineup": {
+    "gk": [
+      {
+        "number": 1,
+        "name": "Kim Seung-gyu",
+        "club": "FC Tokyo"
+      }
+    ],
+    "def": [
+      {
+        "number": 2,
+        "name": "Lee Han-beom",
+        "club": "Midtjylland"
+      },
+      {
+        "number": 4,
+        "name": "Kim Min-jae",
+        "club": "Bayern Munich"
+      },
+      {
+        "number": null,
+        "name": "Lee Gi-hyuk",
+        "club": "Gangwon FC"
+      }
+    ],
+    "mid": [
+      {
+        "number": 15,
+        "name": "Kim Moon-hwan",
+        "club": "Daejeon Hana"
+      },
+      {
+        "number": 6,
+        "name": "Hwang In-beom",
+        "club": "Feyenoord"
+      },
+      {
+        "number": 8,
+        "name": "Paik Seung-ho",
+        "club": "Birmingham City"
+      },
+      {
+        "number": 22,
+        "name": "Seol Young-woo",
+        "club": "Crvena Zvezda"
+      },
+      {
+        "number": 13,
+        "name": "Lee Kang-in",
+        "club": "PSG"
+      },
+      {
+        "number": 10,
+        "name": "Lee Jae-Sung",
+        "club": "Mainz 05"
+      }
+    ],
+    "fwd": [
+      {
+        "number": 7,
+        "name": "Son Heung-Min",
+        "club": "LA FC"
+      }
+    ]
+  }
+}

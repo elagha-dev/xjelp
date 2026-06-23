@@ -1,0 +1,135 @@
+{
+  "coach": "Mohamed Ouahbi",
+  "squad": [
+    {
+      "name": "Yassine Bounou",
+      "position": "GK",
+      "club": "Al-Hilal"
+    },
+    {
+      "name": "Munir El Kajoui",
+      "position": "GK",
+      "club": "RS Berkane"
+    },
+    {
+      "name": "Reda Tagnaouti",
+      "position": "GK",
+      "club": "AS FAR"
+    },
+    {
+      "name": "Achraf Hakimi",
+      "position": "DF",
+      "club": "Paris Saint-Germain"
+    },
+    {
+      "name": "Noussair Mazraoui",
+      "position": "DF",
+      "club": "Manchester United"
+    },
+    {
+      "name": "Anass Salah-Eddine",
+      "position": "DF",
+      "club": "PSV"
+    },
+    {
+      "name": "Youssef Belammari",
+      "position": "DF",
+      "club": "Al Ahly"
+    },
+    {
+      "name": "Zakaria El Ouahdi",
+      "position": "DF",
+      "club": "Genk"
+    },
+    {
+      "name": "Nayef Aguerd",
+      "position": "DF",
+      "club": "Olympique Marseille"
+    },
+    {
+      "name": "Chadi Riad",
+      "position": "DF",
+      "club": "Crystal Palace"
+    },
+    {
+      "name": "Redouane Halhal",
+      "position": "DF",
+      "club": "Mechelen"
+    },
+    {
+      "name": "Issa Diop",
+      "position": "DF",
+      "club": "Fulham"
+    },
+    {
+      "name": "Samir El Mourabet",
+      "position": "MF",
+      "club": "Strasbourg"
+    },
+    {
+      "name": "Ayyoub Bouaddi",
+      "position": "MF",
+      "club": "Lille"
+    },
+    {
+      "name": "Neil El Aynaoui",
+      "position": "MF",
+      "club": "Roma"
+    },
+    {
+      "name": "Sofyan Amrabat",
+      "position": "MF",
+      "club": "Real Betis"
+    },
+    {
+      "name": "Azzedine Ounahi",
+      "position": "MF",
+      "club": "Girona"
+    },
+    {
+      "name": "Bilal El Khannouss",
+      "position": "MF",
+      "club": "VfB Stuttgart"
+    },
+    {
+      "name": "Ismael Saibari",
+      "position": "MF",
+      "club": "PSV"
+    },
+    {
+      "name": "Chemsdine Talbi",
+      "position": "MF",
+      "club": "Sunderland"
+    },
+    {
+      "name": "Yassine Gessime",
+      "position": "MF",
+      "club": "RC Strasbourg"
+    },
+    {
+      "name": "Abde Ezzalzouli",
+      "position": "FW",
+      "club": "Real Betis"
+    },
+    {
+      "name": "Soufiane Rahimi",
+      "position": "FW",
+      "club": "Al Ain"
+    },
+    {
+      "name": "Ayoub El Kaabi",
+      "position": "FW",
+      "club": "Olympiacos"
+    },
+    {
+      "name": "Brahim Diaz",
+      "position": "FW",
+      "club": "Real Madrid C.F."
+    },
+    {
+      "name": "Ayoub Amimouni",
+      "position": "FW",
+      "club": "Eintracht Frankfurt"
+    }
+  ]
+}

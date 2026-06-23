@@ -1,0 +1,70 @@
+{
+  "formation": "4-3-3",
+  "available": true,
+  "note": "Predicted XI for upcoming World Cup 2026 Group A match against Czech Republic on June 25, 2026.",
+  "lineup": {
+    "gk": [
+      {
+        "number": null,
+        "name": "Raul Rangel",
+        "club": "Guadalajara"
+      }
+    ],
+    "def": [
+      {
+        "number": null,
+        "name": "Jorge Sanchez",
+        "club": "PAOK"
+      },
+      {
+        "number": null,
+        "name": "Israel Reyes",
+        "club": null
+      },
+      {
+        "number": null,
+        "name": "Johan Vasquez",
+        "club": "Genoa"
+      },
+      {
+        "number": null,
+        "name": "Jesus Gallardo",
+        "club": "Toluca"
+      }
+    ],
+    "mid": [
+      {
+        "number": null,
+        "name": "Brian Gutierrez",
+        "club": null
+      },
+      {
+        "number": null,
+        "name": "Erik Lira",
+        "club": null
+      },
+      {
+        "number": null,
+        "name": "Luis Romo",
+        "club": "Guadalajara"
+      }
+    ],
+    "fwd": [
+      {
+        "number": null,
+        "name": "Roberto Alvarado",
+        "club": "Guadalajara"
+      },
+      {
+        "number": null,
+        "name": "Santiago Gimenez",
+        "club": "AC Milan"
+      },
+      {
+        "number": null,
+        "name": "Julian Quinones",
+        "club": null
+      }
+    ]
+  }
+}
