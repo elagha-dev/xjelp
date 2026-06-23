@@ -1,0 +1,25 @@
+{
+  "updatedAt": "not yet run",
+  "matches": [
+    {
+      "status": "upcoming",
+      "group": "Group A",
+      "team1": { "name": "Mexico", "flag": "🇲🇽", "score": null },
+      "team2": { "name": "Poland", "flag": "🇵🇱", "score": null },
+      "venue": "Mexico City",
+      "time": "Run the GitHub Action to load real data"
+    }
+  ],
+  "topScorers": [
+    { "rank": 1, "name": "Run the GitHub Action", "country": "—", "flag": "🏳️", "goals": 0 }
+  ],
+  "groups": [
+    {
+      "name": "Group A",
+      "teams": [
+        { "flag": "🇲🇽", "name": "Mexico", "p": 0, "w": 0, "d": 0, "l": 0, "pts": 0, "qualify": false },
+        { "flag": "🇵🇱", "name": "Poland", "p": 0, "w": 0, "d": 0, "l": 0, "pts": 0, "qualify": false }
+      ]
+    }
+  ]
+}
