@@ -1,0 +1,70 @@
+{
+  "formation": "3-4-2-1",
+  "available": true,
+  "note": "Possible XI vs Portugal",
+  "lineup": {
+    "gk": [
+      {
+        "number": 1,
+        "name": "Utkir Yusupov",
+        "club": "Navbahor"
+      }
+    ],
+    "def": [
+      {
+        "number": 2,
+        "name": "Abdukodir Khusanov",
+        "club": "Manchester City"
+      },
+      {
+        "number": 18,
+        "name": "Abdulla Abdullaev",
+        "club": "Dibba"
+      },
+      {
+        "number": 26,
+        "name": "Jakhongir Urozov",
+        "club": "Dinamo Samarqand"
+      }
+    ],
+    "mid": [
+      {
+        "number": 24,
+        "name": "Behruzjon Karimov",
+        "club": "Surkhon"
+      },
+      {
+        "number": 20,
+        "name": "Akmal Mozgovoy",
+        "club": "Pakhtakor"
+      },
+      {
+        "number": 7,
+        "name": "Otabek Shukurov",
+        "club": "Baniyas Club"
+      },
+      {
+        "number": 13,
+        "name": "Sherzod Nasrullaev",
+        "club": "Nasaf"
+      }
+    ],
+    "fwd": [
+      {
+        "number": 10,
+        "name": "Abbosbek Fayzullayev",
+        "club": "Başakşehir FK"
+      },
+      {
+        "number": 19,
+        "name": "Oston Urunov",
+        "club": "Persepolis FC"
+      },
+      {
+        "number": 9,
+        "name": "Eldor Shomurodov",
+        "club": "Başakşehir FK"
+      }
+    ]
+  }
+}

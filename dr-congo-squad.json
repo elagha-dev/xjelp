@@ -1,0 +1,187 @@
+{
+  "coach": "Sébastien Desabre",
+  "squad": [
+    {
+      "number": 1,
+      "name": "Lionel Mpasi",
+      "position": "GK",
+      "club": "Le Havre AC",
+      "caps": 0
+    },
+    {
+      "number": 2,
+      "name": "Timothy Fayulu",
+      "position": "GK",
+      "club": "FC Noah",
+      "caps": 0
+    },
+    {
+      "number": 3,
+      "name": "Matthieu Epolo",
+      "position": "GK",
+      "club": "Standard Liège",
+      "caps": 0
+    },
+    {
+      "number": 4,
+      "name": "Aaron Wan-Bissaka",
+      "position": "DF",
+      "club": "West Ham United FC",
+      "caps": 0
+    },
+    {
+      "number": 5,
+      "name": "Steve Kapuadi",
+      "position": "DF",
+      "club": "Widzew Łódź",
+      "caps": 0
+    },
+    {
+      "number": 6,
+      "name": "Axel Tuanzebe",
+      "position": "DF",
+      "club": "Burnley FC",
+      "caps": 0
+    },
+    {
+      "number": 7,
+      "name": "Dylan Batubinsika",
+      "position": "DF",
+      "club": "AEL FC",
+      "caps": 0
+    },
+    {
+      "number": 8,
+      "name": "Joris Kayembe",
+      "position": "DF",
+      "club": "KRC Genk",
+      "caps": 0
+    },
+    {
+      "number": 9,
+      "name": "Chancel Mbemba",
+      "position": "DF",
+      "club": "Lille OSC",
+      "caps": 0
+    },
+    {
+      "number": 10,
+      "name": "Gedeon Kalulu",
+      "position": "DF",
+      "club": "Aris Limassol FC",
+      "caps": 0
+    },
+    {
+      "number": 11,
+      "name": "Arthur Masuaku",
+      "position": "DF",
+      "club": "RC Lens",
+      "caps": 0
+    },
+    {
+      "number": 12,
+      "name": "Ngalayel Mukau",
+      "position": "MF",
+      "club": "Lille OSC",
+      "caps": 0
+    },
+    {
+      "number": 13,
+      "name": "Nathanael Mbuku",
+      "position": "MF",
+      "club": "Montpellier HSC",
+      "caps": 0
+    },
+    {
+      "number": 14,
+      "name": "Samuel Moutoussamy",
+      "position": "MF",
+      "club": "Atromitos FC",
+      "caps": 0
+    },
+    {
+      "number": 15,
+      "name": "Theo Bongonda",
+      "position": "MF",
+      "club": "FC Spartak Moscow",
+      "caps": 0
+    },
+    {
+      "number": 16,
+      "name": "Noah Sadiki",
+      "position": "MF",
+      "club": "Sunderland AFC",
+      "caps": 0
+    },
+    {
+      "number": 17,
+      "name": "Aaron Tshibola",
+      "position": "MF",
+      "club": "Kilmarnock FC",
+      "caps": 0
+    },
+    {
+      "number": 18,
+      "name": "Charles Pickel",
+      "position": "MF",
+      "club": "RCD Espanyol",
+      "caps": 0
+    },
+    {
+      "number": 19,
+      "name": "Edo Kayembe",
+      "position": "MF",
+      "club": "Watford FC",
+      "caps": 0
+    },
+    {
+      "number": 20,
+      "name": "Brian Cipenga",
+      "position": "FW",
+      "club": "CD Castellón",
+      "caps": 0
+    },
+    {
+      "number": 21,
+      "name": "Gael Kakuta",
+      "position": "FW",
+      "club": "AEL FC",
+      "caps": 0
+    },
+    {
+      "number": 22,
+      "name": "Meschack Elia",
+      "position": "FW",
+      "club": "Alanyaspor",
+      "caps": 0
+    },
+    {
+      "number": 23,
+      "name": "Cedric Bakambu",
+      "position": "FW",
+      "club": "Real Betis",
+      "caps": 0
+    },
+    {
+      "number": 24,
+      "name": "Fiston Mayele",
+      "position": "FW",
+      "club": "Pyramids FC",
+      "caps": 0
+    },
+    {
+      "number": 25,
+      "name": "Yoane Wissa",
+      "position": "FW",
+      "club": "Newcastle United FC",
+      "caps": 0
+    },
+    {
+      "number": 26,
+      "name": "Simon Banza",
+      "position": "FW",
+      "club": "Al Jazira",
+      "caps": 0
+    }
+  ]
+}
