@@ -2,6 +2,11 @@ name: Update World Cup Data
 
 on:
   workflow_dispatch:
+    inputs:
+      with_squads:
+        description: "Also fetch squad/lineup data for all teams (slow, ~10+ min)"
+        type: boolean
+        default: false
   schedule:
     - cron: "*/30 * * * *"
 
@@ -23,7 +28,12 @@ jobs:
       - name: Fetch latest World Cup data
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: node fetch-data.mjs
+        run: |
+          if [ "${{ inputs.with_squads }}" = "true" ]; then
+            node fetch-data.mjs --with-squads
+          else
+            node fetch-data.mjs
+          fi
 
       - name: Commit updated data
         run: |
