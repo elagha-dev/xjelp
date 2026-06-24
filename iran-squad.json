@@ -1,0 +1,187 @@
+{
+  "coach": "Amir Ghalenoei",
+  "squad": [
+    {
+      "number": null,
+      "name": "Alireza Beiranvand",
+      "position": "GK",
+      "club": "Tractor",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Hossein Hosseini",
+      "position": "GK",
+      "club": "Sepahan Esfahan",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Payam Niazmand",
+      "position": "GK",
+      "club": "Persepolis Tehran",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Daniyal Eiri",
+      "position": "DF",
+      "club": "Malavan",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Ehsan Hajsafi",
+      "position": "DF",
+      "club": "Sepahan Esfahan",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Saleh Hardani",
+      "position": "DF",
+      "club": "Esteghlal Tehran",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Hossein Kanaani",
+      "position": "DF",
+      "club": "Persepolis Tehran",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Shoja Khalilzadeh",
+      "position": "DF",
+      "club": "Tractor",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Milad Mohammadi",
+      "position": "DF",
+      "club": "Persepolis Tehran",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Ali Nemati",
+      "position": "DF",
+      "club": "Foolad",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Ramin Rezaeian",
+      "position": "DF",
+      "club": "Foolad",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Rouzbeh Cheshmi",
+      "position": "MF",
+      "club": "Esteghlal Tehran",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Saeid Ezatolahi",
+      "position": "MF",
+      "club": "Shabab Al Ahli",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Mehdi Ghayedi",
+      "position": "MF",
+      "club": "Al-Nasr SC",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Saman Ghoddos",
+      "position": "MF",
+      "club": "Kalba FC",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Mohammad Ghorbani",
+      "position": "MF",
+      "club": "Al Wahda FC",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Alireza Jahanbakhsh",
+      "position": "MF",
+      "club": "F.C.V. Dender E.H.",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Mohammad Mohebi",
+      "position": "MF",
+      "club": "FC Rostov",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Amir Mohammad Razzaghinia",
+      "position": "MF",
+      "club": "Esteghlal Tehran",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Mehdi Torabi",
+      "position": "MF",
+      "club": "Tractor",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Aria Yousefi",
+      "position": "MF",
+      "club": "Sepahan Esfahan",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Ali Alipour",
+      "position": "FW",
+      "club": "Persepolis Tehran",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Dennis Eckert",
+      "position": "FW",
+      "club": "Standard de Liège",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Amirhossein Hosseinzadeh",
+      "position": "FW",
+      "club": "Tractor",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Shahriar Moghanlou",
+      "position": "FW",
+      "club": "Kalba FC",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Mehdi Taremi",
+      "position": "FW",
+      "club": "Olympiacos F.C.",
+      "caps": 103
+    }
+  ]
+}
