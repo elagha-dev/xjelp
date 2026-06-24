@@ -6,182 +6,182 @@
       "name": "Yahia Fofana",
       "position": "GK",
       "club": "Çaykur Rizespor",
-      "caps": null
+      "caps": 0
     },
     {
-      "number": null,
-      "name": "Mohamed Koné",
+      "number": 16,
+      "name": "Mohamed Kone",
       "position": "GK",
-      "club": "Royal Charleroi SC",
-      "caps": null
+      "club": "Charleroi",
+      "caps": 0
     },
     {
-      "number": null,
+      "number": 23,
       "name": "Alban Lafont",
       "position": "GK",
-      "club": "Panathinaikos F.C.",
-      "caps": null
+      "club": "Panathinaikos",
+      "caps": 0
     },
     {
-      "number": null,
+      "number": 2,
       "name": "Emmanuel Agbadou",
       "position": "DF",
-      "club": "Beşiktaş",
-      "caps": null
+      "club": "Besiktas",
+      "caps": 0
     },
     {
-      "number": null,
+      "number": 3,
       "name": "Christopher Operi",
       "position": "DF",
       "club": "Istanbul Basaksehir",
-      "caps": null
+      "caps": 0
     },
     {
-      "number": null,
+      "number": 4,
       "name": "Ousmane Diomande",
       "position": "DF",
       "club": "Sporting CP",
-      "caps": null
-    },
-    {
-      "number": null,
-      "name": "Guela Doue",
-      "position": "DF",
-      "club": "RC Strasbourg",
-      "caps": null
-    },
-    {
-      "number": null,
-      "name": "Ghislain Konan",
-      "position": "DF",
-      "club": "Gil Vicente",
-      "caps": null
-    },
-    {
-      "number": null,
-      "name": "Odilon Kossounou",
-      "position": "DF",
-      "club": "Atalanta",
-      "caps": null
+      "caps": 0
     },
     {
       "number": 5,
+      "name": "Guela Doue",
+      "position": "DF",
+      "club": "Strasbourg",
+      "caps": 0
+    },
+    {
+      "number": 6,
+      "name": "Ghislain Konan",
+      "position": "DF",
+      "club": "Gil Vicente",
+      "caps": 0
+    },
+    {
+      "number": 7,
+      "name": "Odilon Kossounou",
+      "position": "DF",
+      "club": "Atalanta",
+      "caps": 0
+    },
+    {
+      "number": 8,
       "name": "Wilfried Singo",
       "position": "DF",
       "club": "Galatasaray",
-      "caps": null
+      "caps": 0
     },
     {
-      "number": null,
+      "number": 9,
       "name": "Evan Ndicka",
       "position": "DF",
-      "club": "AS Roma",
-      "caps": null
+      "club": "Roma",
+      "caps": 0
     },
     {
-      "number": null,
+      "number": 10,
       "name": "Seko Fofana",
       "position": "MF",
-      "club": "FC Porto",
-      "caps": null
+      "club": "Porto",
+      "caps": 0
     },
     {
-      "number": null,
+      "number": 11,
       "name": "Parfait Guiagon",
       "position": "MF",
-      "club": "Sporting Charleroi",
-      "caps": null
+      "club": "Charleroi",
+      "caps": 0
     },
     {
-      "number": null,
-      "name": "Christ Inao Oulaï",
+      "number": 12,
+      "name": "Christ Inao Oulai",
       "position": "MF",
-      "club": "Trabzonspor Kulübü",
-      "caps": null
+      "club": "Trabzonspor",
+      "caps": 0
     },
     {
-      "number": null,
-      "name": "Franck Kessié",
+      "number": 13,
+      "name": "Franck Kessie",
       "position": "MF",
       "club": "Al-Ahli",
       "caps": 100
     },
     {
-      "number": null,
-      "name": "Ibrahim Sangaré",
+      "number": 14,
+      "name": "Ibrahim Sangare",
       "position": "MF",
-      "club": "Nottingham Forest F.C.",
-      "caps": null
+      "club": "Nottingham Forest",
+      "caps": 0
     },
     {
-      "number": null,
-      "name": "Jean-Mickaël Seri",
+      "number": 15,
+      "name": "Jean Michael Seri",
       "position": "MF",
-      "club": "NK Maribor",
-      "caps": null
+      "club": "Maribor",
+      "caps": 0
     },
     {
-      "number": null,
+      "number": 17,
       "name": "Simon Adingra",
       "position": "FW",
       "club": "Monaco",
-      "caps": null
+      "caps": 0
     },
     {
-      "number": null,
+      "number": 18,
       "name": "Ange-Yoan Bonny",
       "position": "FW",
       "club": "Inter",
-      "caps": null
+      "caps": 0
     },
     {
-      "number": null,
+      "number": 19,
       "name": "Amad Diallo",
       "position": "FW",
       "club": "Manchester United",
-      "caps": null
+      "caps": 0
     },
     {
-      "number": null,
+      "number": 20,
       "name": "Oumar Diakité",
       "position": "FW",
       "club": "Cercle Brugge",
-      "caps": null
+      "caps": 0
     },
     {
-      "number": null,
+      "number": 21,
       "name": "Yan Diomande",
       "position": "FW",
       "club": "RB Leipzig",
-      "caps": 11
+      "caps": 0
     },
     {
-      "number": null,
+      "number": 22,
       "name": "Evann Guessand",
       "position": "FW",
       "club": "Crystal Palace",
-      "caps": null
+      "caps": 0
     },
     {
-      "number": null,
+      "number": 24,
       "name": "Nicolas Pepe",
       "position": "FW",
       "club": "Villarreal",
-      "caps": null
+      "caps": 0
     },
     {
-      "number": null,
+      "number": 25,
       "name": "Bazoumana Toure",
       "position": "FW",
       "club": "TSG Hoffenheim",
-      "caps": null
+      "caps": 0
     },
     {
-      "number": null,
+      "number": 26,
       "name": "Elye Wahi",
       "position": "FW",
       "club": "Nice",
-      "caps": null
+      "caps": 0
     }
   ]
 }

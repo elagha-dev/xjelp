@@ -1,0 +1,70 @@
+{
+  "formation": "4-4-2",
+  "available": true,
+  "note": "Predicted XI vs Australia",
+  "lineup": {
+    "gk": [
+      {
+        "number": 12,
+        "name": "Orlando Gill",
+        "club": "San Lorenzo"
+      }
+    ],
+    "def": [
+      {
+        "number": 4,
+        "name": "Juan Jose Caceres",
+        "club": "Dynamo Moscow"
+      },
+      {
+        "number": 3,
+        "name": "Omar Alderete",
+        "club": "Sunderland"
+      },
+      {
+        "number": 15,
+        "name": "Gustavo Gomez",
+        "club": "Palmeiras"
+      },
+      {
+        "number": 6,
+        "name": "Junior Alonso",
+        "club": "Atlético Mineiro"
+      }
+    ],
+    "mid": [
+      {
+        "number": 23,
+        "name": "Matias Galarza",
+        "club": "Talleres"
+      },
+      {
+        "number": 16,
+        "name": "Damian Bobadilla",
+        "club": "São Paulo"
+      },
+      {
+        "number": 14,
+        "name": "Andres Cubas",
+        "club": "Vancouver Whitecaps FC"
+      },
+      {
+        "number": 8,
+        "name": "Diego Gomez",
+        "club": "Brighton & Hove Albion"
+      }
+    ],
+    "fwd": [
+      {
+        "number": 9,
+        "name": "Antonio Sanabria",
+        "club": "Torino"
+      },
+      {
+        "number": 19,
+        "name": "Julio Enciso",
+        "club": "Strasbourg"
+      }
+    ]
+  }
+}
