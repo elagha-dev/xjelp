@@ -1,7 +1,7 @@
 {
   "formation": "4-3-3",
   "available": true,
-  "note": "Predicted XI vs South Korea",
+  "note": "Predicted XI vs South Korea (June 24, 2026)",
   "lineup": {
     "gk": [
       {
@@ -18,13 +18,13 @@
       },
       {
         "number": null,
-        "name": "Mbekezeli Mbokazi",
-        "club": "Chicago Fire"
+        "name": "Ime Okon",
+        "club": "Hannover 96"
       },
       {
         "number": null,
-        "name": "Ime Okon",
-        "club": "Hannover 96"
+        "name": "Mbekezeli Mbokazi",
+        "club": "Chicago Fire"
       },
       {
         "number": null,
@@ -35,11 +35,6 @@
     "mid": [
       {
         "number": null,
-        "name": "Jayden Adams",
-        "club": "Mamelodi Sundowns"
-      },
-      {
-        "number": null,
         "name": "Thalente Mbatha",
         "club": "Orlando Pirates"
       },
@@ -47,23 +42,28 @@
         "number": null,
         "name": "Sphephelo Sithole",
         "club": "CD Tondela"
+      },
+      {
+        "number": null,
+        "name": "Jayden Adams",
+        "club": "Mamelodi Sundowns"
       }
     ],
     "fwd": [
       {
         "number": null,
         "name": "Thapelo Maseko",
-        "club": "AAL Limol"
-      },
-      {
-        "number": null,
-        "name": "Evidence Makgopa",
-        "club": "Orlando Pirates"
+        "club": "AEL Limassol"
       },
       {
         "number": null,
         "name": "Oswin Appollis",
         "club": "Orlando Pirates"
+      },
+      {
+        "number": null,
+        "name": "Iqraam Rayners",
+        "club": "Mamelodi Sundowns"
       }
     ]
   }
