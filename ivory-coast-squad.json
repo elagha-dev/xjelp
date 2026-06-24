@@ -1,0 +1,187 @@
+{
+  "coach": "Emerse Faé",
+  "squad": [
+    {
+      "number": 1,
+      "name": "Yahia Fofana",
+      "position": "GK",
+      "club": "Çaykur Rizespor",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Mohamed Koné",
+      "position": "GK",
+      "club": "Royal Charleroi SC",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Alban Lafont",
+      "position": "GK",
+      "club": "Panathinaikos F.C.",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Emmanuel Agbadou",
+      "position": "DF",
+      "club": "Beşiktaş",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Christopher Operi",
+      "position": "DF",
+      "club": "Istanbul Basaksehir",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Ousmane Diomande",
+      "position": "DF",
+      "club": "Sporting CP",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Guela Doue",
+      "position": "DF",
+      "club": "RC Strasbourg",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Ghislain Konan",
+      "position": "DF",
+      "club": "Gil Vicente",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Odilon Kossounou",
+      "position": "DF",
+      "club": "Atalanta",
+      "caps": null
+    },
+    {
+      "number": 5,
+      "name": "Wilfried Singo",
+      "position": "DF",
+      "club": "Galatasaray",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Evan Ndicka",
+      "position": "DF",
+      "club": "AS Roma",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Seko Fofana",
+      "position": "MF",
+      "club": "FC Porto",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Parfait Guiagon",
+      "position": "MF",
+      "club": "Sporting Charleroi",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Christ Inao Oulaï",
+      "position": "MF",
+      "club": "Trabzonspor Kulübü",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Franck Kessié",
+      "position": "MF",
+      "club": "Al-Ahli",
+      "caps": 100
+    },
+    {
+      "number": null,
+      "name": "Ibrahim Sangaré",
+      "position": "MF",
+      "club": "Nottingham Forest F.C.",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Jean-Mickaël Seri",
+      "position": "MF",
+      "club": "NK Maribor",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Simon Adingra",
+      "position": "FW",
+      "club": "Monaco",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Ange-Yoan Bonny",
+      "position": "FW",
+      "club": "Inter",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Amad Diallo",
+      "position": "FW",
+      "club": "Manchester United",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Oumar Diakité",
+      "position": "FW",
+      "club": "Cercle Brugge",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Yan Diomande",
+      "position": "FW",
+      "club": "RB Leipzig",
+      "caps": 11
+    },
+    {
+      "number": null,
+      "name": "Evann Guessand",
+      "position": "FW",
+      "club": "Crystal Palace",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Nicolas Pepe",
+      "position": "FW",
+      "club": "Villarreal",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Bazoumana Toure",
+      "position": "FW",
+      "club": "TSG Hoffenheim",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Elye Wahi",
+      "position": "FW",
+      "club": "Nice",
+      "caps": null
+    }
+  ]
+}

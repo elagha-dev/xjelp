@@ -1,0 +1,70 @@
+{
+  "formation": "4-3-3",
+  "available": true,
+  "note": "Predicted XI vs Curaçao",
+  "lineup": {
+    "gk": [
+      {
+        "number": 1,
+        "name": "Yahia Fofana",
+        "club": "Çaykur Rizespor"
+      }
+    ],
+    "def": [
+      {
+        "number": 17,
+        "name": "Guela Doue",
+        "club": "Strasbourg"
+      },
+      {
+        "number": 7,
+        "name": "Odilon Kossounou",
+        "club": "Atalanta"
+      },
+      {
+        "number": 20,
+        "name": "Emmanuel Agbadou",
+        "club": "Besiktas"
+      },
+      {
+        "number": 3,
+        "name": "Ghislain Konan",
+        "club": "Gil Vicente"
+      }
+    ],
+    "mid": [
+      {
+        "number": 8,
+        "name": "Franck Kessie",
+        "club": "Al-Ahli"
+      },
+      {
+        "number": 18,
+        "name": "Ibrahim Sangare",
+        "club": "Nottingham Forest"
+      },
+      {
+        "number": 26,
+        "name": "Christ Inao Oulai",
+        "club": "Trabzonspor"
+      }
+    ],
+    "fwd": [
+      {
+        "number": 19,
+        "name": "Nicolas Pepe",
+        "club": "Villarreal"
+      },
+      {
+        "number": 9,
+        "name": "Ange-Yoan Bonny",
+        "club": "Internazionale"
+      },
+      {
+        "number": 11,
+        "name": "Yan Diomande",
+        "club": "RB Leipzig"
+      }
+    ]
+  }
+}
