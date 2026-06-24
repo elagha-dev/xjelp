@@ -1,58 +1,69 @@
 {
   "formation": "4-4-2",
   "available": true,
-  "note": "Predicted XI vs Switzerland",
+  "note": "Predicted XI vs Switzerland, June 24, 2026. Alphonso Davies is available from the bench due to injury recovery.",
   "lineup": {
     "gk": [
       {
+        "number": null,
         "name": "Maxime Crépeau",
         "club": "Orlando City"
       }
     ],
     "def": [
       {
+        "number": null,
         "name": "Alistair Johnston",
         "club": "Celtic"
       },
       {
+        "number": null,
+        "name": "Luc de Fougerolles",
+        "club": "FCV Dender"
+      },
+      {
+        "number": null,
         "name": "Derek Cornelius",
-        "club": "Marseille"
+        "club": "Rangers"
       },
       {
-        "name": "Luc De Fougerolles",
-        "club": "Fulham"
-      },
-      {
+        "number": null,
         "name": "Richie Laryea",
         "club": "Toronto FC"
       }
     ],
     "mid": [
       {
+        "number": null,
         "name": "Tajon Buchanan",
         "club": "Villarreal"
       },
       {
+        "number": null,
         "name": "Stephen Eustáquio",
-        "club": "Porto"
+        "club": "LAFC"
       },
       {
+        "number": null,
         "name": "Nathan Saliba",
-        "club": "Anderlecht"
+        "club": "CF Montréal"
       },
       {
+        "number": null,
         "name": "Ali Ahmed",
         "club": "Norwich City"
       }
     ],
     "fwd": [
       {
+        "number": null,
         "name": "Jonathan David",
         "club": "Juventus"
       },
       {
+        "number": null,
         "name": "Cyle Larin",
-        "club": "Mallorca"
+        "club": "Southampton"
       }
     ]
   }

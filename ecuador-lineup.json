@@ -1,0 +1,59 @@
+{
+  "formation": "3-5-2",
+  "available": true,
+  "note": "Predicted XI vs Germany (June 25, 2026)",
+  "lineup": {
+    "gk": [
+      {
+        "name": "Hernán Galíndez",
+        "club": "Huracán"
+      }
+    ],
+    "def": [
+      {
+        "name": "Piero Hincapié",
+        "club": "Arsenal"
+      },
+      {
+        "name": "Willian Pacho",
+        "club": "PSG"
+      },
+      {
+        "name": "Alan Franco",
+        "club": "Atlético Mineiro"
+      }
+    ],
+    "mid": [
+      {
+        "name": "Pervis Estupiñán",
+        "club": "AC Milan"
+      },
+      {
+        "name": "Jordy Alcívar",
+        "club": "Independiente del Valle"
+      },
+      {
+        "name": "Moisés Caicedo",
+        "club": "Chelsea"
+      },
+      {
+        "name": "Pedro Vite",
+        "club": "Pumas UNAM"
+      },
+      {
+        "name": "John Yeboah",
+        "club": "Venezia FC"
+      }
+    ],
+    "fwd": [
+      {
+        "name": "Enner Valencia",
+        "club": "CF Pachuca"
+      },
+      {
+        "name": "Gonzalo Plata",
+        "club": "CR Flamengo"
+      }
+    ]
+  }
+}

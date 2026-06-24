@@ -2,182 +2,189 @@
   "coach": "Jesse Marsch",
   "squad": [
     {
-      "number": 1,
+      "number": 0,
       "name": "Maxime Crépeau",
       "position": "GK",
       "club": "Orlando City SC",
-      "caps": 30
-    },
-    {
-      "number": 18,
-      "name": "Dayne St. Clair",
-      "position": "GK",
-      "club": "Inter Miami FC",
-      "caps": 20
-    },
-    {
-      "number": 23,
-      "name": "Owen Goodman",
-      "position": "GK",
-      "club": "Barnsley FC (on loan from Crystal Palace FC)",
       "caps": 0
     },
     {
-      "number": 2,
-      "name": "Alistair Johnston",
-      "position": "DF",
-      "club": "Celtic FC",
-      "caps": 60
+      "number": 0,
+      "name": "Owen Goodman",
+      "position": "GK",
+      "club": "Barnsley (on loan from Crystal Palace FC)",
+      "caps": 0
     },
     {
-      "number": 3,
-      "name": "Sam Adekugbe",
-      "position": "DF",
-      "club": "Vancouver Whitecaps FC",
-      "caps": 44
+      "number": 0,
+      "name": "Dayne St. Clair",
+      "position": "GK",
+      "club": "Inter Miami FC",
+      "caps": 0
     },
     {
-      "number": 4,
+      "number": 0,
       "name": "Moïse Bombito",
       "position": "DF",
       "club": "OGC Nice",
       "caps": 0
     },
     {
-      "number": 5,
+      "number": 0,
       "name": "Derek Cornelius",
       "position": "DF",
-      "club": "Olympique de Marseille",
-      "caps": 46
-    },
-    {
-      "number": 6,
-      "name": "Joel Waterman",
-      "position": "DF",
-      "club": "Chicago Fire FC",
+      "club": "Rangers (on loan from Olympique de Marseille)",
       "caps": 0
     },
     {
-      "number": 15,
+      "number": 0,
+      "name": "Alphonso Davies",
+      "position": "DF",
+      "club": "Bayern Munich",
+      "caps": 0
+    },
+    {
+      "number": 0,
       "name": "Luc de Fougerolles",
       "position": "DF",
-      "club": "Fulham FC",
+      "club": "FCV Dender (on loan from Fulham FC)",
       "caps": 0
     },
     {
-      "number": 16,
-      "name": "Richie Laryea",
+      "number": 0,
+      "name": "Alistair Johnston",
       "position": "DF",
-      "club": "Toronto FC",
-      "caps": 50
+      "club": "Celtic FC",
+      "caps": 0
     },
     {
-      "number": 22,
+      "number": 0,
       "name": "Alfie Jones",
       "position": "DF",
       "club": "Middlesbrough FC",
       "caps": 0
     },
     {
-      "number": 24,
-      "name": "Niko Sigur",
+      "number": 0,
+      "name": "Richie Laryea",
       "position": "DF",
-      "club": "Hadjuk Split",
-      "caps": 0
-    },
-    {
-      "number": 7,
-      "name": "Stephen Eustáquio",
-      "position": "MF",
-      "club": "FC Porto",
-      "caps": 58
-    },
-    {
-      "number": 8,
-      "name": "Ismaël Koné",
-      "position": "MF",
-      "club": "U.S. Sassuolo Calcio",
-      "caps": 0
-    },
-    {
-      "number": 14,
-      "name": "Mark-Anthony Kaye",
-      "position": "MF",
-      "club": "Sacramento Republic FC",
-      "caps": 42
-    },
-    {
-      "number": 17,
-      "name": "Jonathan Osorio",
-      "position": "MF",
       "club": "Toronto FC",
       "caps": 0
     },
     {
-      "number": 19,
-      "name": "Tajon Buchanan",
-      "position": "MF",
-      "club": "Villarreal CF",
-      "caps": 51
+      "number": 0,
+      "name": "Niko Sigur",
+      "position": "DF",
+      "club": "Hajduk Split",
+      "caps": 0
     },
     {
-      "number": 20,
-      "name": "Liam Millar",
-      "position": "MF",
-      "club": "Hull City FC",
-      "caps": 30
+      "number": 0,
+      "name": "Joel Waterman",
+      "position": "DF",
+      "club": "Chicago Fire FC",
+      "caps": 0
     },
     {
-      "number": 21,
-      "name": "Jacob Shaffelburg",
-      "position": "MF",
-      "club": "Los Angeles FC",
-      "caps": 31
-    },
-    {
-      "number": 25,
+      "number": 0,
       "name": "Ali Ahmed",
       "position": "MF",
       "club": "Norwich City FC",
       "caps": 0
     },
     {
-      "number": 26,
-      "name": "Mathieu Choinière",
+      "number": 0,
+      "name": "Tajon Buchanan",
       "position": "MF",
-      "club": "Los Angeles FC",
+      "club": "Villarreal CF",
       "caps": 0
     },
     {
-      "number": 10,
+      "number": 0,
+      "name": "Mathieu Choinière",
+      "position": "MF",
+      "club": "LAFC",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Stephen Eustáquio",
+      "position": "MF",
+      "club": "LAFC (on loan from FC Porto)",
+      "caps": 0
+    },
+    {
+      "number": 0,
       "name": "Marcelo Flores",
       "position": "MF",
       "club": "Tigres UANL",
       "caps": 0
     },
     {
-      "number": 9,
+      "number": 0,
+      "name": "Ismaël Koné",
+      "position": "MF",
+      "club": "U.S. Sassuolo Calcio",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Liam Millar",
+      "position": "MF",
+      "club": "Hull City FC",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Jayden Nelson",
+      "position": "MF",
+      "club": "Austin FC",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Jonathan Osorio",
+      "position": "MF",
+      "club": "Toronto FC",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Nathan Saliba",
+      "position": "MF",
+      "club": "R.S.C. Anderlecht",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Jacob Shaffelburg",
+      "position": "MF",
+      "club": "LAFC",
+      "caps": 0
+    },
+    {
+      "number": 0,
       "name": "Jonathan David",
       "position": "FW",
       "club": "Juventus FC",
-      "caps": 45
+      "caps": 0
     },
     {
-      "number": 11,
-      "name": "Cyle Larin",
-      "position": "FW",
-      "club": "Southampton FC",
-      "caps": 90
-    },
-    {
-      "number": 12,
+      "number": 0,
       "name": "Promise David",
       "position": "FW",
       "club": "Royale Union Saint-Gilloise",
       "caps": 0
     },
     {
-      "number": 13,
+      "number": 0,
+      "name": "Cyle Larin",
+      "position": "FW",
+      "club": "Southampton (on loan from RCD Mallorca)",
+      "caps": 0
+    },
+    {
+      "number": 0,
       "name": "Tani Oluwaseyi",
       "position": "FW",
       "club": "Villarreal CF",

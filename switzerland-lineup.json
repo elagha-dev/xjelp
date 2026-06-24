@@ -1,69 +1,69 @@
 {
   "formation": "4-2-3-1",
   "available": true,
-  "note": "Predicted starting XI for the FIFA World Cup 2026 Group B match against Canada.",
+  "note": "Confirmed XI vs Canada",
   "lineup": {
     "gk": [
       {
         "number": 1,
-        "name": "Kobel",
+        "name": "Gregor Kobel",
         "club": "Borussia Dortmund"
       }
     ],
     "def": [
       {
-        "number": 3,
-        "name": "Widmer",
-        "club": "Mainz 05"
-      },
-      {
-        "number": 5,
-        "name": "Akanji",
-        "club": "Inter"
+        "number": 2,
+        "name": "Luca Jaquez",
+        "club": "Stuttgart"
       },
       {
         "number": 4,
-        "name": "Elvedi",
+        "name": "Nico Elvedi",
         "club": "Borussia Mönchengladbach"
       },
       {
+        "number": 5,
+        "name": "Manuel Akanji",
+        "club": "Inter Milan"
+      },
+      {
         "number": 13,
-        "name": "Rodriguez",
-        "club": "Betis"
+        "name": "Ricardo Rodríguez",
+        "club": "Real Betis"
       }
     ],
     "mid": [
       {
-        "number": 10,
-        "name": "Xhaka",
-        "club": "Sunderland"
-      },
-      {
         "number": 8,
-        "name": "Freuler",
+        "name": "Remo Freuler",
         "club": "Bologna"
       },
       {
-        "number": 11,
-        "name": "Ndoye",
-        "club": "Nottingham Forest"
-      },
-      {
-        "number": 9,
-        "name": "Manzambi",
-        "club": "Friburgo"
+        "number": 10,
+        "name": "Granit Xhaka",
+        "club": "Sunderland"
       },
       {
         "number": 17,
-        "name": "Vargas",
+        "name": "Rubén Vargas",
+        "club": "Sevilla"
+      },
+      {
+        "number": 20,
+        "name": "Michel Aebischer",
+        "club": "Pisa"
+      },
+      {
+        "number": 23,
+        "name": "Djibril Sow",
         "club": "Sevilla"
       }
     ],
     "fwd": [
       {
         "number": 7,
-        "name": "Embolo",
-        "club": "Stade Rennes"
+        "name": "Breel Embolo",
+        "club": "Stade Rennais"
       }
     ]
   }

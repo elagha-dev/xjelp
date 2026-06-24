@@ -5,7 +5,7 @@
       "number": 1,
       "name": "Raúl Rangel",
       "position": "GK",
-      "club": "Guadalajara",
+      "club": "Chivas",
       "caps": 0
     },
     {
@@ -20,34 +20,13 @@
       "name": "Guillermo Ochoa",
       "position": "GK",
       "club": "AEL Limassol",
-      "caps": 152
-    },
-    {
-      "number": 2,
-      "name": "Jorge Sánchez",
-      "position": "DF",
-      "club": "PAOK",
       "caps": 0
     },
     {
-      "number": 3,
-      "name": "César Montes",
+      "number": 4,
+      "name": "Edson Álvarez",
       "position": "DF",
-      "club": "Lokomotiv Moscow",
-      "caps": 0
-    },
-    {
-      "number": 5,
-      "name": "Johan Vásquez",
-      "position": "DF",
-      "club": "Genoa",
-      "caps": 0
-    },
-    {
-      "number": 15,
-      "name": "Israel Reyes",
-      "position": "DF",
-      "club": "Club América",
+      "club": "Fenerbahçe",
       "caps": 0
     },
     {
@@ -65,10 +44,52 @@
       "caps": 0
     },
     {
-      "number": 4,
-      "name": "Edson Álvarez",
+      "number": 3,
+      "name": "César Montes",
+      "position": "DF",
+      "club": "Lokomotiv Moscow",
+      "caps": 0
+    },
+    {
+      "number": 15,
+      "name": "Israel Reyes",
+      "position": "DF",
+      "club": "Club América",
+      "caps": 0
+    },
+    {
+      "number": 2,
+      "name": "Jorge Sánchez",
+      "position": "DF",
+      "club": "PAOK",
+      "caps": 0
+    },
+    {
+      "number": 5,
+      "name": "Johan Vásquez",
+      "position": "DF",
+      "club": "Genoa",
+      "caps": 0
+    },
+    {
+      "number": 24,
+      "name": "Luis Chávez",
       "position": "MF",
-      "club": "West Ham",
+      "club": "Dynamo Moscow",
+      "caps": 0
+    },
+    {
+      "number": 8,
+      "name": "Álvaro Fidalgo",
+      "position": "MF",
+      "club": "Real Betis",
+      "caps": 0
+    },
+    {
+      "number": 26,
+      "name": "Brian Gutiérrez",
+      "position": "MF",
+      "club": "Chivas",
       "caps": 0
     },
     {
@@ -79,17 +100,17 @@
       "caps": 0
     },
     {
-      "number": 7,
-      "name": "Luis Romo",
+      "number": 19,
+      "name": "Gilberto Mora",
       "position": "MF",
-      "club": "Guadalajara",
+      "club": "Club Tijuana",
       "caps": 0
     },
     {
-      "number": 8,
-      "name": "Álvaro Fidalgo",
+      "number": 7,
+      "name": "Luis Romo",
       "position": "MF",
-      "club": "Betis",
+      "club": "Chivas",
       "caps": 0
     },
     {
@@ -107,52 +128,10 @@
       "caps": 0
     },
     {
-      "number": 19,
-      "name": "Gilberto Mora",
-      "position": "MF",
-      "club": "Tijuana",
-      "caps": 0
-    },
-    {
-      "number": 21,
-      "name": "César Huerta",
-      "position": "MF",
-      "club": "Anderlecht",
-      "caps": 0
-    },
-    {
-      "number": 24,
-      "name": "Luis Chávez",
-      "position": "MF",
-      "club": "Dynamo Moscow",
-      "caps": 0
-    },
-    {
       "number": 25,
       "name": "Roberto Alvarado",
-      "position": "MF",
-      "club": "Guadalajara",
-      "caps": 0
-    },
-    {
-      "number": 26,
-      "name": "Brian Gutiérrez",
-      "position": "MF",
-      "club": "Guadalajara",
-      "caps": 0
-    },
-    {
-      "number": 9,
-      "name": "Raúl Jiménez",
       "position": "FW",
-      "club": "Fulham",
-      "caps": 0
-    },
-    {
-      "number": 10,
-      "name": "Alex Vega",
-      "position": "FW",
-      "club": "Toluca",
+      "club": "Chivas",
       "caps": 0
     },
     {
@@ -170,6 +149,27 @@
       "caps": 0
     },
     {
+      "number": 21,
+      "name": "César Huerta",
+      "position": "FW",
+      "club": "Anderlecht",
+      "caps": 0
+    },
+    {
+      "number": 9,
+      "name": "Raúl Jiménez",
+      "position": "FW",
+      "club": "Fulham",
+      "caps": 0
+    },
+    {
+      "number": 22,
+      "name": "Guillermo Martínez",
+      "position": "FW",
+      "club": "Pumas UNAM",
+      "caps": 0
+    },
+    {
       "number": 16,
       "name": "Julián Quiñones",
       "position": "FW",
@@ -177,10 +177,10 @@
       "caps": 0
     },
     {
-      "number": 22,
-      "name": "Guillermo Martínez",
+      "number": 10,
+      "name": "Alexis Vega",
       "position": "FW",
-      "club": "Unknown",
+      "club": "Toluca",
       "caps": 0
     }
   ]

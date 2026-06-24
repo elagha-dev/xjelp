@@ -1,7 +1,7 @@
 {
   "formation": "3-4-2-1",
   "available": true,
-  "note": "Predicted XI vs South Africa, aligning with general World Cup 2026 lineup expectations.",
+  "note": "Expected XI vs South Africa, June 24, 2026",
   "lineup": {
     "gk": [
       {
@@ -22,16 +22,16 @@
         "club": "Bayern Munich"
       },
       {
-        "number": null,
-        "name": "Lee Gi-hyuk",
-        "club": "Gangwon FC"
+        "number": 3,
+        "name": "Lee Ki-hyuk",
+        "club": "FC Anyang"
       }
     ],
     "mid": [
       {
-        "number": 15,
-        "name": "Kim Moon-hwan",
-        "club": "Daejeon Hana"
+        "number": 22,
+        "name": "Seol Young-woo",
+        "club": "Red Star"
       },
       {
         "number": 6,
@@ -44,26 +44,26 @@
         "club": "Birmingham City"
       },
       {
-        "number": 22,
-        "name": "Seol Young-woo",
-        "club": "Crvena Zvezda"
-      },
-      {
         "number": 13,
-        "name": "Lee Kang-in",
-        "club": "PSG"
-      },
-      {
-        "number": 10,
-        "name": "Lee Jae-Sung",
-        "club": "Mainz 05"
+        "name": "Lee Tae-seok",
+        "club": "Austria Wien"
       }
     ],
     "fwd": [
       {
+        "number": 10,
+        "name": "Lee Kang-in",
+        "club": "PSG"
+      },
+      {
+        "number": 19,
+        "name": "Lee Jae-sung",
+        "club": "Mainz 05"
+      },
+      {
         "number": 7,
-        "name": "Son Heung-Min",
-        "club": "LA FC"
+        "name": "Son Heung-min",
+        "club": "LAFC"
       }
     ]
   }

@@ -1,0 +1,70 @@
+{
+  "formation": "4-3-3",
+  "available": true,
+  "note": "Confirmed XI vs Sweden, 20 June 2026",
+  "lineup": {
+    "gk": [
+      {
+        "number": null,
+        "name": "Bart Verbruggen",
+        "club": "Brighton"
+      }
+    ],
+    "def": [
+      {
+        "number": null,
+        "name": "Denzel Dumfries",
+        "club": "Inter Milan"
+      },
+      {
+        "number": null,
+        "name": "Jan Paul van Hecke",
+        "club": "Brighton"
+      },
+      {
+        "number": null,
+        "name": "Virgil van Dijk",
+        "club": "Liverpool"
+      },
+      {
+        "number": null,
+        "name": "Micky van de Ven",
+        "club": "Tottenham"
+      }
+    ],
+    "mid": [
+      {
+        "number": null,
+        "name": "Ryan Gravenberch",
+        "club": "Liverpool"
+      },
+      {
+        "number": null,
+        "name": "Frenkie de Jong",
+        "club": "Barcelona"
+      },
+      {
+        "number": null,
+        "name": "Tijjani Reijnders",
+        "club": "Manchester City"
+      }
+    ],
+    "fwd": [
+      {
+        "number": null,
+        "name": "Brian Brobbey",
+        "club": "Sunderland"
+      },
+      {
+        "number": null,
+        "name": "Donyell Malen",
+        "club": "Roma"
+      },
+      {
+        "number": null,
+        "name": "Cody Gakpo",
+        "club": "Liverpool"
+      }
+    ]
+  }
+}

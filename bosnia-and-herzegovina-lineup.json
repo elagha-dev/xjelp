@@ -1,7 +1,7 @@
 {
   "formation": "4-4-2",
   "available": true,
-  "note": "Predicted XI for FIFA World Cup 2026 match against Qatar on June 24, 2026.",
+  "note": "Confirmed XI vs Qatar",
   "lineup": {
     "gk": [
       {
@@ -12,58 +12,58 @@
     ],
     "def": [
       {
-        "number": 7,
-        "name": "Amar Dedic",
-        "club": "SL Benfica"
+        "number": 21,
+        "name": "Stjepan Radeljić",
+        "club": "HNK Rijeka"
       },
       {
         "number": 18,
-        "name": "Nikola Katic",
+        "name": "Nikola Katić",
         "club": "Schalke 04"
       },
       {
-        "number": 3,
-        "name": "Dennis Hadzikadunic",
-        "club": "UC Sampdoria"
+        "number": 24,
+        "name": "Arjan Malić",
+        "club": "Sturm Graz"
       },
       {
         "number": 5,
-        "name": "Sead Kolasinac",
+        "name": "Sead Kolašinac",
         "club": "Atalanta BC"
       }
     ],
     "mid": [
       {
-        "number": 19,
-        "name": "Kerim Alajbegovic",
-        "club": "Red Bull Salzburg"
+        "number": 20,
+        "name": "Esmir Bajraktarević",
+        "club": "PSV Eindhoven"
+      },
+      {
+        "number": 13,
+        "name": "Ivan Bašić",
+        "club": "FC Astana"
       },
       {
         "number": 14,
-        "name": "Ivan Sunjic",
+        "name": "Ivan Šunjić",
         "club": "Pafos FC"
       },
       {
-        "number": 6,
-        "name": "Benjamin Tahirovic",
-        "club": "Arsenal"
-      },
-      {
-        "number": 15,
-        "name": "Amar Memic",
-        "club": "FC Viktoria Plzeň"
+        "number": 19,
+        "name": "Kerim Alajbegović",
+        "club": "RB Salzburg"
       }
     ],
     "fwd": [
       {
         "number": 10,
-        "name": "Ermedin Demirovic",
+        "name": "Ermedin Demirović",
         "club": "VfB Stuttgart"
       },
       {
         "number": 11,
-        "name": "Edin Dzeko",
-        "club": "FC Schalke 04"
+        "name": "Edin Džeko",
+        "club": "Schalke 04"
       }
     ]
   }
