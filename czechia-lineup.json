@@ -1,6 +1,59 @@
 {
-  "formation": null,
-  "available": false,
-  "note": "A predicted starting lineup for Czechia's match against Mexico on June 24, 2026, was found, but specific jersey numbers for most players were not available in the search results to fully populate the required JSON structure.",
-  "lineup": null
+  "formation": "3-4-2-1",
+  "available": true,
+  "note": "Confirmed XI vs Mexico",
+  "lineup": {
+    "gk": [
+      {
+        "name": "Matěj Kovář",
+        "club": "PSV Eindhoven"
+      }
+    ],
+    "def": [
+      {
+        "name": "Ladislav Krejčí",
+        "club": "Wolverhampton"
+      },
+      {
+        "name": "Robin Hranáč",
+        "club": "Hoffenheim"
+      },
+      {
+        "name": "David Doudera",
+        "club": "Slavia Prague"
+      }
+    ],
+    "mid": [
+      {
+        "name": "Tomáš Holeš",
+        "club": "Slavia Prague"
+      },
+      {
+        "name": "Michal Sadílek",
+        "club": "Slavia Prague"
+      },
+      {
+        "name": "Lukáš Červ",
+        "club": "Viktoria Plzeň"
+      },
+      {
+        "name": "Vladimír Coufal",
+        "club": "Hoffenheim"
+      }
+    ],
+    "fwd": [
+      {
+        "name": "Pavel Šulc",
+        "club": "Lyon"
+      },
+      {
+        "name": "Denis Višinský",
+        "club": "Viktoria Plzeň"
+      },
+      {
+        "name": "Adam Hložek",
+        "club": "Hoffenheim"
+      }
+    ]
+  }
 }

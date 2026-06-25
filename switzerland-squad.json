@@ -2,186 +2,134 @@
   "coach": "Murat Yakin",
   "squad": [
     {
-      "number": null,
       "name": "Gregor Kobel",
       "position": "GK",
-      "club": "Borussia Dortmund",
-      "caps": null
+      "club": "Borussia Dortmund"
     },
     {
-      "number": null,
       "name": "Yvon Mvogo",
       "position": "GK",
-      "club": "Lorient",
-      "caps": null
+      "club": "Lorient"
     },
     {
-      "number": null,
       "name": "Marvin Keller",
       "position": "GK",
-      "club": "BSC Young Boys",
-      "caps": null
+      "club": "Young Boys"
     },
     {
-      "number": null,
       "name": "Manuel Akanji",
       "position": "DF",
-      "club": "Inter Milan",
-      "caps": null
+      "club": "Inter"
     },
     {
-      "number": null,
-      "name": "Ricardo Rodríguez",
-      "position": "DF",
-      "club": "Real Betis",
-      "caps": null
-    },
-    {
-      "number": null,
-      "name": "Nico Elvedi",
-      "position": "DF",
-      "club": "Borussia Mönchengladbach",
-      "caps": null
-    },
-    {
-      "number": null,
-      "name": "Silvan Widmer",
-      "position": "DF",
-      "club": "Mainz 05",
-      "caps": null
-    },
-    {
-      "number": null,
       "name": "Aurèle Amenda",
       "position": "DF",
-      "club": "Eintracht Frankfurt",
-      "caps": null
+      "club": "Eintracht"
     },
     {
-      "number": null,
       "name": "Eray Cömert",
       "position": "DF",
-      "club": "Valencia",
-      "caps": null
+      "club": "Valencia"
     },
     {
-      "number": null,
-      "name": "Miro Muheim",
+      "name": "Nico Elvedi",
       "position": "DF",
-      "club": "Hamburger SV",
-      "caps": null
+      "club": "Borussia Mönchengladbach"
     },
     {
-      "number": null,
       "name": "Luca Jaquez",
       "position": "DF",
-      "club": "VfB Stuttgart",
-      "caps": null
+      "club": "Stuttgart"
     },
     {
-      "number": null,
-      "name": "Granit Xhaka",
-      "position": "MF",
-      "club": "Sunderland",
-      "caps": null
+      "name": "Miro Muheim",
+      "position": "DF",
+      "club": "Hamburger SV"
     },
     {
-      "number": null,
-      "name": "Remo Freuler",
-      "position": "MF",
-      "club": "Bologna",
-      "caps": null
+      "name": "Ricardo Rodríguez",
+      "position": "DF",
+      "club": "Betis"
     },
     {
-      "number": null,
-      "name": "Denis Zakaria",
-      "position": "MF",
-      "club": "Monaco",
-      "caps": null
+      "name": "Silvan Widmer",
+      "position": "DF",
+      "club": "Mainz 05"
     },
     {
-      "number": null,
-      "name": "Djibril Sow",
-      "position": "MF",
-      "club": "Sevilla",
-      "caps": null
-    },
-    {
-      "number": null,
       "name": "Michel Aebischer",
       "position": "MF",
-      "club": "Pisa",
-      "caps": null
+      "club": "Pisa"
     },
     {
-      "number": null,
-      "name": "Fabian Rieder",
-      "position": "MF",
-      "club": "Augsburg",
-      "caps": null
-    },
-    {
-      "number": null,
       "name": "Christian Fassnacht",
       "position": "MF",
-      "club": "BSC Young Boys",
-      "caps": null
+      "club": "Young Boys"
     },
     {
-      "number": null,
+      "name": "Remo Freuler",
+      "position": "MF",
+      "club": "Bologna"
+    },
+    {
       "name": "Ardon Jashari",
       "position": "MF",
-      "club": "AC Milan",
-      "caps": null
+      "club": "Milan"
     },
     {
-      "number": null,
-      "name": "Breel Embolo",
-      "position": "FW",
-      "club": "Rennes",
-      "caps": null
+      "name": "Fabian Rieder",
+      "position": "MF",
+      "club": "Augsburgo"
     },
     {
-      "number": null,
-      "name": "Dan Ndoye",
-      "position": "FW",
-      "club": "Nottingham Forest",
-      "caps": null
+      "name": "Djibril Sow",
+      "position": "MF",
+      "club": "Sevilla"
     },
     {
-      "number": null,
-      "name": "Noah Okafor",
-      "position": "FW",
-      "club": "Leeds United",
-      "caps": null
+      "name": "Granit Xhaka",
+      "position": "MF",
+      "club": "Sunderland"
     },
     {
-      "number": null,
+      "name": "Denis Zakaria",
+      "position": "MF",
+      "club": "Mónaco"
+    },
+    {
       "name": "Zeki Amdouni",
       "position": "FW",
-      "club": "Burnley",
-      "caps": null
+      "club": "Burnley"
     },
     {
-      "number": null,
-      "name": "Ruben Vargas",
+      "name": "Breel Embolo",
       "position": "FW",
-      "club": "Sevilla",
-      "caps": null
+      "club": "Stade Rennes"
     },
     {
-      "number": null,
-      "name": "Johan Manzambi",
-      "position": "FW",
-      "club": "SC Freiburg",
-      "caps": null
-    },
-    {
-      "number": null,
       "name": "Cedric Itten",
       "position": "FW",
-      "club": "Fortuna Düsseldorf",
-      "caps": null
+      "club": "Fortuna Düsseldorf"
+    },
+    {
+      "name": "Dan Ndoye",
+      "position": "FW",
+      "club": "Nottingham Forest"
+    },
+    {
+      "name": "Noah Okafor",
+      "position": "FW",
+      "club": "Leeds"
+    },
+    {
+      "name": "Ruben Vargas",
+      "position": "FW",
+      "club": "Sevilla"
+    },
+    {
+      "name": "Johan Manzambi",
+      "position": "FW",
+      "club": "Friburgo"
     }
   ]
 }

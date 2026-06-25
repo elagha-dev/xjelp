@@ -1,69 +1,69 @@
 {
   "formation": "3-4-2-1",
   "available": true,
-  "note": "Expected XI vs South Africa, June 24, 2026",
+  "note": "Confirmed XI vs South Africa (FIFA World Cup 2026 Group A Matchday 3)",
   "lineup": {
     "gk": [
       {
-        "number": 1,
+        "number": null,
         "name": "Kim Seung-gyu",
         "club": "FC Tokyo"
       }
     ],
     "def": [
       {
-        "number": 2,
-        "name": "Lee Han-beom",
-        "club": "Midtjylland"
+        "number": null,
+        "name": "Lee Gi-hyeok",
+        "club": "Gangwon FC"
       },
       {
-        "number": 4,
+        "number": null,
         "name": "Kim Min-jae",
         "club": "Bayern Munich"
       },
       {
-        "number": 3,
-        "name": "Lee Ki-hyuk",
-        "club": "FC Anyang"
+        "number": null,
+        "name": "Lee Han-beom",
+        "club": "FC Midtjylland"
       }
     ],
     "mid": [
       {
-        "number": 22,
+        "number": null,
         "name": "Seol Young-woo",
-        "club": "Red Star"
+        "club": "FK Crvena zvezda"
       },
       {
-        "number": 6,
+        "number": null,
         "name": "Hwang In-beom",
-        "club": "Feyenoord"
+        "club": "Feyenoord Rotterdam"
       },
       {
-        "number": 8,
+        "number": null,
         "name": "Paik Seung-ho",
-        "club": "Birmingham City"
+        "club": "Birmingham City FC"
       },
       {
-        "number": 13,
+        "number": null,
         "name": "Lee Tae-seok",
-        "club": "Austria Wien"
+        "club": "FK Austria Wien"
       }
     ],
     "fwd": [
       {
-        "number": 10,
+        "number": null,
         "name": "Lee Kang-in",
-        "club": "PSG"
+        "club": "Paris Saint-Germain FC"
       },
       {
-        "number": 19,
-        "name": "Lee Jae-sung",
-        "club": "Mainz 05"
+        "number": null,
+        "name": "Hwang Hee-chan",
+        "club": "Wolverhampton Wanderers FC"
       },
       {
-        "number": 7,
-        "name": "Son Heung-min",
-        "club": "LAFC"
+        "number": null,
+        "name": "Oh Hyeon-gyu",
+        "club": "Besiktas JK"
       }
     ]
   }

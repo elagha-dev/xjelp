@@ -1,0 +1,70 @@
+{
+  "formation": "4-3-3",
+  "available": true,
+  "note": "Confirmed XI vs Haiti (June 24, 2026)",
+  "lineup": {
+    "gk": [
+      {
+        "number": 1,
+        "name": "Yassine Bounou",
+        "club": "Al-Hilal"
+      }
+    ],
+    "def": [
+      {
+        "number": 2,
+        "name": "Achraf Hakimi",
+        "club": "Paris Saint-Germain"
+      },
+      {
+        "number": 18,
+        "name": "Chadi Riad",
+        "club": "Crystal Palace"
+      },
+      {
+        "number": 25,
+        "name": "Redouane Halhal",
+        "club": "Mechelen"
+      },
+      {
+        "number": 26,
+        "name": "Anass Salah-Eddine",
+        "club": "PSV Eindhoven"
+      }
+    ],
+    "mid": [
+      {
+        "number": 4,
+        "name": "Sofyan Amrabat",
+        "club": "Real Betis"
+      },
+      {
+        "number": 24,
+        "name": "Neil El Aynaoui",
+        "club": "AS Roma"
+      },
+      {
+        "number": 23,
+        "name": "Bilal El Khannouss",
+        "club": "VfB Stuttgart"
+      }
+    ],
+    "fwd": [
+      {
+        "number": 10,
+        "name": "Brahim Diaz",
+        "club": "Real Madrid C. F."
+      },
+      {
+        "number": 11,
+        "name": "Ismael Saibari",
+        "club": "PSV Eindhoven"
+      },
+      {
+        "number": 20,
+        "name": "Ayoub El Kaabi",
+        "club": "Olympiacos FC"
+      }
+    ]
+  }
+}

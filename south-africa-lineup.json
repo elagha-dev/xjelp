@@ -1,67 +1,69 @@
 {
   "formation": "4-3-3",
   "available": true,
-  "note": "Expected XI vs Republic of Korea",
+  "note": "Confirmed XI vs South Korea (FIFA World Cup 2026 Group A Match)",
   "lineup": {
     "gk": [
       {
-        "number": 1,
+        "number": -1,
         "name": "Ronwen Williams",
         "club": "Mamelodi Sundowns"
       }
     ],
     "def": [
       {
-        "number": 2,
+        "number": -1,
         "name": "Khuliso Mudau",
         "club": "Mamelodi Sundowns"
       },
       {
+        "number": -1,
         "name": "Ime Okon",
         "club": "Hannover 96"
       },
       {
+        "number": -1,
         "name": "Mbekezeli Mbokazi",
         "club": "Chicago Fire"
       },
       {
-        "number": 3,
+        "number": -1,
         "name": "Aubrey Modiba",
         "club": "Mamelodi Sundowns"
       }
     ],
     "mid": [
       {
-        "number": 7,
-        "name": "Sphephelo Sithole",
-        "club": "CD Tondela"
-      },
-      {
-        "number": 8,
+        "number": -1,
         "name": "Thalente Mbatha",
         "club": "Orlando Pirates"
       },
       {
-        "number": 10,
+        "number": -1,
+        "name": "Sphephelo Sithole",
+        "club": "CD Tondela"
+      },
+      {
+        "number": -1,
         "name": "Relebohile Mofokeng",
         "club": "Orlando Pirates"
       }
     ],
     "fwd": [
       {
-        "number": 11,
-        "name": "Oswin Appollis",
+        "number": -1,
+        "name": "Thapelo Maseko",
         "club": "Orlando Pirates"
       },
       {
-        "number": 17,
+        "number": -1,
         "name": "Evidence Makgopa",
         "club": "Orlando Pirates"
       },
       {
-        "number": 18,
-        "name": "Thapelo Maseko",
-        "club": "AEL Limassol"
+        "number": -1,
+        "name": "Oswin Appollis",
+        "club": "Orlando Pirates"
       }
     ]
   }

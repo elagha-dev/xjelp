@@ -7,29 +7,29 @@
       {
         "number": 1,
         "name": "Nikola Vasilj",
-        "club": "St. Pauli"
+        "club": "FC St. Pauli"
       }
     ],
     "def": [
+      {
+        "number": 24,
+        "name": "Arjan Malić",
+        "club": "Unknown"
+      },
+      {
+        "number": 18,
+        "name": "Nikola Katić",
+        "club": "FC Schalke 04"
+      },
       {
         "number": 21,
         "name": "Stjepan Radeljić",
         "club": "HNK Rijeka"
       },
       {
-        "number": 18,
-        "name": "Nikola Katić",
-        "club": "Schalke 04"
-      },
-      {
-        "number": 24,
-        "name": "Arjan Malić",
-        "club": "Sturm Graz"
-      },
-      {
         "number": 5,
         "name": "Sead Kolašinac",
-        "club": "Atalanta BC"
+        "club": "Atalanta Bergamo"
       }
     ],
     "mid": [
@@ -51,7 +51,7 @@
       {
         "number": 19,
         "name": "Kerim Alajbegović",
-        "club": "RB Salzburg"
+        "club": "FC Red Bull Salzburg"
       }
     ],
     "fwd": [
@@ -63,7 +63,7 @@
       {
         "number": 11,
         "name": "Edin Džeko",
-        "club": "Schalke 04"
+        "club": "FC Schalke 04"
       }
     ]
   }

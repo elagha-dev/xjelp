@@ -1,7 +1,7 @@
 {
-  "formation": "4-3-3",
+  "formation": "4-2-3-1",
   "available": true,
-  "note": "Predicted XI vs Scotland, World Cup Group C Matchday 3",
+  "note": "Confirmed XI vs Scotland",
   "lineup": {
     "gk": [
       {
@@ -12,57 +12,57 @@
     ],
     "def": [
       {
-        "number": 13,
+        "number": 2,
         "name": "Danilo",
-        "club": "Flamengo"
+        "club": "Juventus"
       },
       {
-        "number": 4,
+        "number": 3,
         "name": "Marquinhos",
         "club": "Paris Saint-Germain"
       },
       {
-        "number": 3,
-        "name": "Gabriel Magalhaes",
+        "number": 4,
+        "name": "Gabriel Magalhães",
         "club": "Arsenal"
       },
       {
-        "number": 16,
+        "number": 6,
         "name": "Douglas Santos",
-        "club": "Zenit"
+        "club": "Zenit Saint Petersburg"
       }
     ],
     "mid": [
       {
         "number": 5,
         "name": "Casemiro",
-        "club": "Manchester United"
+        "club": "Al Ittihad"
       },
       {
         "number": 8,
-        "name": "Bruno Guimaraes",
-        "club": "Newcastle"
+        "name": "Bruno Guimarães",
+        "club": "Newcastle United"
       },
       {
-        "number": 20,
-        "name": "Lucas Paqueta",
-        "club": "Flamengo"
+        "number": 10,
+        "name": "Lucas Paquetá",
+        "club": "West Ham United"
       }
     ],
     "fwd": [
       {
-        "number": 26,
+        "number": 7,
         "name": "Rayan",
-        "club": "Bournemouth"
+        "club": "AFC Bournemouth"
       },
       {
         "number": 9,
         "name": "Matheus Cunha",
-        "club": "Manchester United"
+        "club": "Wolverhampton Wanderers"
       },
       {
-        "number": 7,
-        "name": "Vinicius Junior",
+        "number": 11,
+        "name": "Vinícius Jr.",
         "club": "Real Madrid"
       }
     ]

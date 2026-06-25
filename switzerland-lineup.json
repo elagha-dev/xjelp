@@ -12,7 +12,7 @@
     ],
     "def": [
       {
-        "number": 2,
+        "number": 25,
         "name": "Luca Jaquez",
         "club": "Stuttgart"
       },
@@ -24,12 +24,12 @@
       {
         "number": 5,
         "name": "Manuel Akanji",
-        "club": "Inter Milan"
+        "club": "Inter"
       },
       {
         "number": 13,
         "name": "Ricardo Rodríguez",
-        "club": "Real Betis"
+        "club": "Betis"
       }
     ],
     "mid": [
@@ -42,28 +42,28 @@
         "number": 10,
         "name": "Granit Xhaka",
         "club": "Sunderland"
-      },
-      {
-        "number": 17,
-        "name": "Rubén Vargas",
-        "club": "Sevilla"
-      },
-      {
-        "number": 20,
-        "name": "Michel Aebischer",
-        "club": "Pisa"
-      },
-      {
-        "number": 23,
-        "name": "Djibril Sow",
-        "club": "Sevilla"
       }
     ],
     "fwd": [
       {
+        "number": 15,
+        "name": "Djibril Sow",
+        "club": "Sevilla"
+      },
+      {
+        "number": 9,
+        "name": "Johan Manzambi",
+        "club": "Friburgo"
+      },
+      {
+        "number": 17,
+        "name": "Ruben Vargas",
+        "club": "Sevilla"
+      },
+      {
         "number": 7,
         "name": "Breel Embolo",
-        "club": "Stade Rennais"
+        "club": "Stade Rennes"
       }
     ]
   }

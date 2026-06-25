@@ -1,5 +1,5 @@
 {
-  "coach": "Hong Myung-Bo",
+  "coach": "Hong Myung-bo",
   "squad": [
     {
       "number": 1,
@@ -17,28 +17,28 @@
     },
     {
       "number": 3,
-      "name": "Lee Gi-hyuk",
+      "name": "Lee Kihyuk",
       "position": "DF",
       "club": "Gangwon",
       "caps": null
     },
     {
       "number": 4,
-      "name": "Kim Min-jae",
+      "name": "Kim Minjae",
       "position": "DF",
       "club": "Bayern Munich",
       "caps": null
     },
     {
       "number": 5,
-      "name": "Kim Tae-hyeon",
+      "name": "Kim Taehyeon",
       "position": "DF",
       "club": "Kashima Antlers",
       "caps": null
     },
     {
       "number": 6,
-      "name": "Hwang In-beom",
+      "name": "Hwang Inbeom",
       "position": "MF",
       "club": "Feyenoord",
       "caps": null
@@ -47,77 +47,77 @@
       "number": 7,
       "name": "Son Heung-min",
       "position": "FW",
-      "club": "LA FC",
+      "club": "LAFC",
       "caps": null
     },
     {
       "number": 8,
-      "name": "Paik Seung-ho",
+      "name": "Paik Seungho",
       "position": "MF",
-      "club": "Birmingham City",
+      "club": "Birmingham",
       "caps": null
     },
     {
       "number": 9,
-      "name": "Cho Gue-sung",
+      "name": "Cho Guesung",
       "position": "FW",
       "club": "Midtjylland",
       "caps": null
     },
     {
       "number": 10,
-      "name": "Lee Jae-sung",
+      "name": "Lee Jaesung",
       "position": "MF",
-      "club": "Mainz 05",
+      "club": "FSV Mainz",
       "caps": null
     },
     {
       "number": 11,
-      "name": "Hwang Hee-chan",
-      "position": "FW",
-      "club": "Wolverhampton",
+      "name": "Hwang Heechan",
+      "position": "MF",
+      "club": "Wolves",
       "caps": null
     },
     {
       "number": 12,
-      "name": "Song Bum-keun",
+      "name": "Song Bumkeun",
       "position": "GK",
       "club": "Jeonbuk",
       "caps": null
     },
     {
       "number": 13,
-      "name": "Lee Tae-seok",
+      "name": "Lee Taeseok",
       "position": "DF",
       "club": "Austria Wien",
       "caps": null
     },
     {
       "number": 14,
-      "name": "Cho Wi-je",
+      "name": "Cho Wije",
       "position": "DF",
       "club": "Jeonbuk",
       "caps": null
     },
     {
       "number": 15,
-      "name": "Kim Moon-hwan",
+      "name": "Kim Moonhwan",
       "position": "DF",
-      "club": "Daejeon Hana",
+      "club": "Daejeon",
       "caps": null
     },
     {
       "number": 16,
-      "name": "Park Jin-seob",
+      "name": "Park Jinseob",
       "position": "DF",
       "club": "Zhejiang FC",
       "caps": null
     },
     {
       "number": 17,
-      "name": "Bae Jun-ho",
+      "name": "Bae Junho",
       "position": "MF",
-      "club": "Stoke City",
+      "club": "Stoke",
       "caps": null
     },
     {
@@ -129,58 +129,58 @@
     },
     {
       "number": 19,
-      "name": "Lee Kang-in",
+      "name": "Lee Kangin",
       "position": "MF",
       "club": "PSG",
       "caps": null
     },
     {
       "number": 20,
-      "name": "Yang Hyun-jun",
+      "name": "Yang Hyunjun",
       "position": "MF",
       "club": "Celtic",
       "caps": null
     },
     {
       "number": 21,
-      "name": "Jo Hyeon-woo",
+      "name": "Jo Hyeonwoo",
       "position": "GK",
-      "club": "Ulsan HD",
+      "club": "Ulsan",
       "caps": null
     },
     {
       "number": 22,
-      "name": "Seol Young-woo",
+      "name": "Seol Youngwoo",
       "position": "DF",
-      "club": "Red Star",
+      "club": "Crvena Zvezda",
       "caps": null
     },
     {
       "number": 23,
       "name": "Jens Castrop",
       "position": "DF",
-      "club": "Borussia Mönchengladbach",
+      "club": "Borussia Monchengladbach",
       "caps": null
     },
     {
       "number": 24,
-      "name": "Kim Jin-gyu",
+      "name": "Kim Jingyu",
       "position": "MF",
-      "club": "Jeonbuk Hyundai",
+      "club": "Jeonbuk",
       "caps": null
     },
     {
       "number": 25,
-      "name": "Eom Ji-sung",
+      "name": "Eom Jisung",
       "position": "MF",
-      "club": "Swansea City",
+      "club": "Swansea",
       "caps": null
     },
     {
       "number": 26,
-      "name": "Lee Dong-gyeong",
+      "name": "Lee Donggyeong",
       "position": "MF",
-      "club": "Ulsan HD",
+      "club": "Ulsan",
       "caps": null
     }
   ]

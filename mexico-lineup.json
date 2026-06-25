@@ -1,13 +1,13 @@
 {
   "formation": "4-3-3",
   "available": true,
-  "note": "Predicted XI for upcoming World Cup 2026 Group A match against Czech Republic on June 25, 2026.",
+  "note": "Confirmed starting lineup for Mexico vs. Czechia on June 25, 2026, with Mexico having already secured first place in Group A and rotating its squad.",
   "lineup": {
     "gk": [
       {
         "number": null,
-        "name": "Raul Rangel",
-        "club": "Guadalajara"
+        "name": "Luis Rangel",
+        "club": "Chivas"
       }
     ],
     "def": [
@@ -19,12 +19,12 @@
       {
         "number": null,
         "name": "Israel Reyes",
-        "club": null
+        "club": "Club América"
       },
       {
         "number": null,
-        "name": "Johan Vasquez",
-        "club": "Genoa"
+        "name": "Cesar Montes",
+        "club": "Lokomotiv Moscow"
       },
       {
         "number": null,
@@ -35,35 +35,35 @@
     "mid": [
       {
         "number": null,
-        "name": "Brian Gutierrez",
-        "club": null
+        "name": "Roberto Alvarado",
+        "club": "Chivas"
       },
       {
         "number": null,
-        "name": "Erik Lira",
-        "club": null
+        "name": "Edson Alvarez",
+        "club": "Fenerbahçe"
       },
       {
         "number": null,
         "name": "Luis Romo",
-        "club": "Guadalajara"
+        "club": "Chivas"
       }
     ],
     "fwd": [
       {
         "number": null,
-        "name": "Roberto Alvarado",
-        "club": "Guadalajara"
+        "name": "Gilberto Mora",
+        "club": "Tijuana"
       },
       {
         "number": null,
-        "name": "Santiago Gimenez",
-        "club": "AC Milan"
+        "name": "Guillermo Martinez",
+        "club": "Pumas"
       },
       {
         "number": null,
         "name": "Julian Quinones",
-        "club": null
+        "club": "Al-Qadsiah"
       }
     ]
   }
