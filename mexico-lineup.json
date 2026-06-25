@@ -1,25 +1,25 @@
 {
   "formation": "4-3-3",
   "available": true,
-  "note": "Confirmed starting lineup for Mexico vs. Czechia on June 25, 2026, with Mexico having already secured first place in Group A and rotating its squad.",
+  "note": "Confirmed XI vs Czechia",
   "lineup": {
     "gk": [
       {
         "number": null,
-        "name": "Luis Rangel",
+        "name": "Raúl Rangel",
         "club": "Chivas"
       }
     ],
     "def": [
       {
         "number": null,
-        "name": "Jorge Sanchez",
-        "club": "PAOK"
+        "name": "Jorge Sánchez",
+        "club": "Cruz Azul"
       },
       {
         "number": null,
         "name": "Israel Reyes",
-        "club": "Club América"
+        "club": "América"
       },
       {
         "number": null,
@@ -28,32 +28,32 @@
       },
       {
         "number": null,
-        "name": "Jesus Gallardo",
-        "club": "Toluca"
+        "name": "Mateo Chavez",
+        "club": "AZ Alkmaar"
       }
     ],
     "mid": [
       {
         "number": null,
-        "name": "Roberto Alvarado",
-        "club": "Chivas"
-      },
-      {
-        "number": null,
-        "name": "Edson Alvarez",
-        "club": "Fenerbahçe"
-      },
-      {
-        "number": null,
         "name": "Luis Romo",
         "club": "Chivas"
+      },
+      {
+        "number": null,
+        "name": "Edson Álvarez",
+        "club": "West Ham United"
+      },
+      {
+        "number": null,
+        "name": "Gilberto Mora",
+        "club": "Tijuana"
       }
     ],
     "fwd": [
       {
         "number": null,
-        "name": "Gilberto Mora",
-        "club": "Tijuana"
+        "name": "Roberto Alvarado",
+        "club": "Chivas"
       },
       {
         "number": null,
@@ -62,7 +62,7 @@
       },
       {
         "number": null,
-        "name": "Julian Quinones",
+        "name": "Julián Quiñones",
         "club": "Al-Qadsiah"
       }
     ]
