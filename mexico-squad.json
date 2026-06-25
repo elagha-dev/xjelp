@@ -6,14 +6,14 @@
       "name": "Raúl Rangel",
       "position": "GK",
       "club": "Chivas",
-      "caps": null
+      "caps": 0
     },
     {
       "number": 12,
       "name": "Carlos Acevedo",
       "position": "GK",
       "club": "Santos Laguna",
-      "caps": null
+      "caps": 0
     },
     {
       "number": 13,
@@ -23,165 +23,165 @@
       "caps": 152
     },
     {
+      "number": 15,
+      "name": "Israel Reyes",
+      "position": "DF",
+      "club": "Club América",
+      "caps": 0
+    },
+    {
       "number": 2,
       "name": "Jorge Sánchez",
       "position": "DF",
-      "club": "PAOK",
-      "caps": null
+      "club": "Cruz Azul",
+      "caps": 0
     },
     {
       "number": 3,
       "name": "César Montes",
       "position": "DF",
       "club": "Lokomotiv Moscow",
-      "caps": null
+      "caps": 0
     },
     {
       "number": 4,
       "name": "Edson Álvarez",
       "position": "DF",
       "club": "West Ham United",
-      "caps": null
+      "caps": 0
     },
     {
       "number": 5,
       "name": "Johan Vásquez",
       "position": "DF",
       "club": "Genoa",
-      "caps": null
-    },
-    {
-      "number": 15,
-      "name": "Israel Reyes",
-      "position": "DF",
-      "club": "America",
-      "caps": null
+      "caps": 0
     },
     {
       "number": 23,
       "name": "Jesús Gallardo",
       "position": "DF",
       "club": "Toluca",
-      "caps": null
+      "caps": 0
     },
     {
       "number": 20,
       "name": "Mateo Chávez",
       "position": "DF",
       "club": "AZ Alkmaar",
-      "caps": null
+      "caps": 0
     },
     {
-      "number": 6,
-      "name": "Erik Lira",
-      "position": "MF",
-      "club": "Cruz Azul",
-      "caps": null
-    },
-    {
-      "number": 7,
-      "name": "Luis Romo",
-      "position": "MF",
-      "club": "Chivas",
-      "caps": null
-    },
-    {
-      "number": 8,
+      "number": 0,
       "name": "Álvaro Fidalgo",
       "position": "MF",
       "club": "Real Betis",
-      "caps": null
+      "caps": 0
     },
     {
-      "number": 17,
-      "name": "Orbelín Pineda",
-      "position": "MF",
-      "club": "AEK Athens",
-      "caps": null
-    },
-    {
-      "number": 18,
-      "name": "Obed Vargas",
-      "position": "MF",
-      "club": "Atletico Madrid",
-      "caps": null
-    },
-    {
-      "number": 19,
-      "name": "Gilberto Mora",
-      "position": "MF",
-      "club": "Tijuana",
-      "caps": null
-    },
-    {
-      "number": 21,
-      "name": "César Huerta",
-      "position": "MF",
-      "club": "Anderlecht",
-      "caps": null
-    },
-    {
-      "number": 24,
-      "name": "Luis Chávez",
-      "position": "MF",
-      "club": "Dynamo Moscow",
-      "caps": null
-    },
-    {
-      "number": 25,
-      "name": "Roberto Alvarado",
-      "position": "MF",
-      "club": "Chivas",
-      "caps": null
-    },
-    {
-      "number": 26,
+      "number": 0,
       "name": "Brian Gutiérrez",
       "position": "MF",
       "club": "Chivas",
-      "caps": null
+      "caps": 0
     },
     {
-      "number": 9,
-      "name": "Raúl Alonso Jiménez",
+      "number": 0,
+      "name": "Orbelín Pineda",
+      "position": "MF",
+      "club": "AEK Athens",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Erik Lira",
+      "position": "MF",
+      "club": "Cruz Azul",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Luis Romo",
+      "position": "MF",
+      "club": "Chivas",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Obed Vargas",
+      "position": "MF",
+      "club": "Atlético Madrid",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Gilberto Mora",
+      "position": "MF",
+      "club": "Tijuana",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Luis Chávez",
+      "position": "MF",
+      "club": "Dynamo Moscow",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Roberto Alvarado",
       "position": "FW",
-      "club": "Fulham",
-      "caps": null
+      "club": "Chivas",
+      "caps": 0
     },
     {
-      "number": 10,
-      "name": "Alexis Vega",
+      "number": 0,
+      "name": "César Huerta",
       "position": "FW",
-      "club": "Toluca",
-      "caps": null
+      "club": "Anderlecht",
+      "caps": 0
     },
     {
-      "number": 11,
-      "name": "Santiago Giménez",
+      "number": 0,
+      "name": "Guillermo Martínez",
       "position": "FW",
-      "club": "AC Milan",
-      "caps": null
+      "club": "Pumas UNAM",
+      "caps": 0
     },
     {
-      "number": 14,
+      "number": 0,
       "name": "Armando González",
       "position": "FW",
       "club": "Chivas",
-      "caps": null
+      "caps": 0
     },
     {
-      "number": 16,
+      "number": 0,
+      "name": "Santiago Giménez",
+      "position": "FW",
+      "club": "AC Milan",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Raúl Jiménez",
+      "position": "FW",
+      "club": "Fulham",
+      "caps": 0
+    },
+    {
+      "number": 0,
       "name": "Julián Quiñones",
       "position": "FW",
       "club": "Al-Qadsiah",
-      "caps": null
+      "caps": 0
     },
     {
-      "number": 22,
-      "name": "Guillermo Martínez",
+      "number": 0,
+      "name": "Alexis Vega",
       "position": "FW",
-      "club": "Pumas",
-      "caps": null
+      "club": "Toluca",
+      "caps": 0
     }
   ]
 }
