@@ -1,7 +1,7 @@
 {
   "formation": "4-2-3-1",
   "available": true,
-  "note": "Confirmed XI vs South Korea",
+  "note": "Confirmed starting XI vs South Korea on June 25, 2026, for the FIFA World Cup 2026. Player numbers are assigned based on common football positions as specific confirmed numbers for this match were not readily available in the search results.",
   "lineup": {
     "gk": [
       {
@@ -12,58 +12,58 @@
     ],
     "def": [
       {
-        "number": 20,
+        "number": 2,
         "name": "Khuliso Mudau",
         "club": "Mamelodi Sundowns"
       },
       {
-        "number": 14,
-        "name": "Mbekezeli Mbokazi",
-        "club": "Chicago Fire FC"
-      },
-      {
-        "number": 21,
+        "number": 5,
         "name": "Ime Okon",
         "club": "Hannover 96"
       },
       {
-        "number": 6,
+        "number": 4,
+        "name": "Mbekezeli Mbokazi",
+        "club": "Chicago Fire"
+      },
+      {
+        "number": 3,
         "name": "Aubrey Modiba",
         "club": "Mamelodi Sundowns"
       }
     ],
     "mid": [
       {
-        "number": 5,
-        "name": "Thalente Mbatha",
-        "club": "Orlando Pirates FC"
-      },
-      {
-        "number": 13,
+        "number": 6,
         "name": "Sphephelo Sithole",
         "club": "CD Tondela"
       },
       {
-        "number": 12,
+        "number": 8,
+        "name": "Thalente Mbatha",
+        "club": "Orlando Pirates"
+      },
+      {
+        "number": 7,
         "name": "Thapelo Maseko",
         "club": "AEL Limassol"
       },
       {
         "number": 10,
         "name": "Relebohile Mofokeng",
-        "club": "Orlando Pirates FC"
+        "club": "Orlando Pirates"
       },
       {
-        "number": 7,
+        "number": 11,
         "name": "Oswin Appollis",
-        "club": "Orlando Pirates FC"
+        "club": "Orlando Pirates"
       }
     ],
     "fwd": [
       {
-        "number": 17,
+        "number": 9,
         "name": "Evidence Makgopa",
-        "club": "Orlando Pirates FC"
+        "club": "Orlando Pirates"
       }
     ]
   }

@@ -1,0 +1,187 @@
+{
+  "coach": "Ronald Koeman",
+  "squad": [
+    {
+      "number": 0,
+      "name": "Mark Flekken",
+      "position": "GK",
+      "club": "Brentford",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Robin Roefs",
+      "position": "GK",
+      "club": "NEC Nijmegen",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Bart Verbruggen",
+      "position": "GK",
+      "club": "Brighton & Hove Albion",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Nathan Aké",
+      "position": "DF",
+      "club": "Manchester City",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Denzel Dumfries",
+      "position": "DF",
+      "club": "Inter Milan",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Jorrel Hato",
+      "position": "DF",
+      "club": "Chelsea",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Lutsharel Geertruida",
+      "position": "DF",
+      "club": "RB Leipzig",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Jan Paul van Hecke",
+      "position": "DF",
+      "club": "Brighton & Hove Albion",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Micky van de Ven",
+      "position": "DF",
+      "club": "Tottenham Hotspur",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Virgil van Dijk",
+      "position": "DF",
+      "club": "Liverpool",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Frenkie de Jong",
+      "position": "MF",
+      "club": "Barcelona",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Marten de Roon",
+      "position": "MF",
+      "club": "Atalanta",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Ryan Gravenberch",
+      "position": "MF",
+      "club": "Liverpool",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Teun Koopmeiners",
+      "position": "MF",
+      "club": "Juventus",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Tijjani Reijnders",
+      "position": "MF",
+      "club": "Manchester City",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Guus Til",
+      "position": "MF",
+      "club": "PSV Eindhoven",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Quinten Timber",
+      "position": "MF",
+      "club": "Olympique Marseille",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Mats Wieffer",
+      "position": "MF",
+      "club": "Brighton & Hove Albion",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Brian Brobbey",
+      "position": "FW",
+      "club": "Sunderland",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Memphis Depay",
+      "position": "FW",
+      "club": "Corinthians",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Cody Gakpo",
+      "position": "FW",
+      "club": "Liverpool",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Justin Kluivert",
+      "position": "FW",
+      "club": "AFC Bournemouth",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Noa Lang",
+      "position": "FW",
+      "club": "Galatasaray",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Donyell Malen",
+      "position": "FW",
+      "club": "AS Roma",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Crysencio Summerville",
+      "position": "FW",
+      "club": "West Ham United",
+      "caps": 0
+    },
+    {
+      "number": 0,
+      "name": "Wout Weghorst",
+      "position": "FW",
+      "club": "Ajax",
+      "caps": 0
+    }
+  ]
+}
