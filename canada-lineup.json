@@ -1,68 +1,68 @@
 {
   "formation": "4-4-2",
   "available": true,
-  "note": "Predicted XI vs Switzerland, June 24, 2026",
+  "note": "Confirmed XI vs Switzerland on June 24, 2026 (FIFA World Cup 2026 Group B)",
   "lineup": {
     "gk": [
       {
-        "number": null,
-        "name": "Crépeau",
+        "number": 16,
+        "name": "Maxime Crépeau",
         "club": "Orlando City"
       }
     ],
     "def": [
       {
-        "number": null,
-        "name": "Johnston",
+        "number": 2,
+        "name": "Alistair Johnston",
         "club": "Celtic"
       },
       {
-        "number": null,
-        "name": "De Fougerolles",
-        "club": "Fulham"
+        "number": 4,
+        "name": "Luc De Fougerolles",
+        "club": "FCV Dender EH"
       },
       {
-        "number": null,
-        "name": "Cornelius",
-        "club": "Marseille"
+        "number": 13,
+        "name": "Derek Cornelius",
+        "club": "Rangers"
       },
       {
-        "number": null,
-        "name": "Laryea",
+        "number": 22,
+        "name": "Richie Laryea",
         "club": "Toronto FC"
       }
     ],
     "mid": [
       {
-        "number": null,
-        "name": "Buchanan",
+        "number": 17,
+        "name": "Tajon Buchanan",
         "club": "Villarreal"
       },
       {
-        "number": null,
-        "name": "Saliba",
+        "number": 6,
+        "name": "Mathieu Choinière",
+        "club": "LAFC"
+      },
+      {
+        "number": 25,
+        "name": "Nathan-Dylan Saliba",
         "club": "Anderlecht"
       },
       {
-        "number": null,
-        "name": "Eustáquio",
-        "club": "FC Porto"
-      },
-      {
-        "number": null,
-        "name": "Ahmed",
+        "number": 20,
+        "name": "Ali Ahmed",
         "club": "Norwich City"
       }
     ],
     "fwd": [
       {
-        "number": null,
-        "name": "J. David",
+        "number": 10,
+        "name": "Jonathan David",
         "club": "Juventus"
       },
       {
-        "number": null,
-        "name": "Larin",
+        "number": 9,
+        "name": "Cyle Larin",
         "club": "Southampton"
       }
     ]

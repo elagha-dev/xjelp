@@ -1,69 +1,69 @@
 {
   "formation": "4-3-3",
   "available": true,
-  "note": "Confirmed XI vs Bosnia and Herzegovina (June 24, 2026)",
+  "note": "Predicted XI vs Bosnia and Herzegovina, June 24, 2026",
   "lineup": {
     "gk": [
       {
-        "number": 1,
+        "number": null,
         "name": "Mahmoud Abunada",
         "club": "Al-Rayyan"
       }
     ],
     "def": [
       {
-        "number": 2,
+        "number": null,
+        "name": "Ayoub Al Oui",
+        "club": "Al Gharafa"
+      },
+      {
+        "number": null,
         "name": "Pedro Miguel",
         "club": "Al-Sadd"
       },
       {
-        "number": 16,
+        "number": null,
         "name": "Boualem Khoukhi",
         "club": "Al-Sadd"
       },
       {
-        "number": 4,
-        "name": "Issa Laye",
-        "club": "Al-Arabi"
-      },
-      {
-        "number": 18,
-        "name": "Sultan Al Brake",
+        "number": null,
+        "name": "Sultan Al-Brake",
         "club": "Al-Duhail"
       }
     ],
     "mid": [
       {
-        "number": 20,
-        "name": "Ahmed Fathy",
-        "club": "Al-Arabi"
-      },
-      {
-        "number": 5,
+        "number": null,
         "name": "Jassem Gaber",
-        "club": "Al-Arabi"
+        "club": "Al-Rayyan"
       },
       {
-        "number": 12,
+        "number": null,
+        "name": "Ahmed Fathy",
+        "club": "Al Arabi"
+      },
+      {
+        "number": null,
         "name": "Karim Boudiaf",
         "club": "Al-Duhail"
       }
     ],
     "fwd": [
       {
-        "number": 10,
-        "name": "Hasan Al-Haydos",
+        "number": null,
+        "name": "Akram Afif",
         "club": "Al-Sadd"
       },
       {
-        "number": 8,
-        "name": "Edmilson Junior",
+        "number": null,
+        "name": "Almoez Ali",
         "club": "Al-Duhail"
       },
       {
-        "number": 11,
-        "name": "Akram Afif",
-        "club": "Al-Sadd"
+        "number": null,
+        "name": "Edmilson Junior",
+        "club": "Al-Duhail"
       }
     ]
   }

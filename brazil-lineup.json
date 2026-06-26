@@ -1,7 +1,7 @@
 {
-  "formation": "4-2-3-1",
+  "formation": "4-3-3",
   "available": true,
-  "note": "Confirmed XI vs Scotland",
+  "note": "Confirmed XI vs Scotland in World Cup 2026",
   "lineup": {
     "gk": [
       {
@@ -12,57 +12,57 @@
     ],
     "def": [
       {
-        "number": 2,
+        "number": 13,
         "name": "Danilo",
-        "club": "Juventus"
-      },
-      {
-        "number": 3,
-        "name": "Marquinhos",
-        "club": "Paris Saint-Germain"
+        "club": "Flamengo"
       },
       {
         "number": 4,
-        "name": "Gabriel Magalhães",
+        "name": "Marquinhos",
+        "club": "PSG"
+      },
+      {
+        "number": 3,
+        "name": "Gabriel Magalhaes",
         "club": "Arsenal"
       },
       {
-        "number": 6,
+        "number": 16,
         "name": "Douglas Santos",
-        "club": "Zenit Saint Petersburg"
+        "club": "Zenit"
       }
     ],
     "mid": [
       {
         "number": 5,
         "name": "Casemiro",
-        "club": "Al Ittihad"
+        "club": "Manchester United"
       },
       {
         "number": 8,
-        "name": "Bruno Guimarães",
-        "club": "Newcastle United"
+        "name": "Bruno Guimaraes",
+        "club": "Newcastle"
       },
       {
-        "number": 10,
-        "name": "Lucas Paquetá",
-        "club": "West Ham United"
+        "number": 20,
+        "name": "Lucas Paqueta",
+        "club": "Flamengo"
       }
     ],
     "fwd": [
       {
-        "number": 7,
+        "number": 26,
         "name": "Rayan",
-        "club": "AFC Bournemouth"
+        "club": "Bournemouth"
       },
       {
         "number": 9,
         "name": "Matheus Cunha",
-        "club": "Wolverhampton Wanderers"
+        "club": "Manchester United"
       },
       {
-        "number": 11,
-        "name": "Vinícius Jr.",
+        "number": 7,
+        "name": "Vinicius Jr.",
         "club": "Real Madrid"
       }
     ]

@@ -1,69 +1,69 @@
 {
   "formation": "3-4-2-1",
   "available": true,
-  "note": "Confirmed XI vs South Africa (FIFA World Cup 2026 Group A Matchday 3)",
+  "note": "Confirmed XI vs South Africa",
   "lineup": {
     "gk": [
       {
-        "number": null,
+        "number": 1,
         "name": "Kim Seung-gyu",
         "club": "FC Tokyo"
       }
     ],
     "def": [
       {
-        "number": null,
-        "name": "Lee Gi-hyeok",
-        "club": "Gangwon FC"
-      },
-      {
-        "number": null,
+        "number": 4,
         "name": "Kim Min-jae",
         "club": "Bayern Munich"
       },
       {
-        "number": null,
+        "number": 2,
         "name": "Lee Han-beom",
-        "club": "FC Midtjylland"
+        "club": "Midtjylland"
+      },
+      {
+        "number": 14,
+        "name": "Cho Yu-min",
+        "club": "Sharjah FC"
       }
     ],
     "mid": [
       {
-        "number": null,
+        "number": 22,
         "name": "Seol Young-woo",
-        "club": "FK Crvena zvezda"
+        "club": "Red Star"
       },
       {
-        "number": null,
+        "number": 6,
         "name": "Hwang In-beom",
-        "club": "Feyenoord Rotterdam"
+        "club": "Feyenoord"
       },
       {
-        "number": null,
+        "number": 8,
         "name": "Paik Seung-ho",
-        "club": "Birmingham City FC"
+        "club": "Birmingham City"
       },
       {
-        "number": null,
+        "number": 13,
         "name": "Lee Tae-seok",
-        "club": "FK Austria Wien"
+        "club": "Austria Wien"
       }
     ],
     "fwd": [
       {
-        "number": null,
-        "name": "Lee Kang-in",
-        "club": "Paris Saint-Germain FC"
-      },
-      {
-        "number": null,
+        "number": 11,
         "name": "Hwang Hee-chan",
-        "club": "Wolverhampton Wanderers FC"
+        "club": "Wolves"
       },
       {
-        "number": null,
+        "number": 19,
+        "name": "Lee Kang-in",
+        "club": "PSG"
+      },
+      {
+        "number": 18,
         "name": "Oh Hyeon-gyu",
-        "club": "Besiktas JK"
+        "club": "Besiktas"
       }
     ]
   }

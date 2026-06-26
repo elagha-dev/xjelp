@@ -5,63 +5,63 @@
   "lineup": {
     "gk": [
       {
-        "number": null,
+        "number": 1,
         "name": "Raúl Rangel",
         "club": "Chivas"
       }
     ],
     "def": [
       {
-        "number": null,
+        "number": 2,
         "name": "Jorge Sánchez",
-        "club": "Cruz Azul"
+        "club": "PAOK"
       },
       {
-        "number": null,
+        "number": 3,
         "name": "Israel Reyes",
-        "club": "América"
+        "club": "Club América"
       },
       {
-        "number": null,
+        "number": 4,
         "name": "Cesar Montes",
         "club": "Lokomotiv Moscow"
       },
       {
-        "number": null,
-        "name": "Mateo Chavez",
-        "club": "AZ Alkmaar"
+        "number": 5,
+        "name": "Mateo Chávez",
+        "club": "PSV"
       }
     ],
     "mid": [
       {
-        "number": null,
+        "number": 6,
         "name": "Luis Romo",
         "club": "Chivas"
       },
       {
-        "number": null,
+        "number": 8,
         "name": "Edson Álvarez",
-        "club": "West Ham United"
+        "club": "Fenerbahçe"
       },
       {
-        "number": null,
+        "number": 10,
         "name": "Gilberto Mora",
-        "club": "Tijuana"
+        "club": "Club Tijuana"
       }
     ],
     "fwd": [
       {
-        "number": null,
+        "number": 7,
         "name": "Roberto Alvarado",
         "club": "Chivas"
       },
       {
-        "number": null,
+        "number": 9,
         "name": "Guillermo Martinez",
         "club": "Pumas"
       },
       {
-        "number": null,
+        "number": 11,
         "name": "Julián Quiñones",
         "club": "Al-Qadsiah"
       }

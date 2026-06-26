@@ -5,63 +5,52 @@
   "lineup": {
     "gk": [
       {
-        "number": 1,
         "name": "Nikola Vasilj",
         "club": "FC St. Pauli"
       }
     ],
     "def": [
       {
-        "number": 24,
-        "name": "Arjan Malić",
-        "club": "Unknown"
+        "name": "Amar Dedić",
+        "club": "SL Benfica"
       },
       {
-        "number": 18,
         "name": "Nikola Katić",
-        "club": "FC Schalke 04"
+        "club": "Schalke 04"
       },
       {
-        "number": 21,
-        "name": "Stjepan Radeljić",
-        "club": "HNK Rijeka"
+        "name": "Dennis Hadžikadunić",
+        "club": "UC Sampdoria"
       },
       {
-        "number": 5,
         "name": "Sead Kolašinac",
-        "club": "Atalanta Bergamo"
+        "club": "Atalanta BC"
       }
     ],
     "mid": [
       {
-        "number": 20,
-        "name": "Esmir Bajraktarević",
-        "club": "PSV Eindhoven"
+        "name": "Amar Memić",
+        "club": "FC Viktoria Plzeň"
       },
       {
-        "number": 13,
-        "name": "Ivan Bašić",
-        "club": "FC Astana"
+        "name": "Benjamin Tahirović",
+        "club": "Bröndby IF"
       },
       {
-        "number": 14,
         "name": "Ivan Šunjić",
         "club": "Pafos FC"
       },
       {
-        "number": 19,
         "name": "Kerim Alajbegović",
-        "club": "FC Red Bull Salzburg"
+        "club": "RB Salzburg"
       }
     ],
     "fwd": [
       {
-        "number": 10,
         "name": "Ermedin Demirović",
         "club": "VfB Stuttgart"
       },
       {
-        "number": 11,
         "name": "Edin Džeko",
         "club": "FC Schalke 04"
       }

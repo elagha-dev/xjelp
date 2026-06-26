@@ -24,44 +24,44 @@
     },
     {
       "number": 4,
-      "name": "Alex Sandro",
+      "name": "Marquinhos",
       "position": "DF",
-      "club": "Flamengo",
+      "club": "PSG",
       "caps": 0
     },
     {
       "number": 5,
-      "name": "Bremer",
-      "position": "DF",
-      "club": "Juventus",
-      "caps": 0
-    },
-    {
-      "number": 6,
       "name": "Danilo",
       "position": "DF",
       "club": "Flamengo",
       "caps": 0
     },
     {
-      "number": 7,
-      "name": "Douglas Santos",
+      "number": 6,
+      "name": "Alex Sandro",
       "position": "DF",
-      "club": "Zenit",
+      "club": "Flamengo",
+      "caps": 0
+    },
+    {
+      "number": 7,
+      "name": "Gabriel Magalhães",
+      "position": "DF",
+      "club": "Arsenal",
       "caps": 0
     },
     {
       "number": 8,
-      "name": "Éderson",
+      "name": "Bremer",
       "position": "DF",
-      "club": "Atalanta",
+      "club": "Juventus",
       "caps": 0
     },
     {
       "number": 9,
-      "name": "Gabriel Magalhães",
+      "name": "Douglas Santos",
       "position": "DF",
-      "club": "Arsenal",
+      "club": "Zenit",
       "caps": 0
     },
     {
@@ -80,9 +80,9 @@
     },
     {
       "number": 12,
-      "name": "Marquinhos",
+      "name": "Eder",
       "position": "DF",
-      "club": "PSG",
+      "club": "Atalanta",
       "caps": 0
     },
     {
@@ -117,56 +117,56 @@
       "number": 17,
       "name": "Lucas Paquetá",
       "position": "MF",
-      "club": "Flamengo",
+      "club": "West Ham United",
       "caps": 0
     },
     {
       "number": 18,
-      "name": "Endrick",
+      "name": "Raphinha",
       "position": "FW",
-      "club": "Lyon",
+      "club": "Barcelona",
       "caps": 0
     },
     {
       "number": 19,
-      "name": "Gabriel Martinelli",
-      "position": "FW",
-      "club": "Arsenal",
-      "caps": 0
-    },
-    {
-      "number": 20,
-      "name": "Igor Thiago",
-      "position": "FW",
-      "club": "Brentford",
-      "caps": 0
-    },
-    {
-      "number": 21,
-      "name": "Luiz Henrique",
-      "position": "FW",
-      "club": "Zenit",
-      "caps": 0
-    },
-    {
-      "number": 22,
-      "name": "Matheus Cunha",
-      "position": "FW",
-      "club": "Manchester United",
-      "caps": 0
-    },
-    {
-      "number": 23,
       "name": "Neymar",
       "position": "FW",
       "club": "Santos",
       "caps": 0
     },
     {
-      "number": 24,
-      "name": "Raphinha",
+      "number": 20,
+      "name": "Vinicius Junior",
       "position": "FW",
-      "club": "Barcelona",
+      "club": "Real Madrid",
+      "caps": 0
+    },
+    {
+      "number": 21,
+      "name": "Endrick",
+      "position": "FW",
+      "club": "Lyon",
+      "caps": 0
+    },
+    {
+      "number": 22,
+      "name": "Gabriel Martinelli",
+      "position": "FW",
+      "club": "Arsenal",
+      "caps": 0
+    },
+    {
+      "number": 23,
+      "name": "Igor Thiago",
+      "position": "FW",
+      "club": "Brentford",
+      "caps": 0
+    },
+    {
+      "number": 24,
+      "name": "Luiz Henrique",
+      "position": "FW",
+      "club": "Zenit",
       "caps": 0
     },
     {
@@ -178,9 +178,9 @@
     },
     {
       "number": 26,
-      "name": "Vinícius Júnior",
+      "name": "Matheus Cunha",
       "position": "FW",
-      "club": "Real Madrid",
+      "club": "Wolverhampton Wanderers",
       "caps": 0
     }
   ]

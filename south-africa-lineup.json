@@ -1,69 +1,69 @@
 {
-  "formation": "4-3-3",
+  "formation": "4-2-3-1",
   "available": true,
-  "note": "Confirmed XI vs South Korea (FIFA World Cup 2026 Group A Match)",
+  "note": "Confirmed XI vs South Korea",
   "lineup": {
     "gk": [
       {
-        "number": -1,
+        "number": 1,
         "name": "Ronwen Williams",
         "club": "Mamelodi Sundowns"
       }
     ],
     "def": [
       {
-        "number": -1,
+        "number": 20,
         "name": "Khuliso Mudau",
         "club": "Mamelodi Sundowns"
       },
       {
-        "number": -1,
+        "number": 14,
+        "name": "Mbekezeli Mbokazi",
+        "club": "Chicago Fire FC"
+      },
+      {
+        "number": 21,
         "name": "Ime Okon",
         "club": "Hannover 96"
       },
       {
-        "number": -1,
-        "name": "Mbekezeli Mbokazi",
-        "club": "Chicago Fire"
-      },
-      {
-        "number": -1,
+        "number": 6,
         "name": "Aubrey Modiba",
         "club": "Mamelodi Sundowns"
       }
     ],
     "mid": [
       {
-        "number": -1,
+        "number": 5,
         "name": "Thalente Mbatha",
-        "club": "Orlando Pirates"
+        "club": "Orlando Pirates FC"
       },
       {
-        "number": -1,
+        "number": 13,
         "name": "Sphephelo Sithole",
         "club": "CD Tondela"
       },
       {
-        "number": -1,
+        "number": 12,
+        "name": "Thapelo Maseko",
+        "club": "AEL Limassol"
+      },
+      {
+        "number": 10,
         "name": "Relebohile Mofokeng",
-        "club": "Orlando Pirates"
+        "club": "Orlando Pirates FC"
+      },
+      {
+        "number": 7,
+        "name": "Oswin Appollis",
+        "club": "Orlando Pirates FC"
       }
     ],
     "fwd": [
       {
-        "number": -1,
-        "name": "Thapelo Maseko",
-        "club": "Orlando Pirates"
-      },
-      {
-        "number": -1,
+        "number": 17,
         "name": "Evidence Makgopa",
-        "club": "Orlando Pirates"
-      },
-      {
-        "number": -1,
-        "name": "Oswin Appollis",
-        "club": "Orlando Pirates"
+        "club": "Orlando Pirates FC"
       }
     ]
   }
