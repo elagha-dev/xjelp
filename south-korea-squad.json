@@ -6,7 +6,7 @@
       "name": "Kim Seung-gyu",
       "position": "GK",
       "club": "FC Tokyo",
-      "caps": 80
+      "caps": 0
     },
     {
       "number": 2,
@@ -17,17 +17,17 @@
     },
     {
       "number": 3,
-      "name": "Lee Ki-hyuk",
+      "name": "Lee Gi-hyuk",
       "position": "DF",
-      "club": "Gangwon FC",
-      "caps": 1
+      "club": "Gangwon",
+      "caps": 0
     },
     {
       "number": 4,
       "name": "Kim Min-jae",
       "position": "DF",
       "club": "Bayern Munich",
-      "caps": 0
+      "caps": 75
     },
     {
       "number": 5,
@@ -47,8 +47,8 @@
       "number": 7,
       "name": "Son Heung-min",
       "position": "FW",
-      "club": "LA FC",
-      "caps": 0
+      "club": "LAFC",
+      "caps": 141
     },
     {
       "number": 8,
@@ -68,14 +68,14 @@
       "number": 10,
       "name": "Lee Jae-sung",
       "position": "MF",
-      "club": "Mainz 05",
-      "caps": 100
+      "club": "Mainz",
+      "caps": 0
     },
     {
       "number": 11,
       "name": "Hwang Hee-chan",
-      "position": "MF",
-      "club": "Wolverhampton",
+      "position": "FW",
+      "club": "Wolverhampton Wanderers",
       "caps": 0
     },
     {
@@ -103,14 +103,14 @@
       "number": 15,
       "name": "Kim Moon-hwan",
       "position": "DF",
-      "club": "Daejeon Hana Citizen",
+      "club": "Daejeon",
       "caps": 0
     },
     {
       "number": 16,
       "name": "Park Jin-seob",
       "position": "DF",
-      "club": "Zhejiang FC",
+      "club": "Zhejiang",
       "caps": 0
     },
     {
@@ -131,7 +131,7 @@
       "number": 19,
       "name": "Lee Kang-in",
       "position": "MF",
-      "club": "PSG",
+      "club": "Paris Saint-Germain",
       "caps": 0
     },
     {
@@ -145,14 +145,14 @@
       "number": 21,
       "name": "Jo Hyeon-woo",
       "position": "GK",
-      "club": "Ulsan HD",
+      "club": "Ulsan",
       "caps": 0
     },
     {
       "number": 22,
       "name": "Seol Young-woo",
       "position": "DF",
-      "club": "Crvena Zvezda",
+      "club": "Red Star",
       "caps": 0
     },
     {
@@ -166,7 +166,7 @@
       "number": 24,
       "name": "Kim Jin-gyu",
       "position": "MF",
-      "club": "Jeonbuk Hyundai",
+      "club": "Jeonbuk",
       "caps": 0
     },
     {
@@ -180,7 +180,7 @@
       "number": 26,
       "name": "Lee Dong-gyeong",
       "position": "MF",
-      "club": "Ulsan HD",
+      "club": "Ulsan",
       "caps": 0
     }
   ]
