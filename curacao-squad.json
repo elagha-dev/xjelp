@@ -1,0 +1,187 @@
+{
+  "coach": "Dick Advocaat",
+  "squad": [
+    {
+      "number": null,
+      "name": "Tyrick Bodak",
+      "position": "GK",
+      "club": "SC Telstar",
+      "caps": 0
+    },
+    {
+      "number": null,
+      "name": "Trevor Doornbusch",
+      "position": "GK",
+      "club": "VVV-Venlo",
+      "caps": 0
+    },
+    {
+      "number": null,
+      "name": "Eloy Room",
+      "position": "GK",
+      "club": "Miami FC",
+      "caps": 75
+    },
+    {
+      "number": null,
+      "name": "Riechedly Bazoer",
+      "position": "DF",
+      "club": "Konyaspor",
+      "caps": 0
+    },
+    {
+      "number": null,
+      "name": "Joshua Brenet",
+      "position": "DF",
+      "club": "Kayserispor",
+      "caps": 0
+    },
+    {
+      "number": null,
+      "name": "Roshon van Eijma",
+      "position": "DF",
+      "club": "RKC Waalwijk",
+      "caps": 0
+    },
+    {
+      "number": null,
+      "name": "Sherel Floranus",
+      "position": "DF",
+      "club": "PEC Zwolle",
+      "caps": 0
+    },
+    {
+      "number": null,
+      "name": "Deveron Fonville",
+      "position": "DF",
+      "club": "NEC Nijmegen",
+      "caps": 0
+    },
+    {
+      "number": null,
+      "name": "Juriën Gaari",
+      "position": "DF",
+      "club": "Abha Club",
+      "caps": 0
+    },
+    {
+      "number": null,
+      "name": "Armando Obispo",
+      "position": "DF",
+      "club": "PSV Eindhoven",
+      "caps": 0
+    },
+    {
+      "number": null,
+      "name": "Shurandy Sambo",
+      "position": "DF",
+      "club": "Sparta Rotterdam",
+      "caps": 0
+    },
+    {
+      "number": null,
+      "name": "Juninho Bacuna",
+      "position": "MF",
+      "club": "FC Volendam",
+      "caps": 0
+    },
+    {
+      "number": null,
+      "name": "Leandro Bacuna",
+      "position": "MF",
+      "club": "Iğdır FK",
+      "caps": 75
+    },
+    {
+      "number": null,
+      "name": "Livano Comenencia",
+      "position": "MF",
+      "club": "FC Zürich",
+      "caps": 0
+    },
+    {
+      "number": null,
+      "name": "Kevin Felida",
+      "position": "MF",
+      "club": "FC Den Bosch",
+      "caps": 0
+    },
+    {
+      "number": null,
+      "name": "Ar'Jany Martha",
+      "position": "MF",
+      "club": "Rotherham United",
+      "caps": 0
+    },
+    {
+      "number": null,
+      "name": "Tyrese Noslin",
+      "position": "MF",
+      "club": "SC Telstar",
+      "caps": 0
+    },
+    {
+      "number": null,
+      "name": "Godfried Roemeratoe",
+      "position": "MF",
+      "club": "RKC Waalwijk",
+      "caps": 0
+    },
+    {
+      "number": null,
+      "name": "Jeremy Antonisse",
+      "position": "FW",
+      "club": "AE Kifisia",
+      "caps": 0
+    },
+    {
+      "number": null,
+      "name": "Tahith Chong",
+      "position": "FW",
+      "club": "Sheffield United",
+      "caps": 0
+    },
+    {
+      "number": null,
+      "name": "Kenji Gorre",
+      "position": "FW",
+      "club": "Maccabi Haifa",
+      "caps": 0
+    },
+    {
+      "number": null,
+      "name": "Sontje Hansen",
+      "position": "FW",
+      "club": "Middlesbrough",
+      "caps": 0
+    },
+    {
+      "number": null,
+      "name": "Gervane Kastaneer",
+      "position": "FW",
+      "club": "Terengganu FC",
+      "caps": 0
+    },
+    {
+      "number": null,
+      "name": "Brandley Kuwas",
+      "position": "FW",
+      "club": "FC Volendam",
+      "caps": 0
+    },
+    {
+      "number": null,
+      "name": "Jurgen Locadia",
+      "position": "FW",
+      "club": "Miami FC",
+      "caps": 0
+    },
+    {
+      "number": null,
+      "name": "Jearl Margaritha",
+      "position": "FW",
+      "club": "SK Beveren",
+      "caps": 0
+    }
+  ]
+}
