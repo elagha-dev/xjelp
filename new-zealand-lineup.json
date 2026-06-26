@@ -1,7 +1,7 @@
 {
   "formation": "4-2-3-1",
   "available": true,
-  "note": "Confirmed XI vs Egypt on June 21, 2026.",
+  "note": "Predicted XI vs Belgium",
   "lineup": {
     "gk": [
       {
@@ -24,12 +24,12 @@
       {
         "number": 5,
         "name": "Michael Boxall",
-        "club": "Minnesota United FC"
+        "club": "Minnesota United"
       },
       {
         "number": 13,
         "name": "Liberato Cacace",
-        "club": "Wrexham"
+        "club": "Wrexham AFC"
       }
     ],
     "mid": [
@@ -55,7 +55,7 @@
       },
       {
         "number": 11,
-        "name": "Elijah Just",
+        "name": "Eli Just",
         "club": "Motherwell FC"
       }
     ],
