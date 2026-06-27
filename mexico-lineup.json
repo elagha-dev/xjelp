@@ -1,6 +1,70 @@
 {
-  "formation": null,
-  "available": false,
-  "note": "A confirmed starting lineup for Mexico against Czechia on June 24, 2026, was found, but specific jersey numbers for the players were not available in the search results. Therefore, a complete lineup in the requested format cannot be provided.",
-  "lineup": null
+  "formation": "4-3-3",
+  "available": true,
+  "note": "Projected XI for the knockout stage",
+  "lineup": {
+    "gk": [
+      {
+        "number": 1,
+        "name": "Raúl Rangel",
+        "club": "Chivas"
+      }
+    ],
+    "def": [
+      {
+        "number": 23,
+        "name": "Jesús Gallardo",
+        "club": "Toluca"
+      },
+      {
+        "number": 5,
+        "name": "Johan Vásquez",
+        "club": "Genoa"
+      },
+      {
+        "number": 3,
+        "name": "César Montes",
+        "club": "Lokomotiv Moscow"
+      },
+      {
+        "number": 15,
+        "name": "Israel Reyes",
+        "club": "Club América"
+      }
+    ],
+    "mid": [
+      {
+        "number": 4,
+        "name": "Edson Álvarez",
+        "club": "Fenerbahçe"
+      },
+      {
+        "number": 8,
+        "name": "Álvaro Fidalgo",
+        "club": "Real Betis"
+      },
+      {
+        "number": 19,
+        "name": "Gilberto Mora",
+        "club": "Club Tijuana"
+      }
+    ],
+    "fwd": [
+      {
+        "number": 10,
+        "name": "Alexis Vega",
+        "club": "Toluca"
+      },
+      {
+        "number": 9,
+        "name": "Raúl Jiménez",
+        "club": "Fulham"
+      },
+      {
+        "number": 25,
+        "name": "Roberto Alvarado",
+        "club": "Chivas"
+      }
+    ]
+  }
 }
