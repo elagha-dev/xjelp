@@ -1,69 +1,69 @@
 {
-  "formation": "4-4-2",
+  "formation": "4-5-1",
   "available": true,
-  "note": "Projected XI for opening game vs Haiti",
+  "note": "Confirmed XI vs Brazil (June 25, 2026)",
   "lineup": {
     "gk": [
       {
-        "number": null,
+        "number": 1,
         "name": "Angus Gunn",
         "club": "Nottingham Forest"
       }
     ],
     "def": [
       {
-        "number": null,
-        "name": "Aaron Hickey",
-        "club": "Brentford"
+        "number": 2,
+        "name": "Nathan Patterson",
+        "club": "Everton"
       },
       {
-        "number": null,
-        "name": "John Souttar",
-        "club": "Hearts"
+        "number": 5,
+        "name": "Scott McKenna",
+        "club": "Dinamo Zagreb"
       },
       {
-        "number": null,
-        "name": "Grant Hanley",
-        "club": "Hibernian"
+        "number": 4,
+        "name": "Jack Hendry",
+        "club": "Al-Ettifaq"
       },
       {
-        "number": null,
+        "number": 3,
         "name": "Andy Robertson",
         "club": "Liverpool"
       }
     ],
     "mid": [
       {
-        "number": null,
-        "name": "Scott McTominay",
-        "club": "Napoli"
+        "number": 8,
+        "name": "Kenny McLean",
+        "club": "Norwich City"
       },
       {
-        "number": null,
+        "number": 7,
         "name": "Lewis Ferguson",
         "club": "Bologna"
       },
       {
-        "number": null,
-        "name": "Ben Gannon-Doak",
-        "club": "Bournemouth"
-      },
-      {
-        "number": null,
+        "number": 10,
         "name": "John McGinn",
         "club": "Aston Villa"
+      },
+      {
+        "number": 6,
+        "name": "Scott McTominay",
+        "club": "Napoli"
+      },
+      {
+        "number": 11,
+        "name": "Ben Gannon-Doak",
+        "club": "Bournemouth"
       }
     ],
     "fwd": [
       {
-        "number": null,
+        "number": 9,
         "name": "Lawrence Shankland",
         "club": "Hearts"
-      },
-      {
-        "number": null,
-        "name": "Che Adams",
-        "club": "Torino"
       }
     ]
   }
