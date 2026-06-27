@@ -3,161 +3,185 @@
   "squad": [
     {
       "number": 1,
-      "name": "Meshaal Barsham",
-      "position": "GK",
-      "club": "Al-Sadd"
-    },
-    {
-      "number": 2,
       "name": "Mahmoud Abunada",
       "position": "GK",
-      "club": "Al-Rayyan"
-    },
-    {
-      "number": 3,
-      "name": "Salah Zakaria",
-      "position": "GK",
-      "club": "Al-Duhail"
-    },
-    {
-      "number": 4,
-      "name": "Pedro Miguel",
-      "position": "DF",
-      "club": "Al-Sadd"
-    },
-    {
-      "number": 5,
-      "name": "Boualem Khoukhi",
-      "position": "DF",
-      "club": "Al-Sadd"
-    },
-    {
-      "number": 6,
-      "name": "Lucas Mendes",
-      "position": "DF",
-      "club": "Al-Wakrah"
-    },
-    {
-      "number": 7,
-      "name": "Sultan Al Brake",
-      "position": "DF",
-      "club": "Al-Duhail"
-    },
-    {
-      "number": 8,
-      "name": "Alhashmi Alhussain",
-      "position": "DF",
-      "club": "Al-Arabi"
-    },
-    {
-      "number": 9,
-      "name": "Ayoub Al Alawi",
-      "position": "DF",
-      "club": "Al-Gharafa"
-    },
-    {
-      "number": 10,
-      "name": "Homam Al Amin",
-      "position": "DF",
-      "club": "Cultural Leonesa"
-    },
-    {
-      "number": 11,
-      "name": "Issa Laye",
-      "position": "DF",
-      "club": "Al-Arabi"
-    },
-    {
-      "number": 12,
-      "name": "Assim Madibo",
-      "position": "MF",
-      "club": "Al-Wakrah"
-    },
-    {
-      "number": 13,
-      "name": "Abdulaziz Hatem",
-      "position": "MF",
-      "club": "Al-Rayyan"
-    },
-    {
-      "number": 14,
-      "name": "Ahmed Fathy",
-      "position": "MF",
-      "club": "Al-Arabi"
-    },
-    {
-      "number": 15,
-      "name": "Karim Boudiaf",
-      "position": "MF",
-      "club": "Al-Duhail"
-    },
-    {
-      "number": 16,
-      "name": "Jassim Gaber",
-      "position": "MF",
-      "club": "Al-Arabi"
-    },
-    {
-      "number": 17,
-      "name": "Mohammed Manai",
-      "position": "MF",
-      "club": "Al-Shamal"
-    },
-    {
-      "number": 18,
-      "name": "Tahsin Mohammed",
-      "position": "MF",
-      "club": "Al-Duhail"
-    },
-    {
-      "number": 19,
-      "name": "Akram Afif",
-      "position": "FW",
-      "club": "Al-Sadd"
-    },
-    {
-      "number": 20,
-      "name": "Almoez Ali",
-      "position": "FW",
-      "club": "Al-Duhail",
-      "caps": 126
-    },
-    {
-      "number": 21,
-      "name": "Hassan Al Haydos",
-      "position": "FW",
-      "club": "Al-Sadd",
-      "caps": 188
+      "club": "Al-Rayyan",
+      "caps": null
     },
     {
       "number": 22,
+      "name": "Meshaal Barsham",
+      "position": "GK",
+      "club": "Al-Sadd",
+      "caps": null
+    },
+    {
+      "number": 21,
+      "name": "Salah Zakaria",
+      "position": "GK",
+      "club": "Al-Duhail",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Pedro Miguel",
+      "position": "DF",
+      "club": "Al-Sadd",
+      "caps": null
+    },
+    {
+      "number": 16,
+      "name": "Boualem Khoukhi",
+      "position": "DF",
+      "club": "Al-Sadd",
+      "caps": null
+    },
+    {
+      "number": 3,
+      "name": "Lucas Mendes",
+      "position": "DF",
+      "club": "Al-Wakrah",
+      "caps": null
+    },
+    {
+      "number": 18,
+      "name": "Sultan Al Brake",
+      "position": "DF",
+      "club": "Al-Duhail",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Al-Hashmi Al-Hussain",
+      "position": "DF",
+      "club": "Al-Arabi",
+      "caps": null
+    },
+    {
+      "number": 13,
+      "name": "Ayoub Al-Oui",
+      "position": "DF",
+      "club": "Al-Gharafa SC",
+      "caps": null
+    },
+    {
+      "number": 14,
+      "name": "Homam Ahmed",
+      "position": "DF",
+      "club": "Al-Duhail",
+      "caps": null
+    },
+    {
+      "number": 4,
+      "name": "Issa Laye",
+      "position": "DF",
+      "club": "Al-Arabi Doha",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Ahmed Fathy",
+      "position": "MF",
+      "club": "Al-Arabi",
+      "caps": null
+    },
+    {
+      "number": 5,
+      "name": "Jassem Gaber",
+      "position": "MF",
+      "club": "Al-Rayyan",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Assim Madibo",
+      "position": "MF",
+      "club": "Al-Wakrah",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Abdulaziz Hatem",
+      "position": "MF",
+      "club": "Al-Rayyan",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Karim Boudiaf",
+      "position": "MF",
+      "club": "Al-Duhail",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Mohamed Al-Mannai",
+      "position": "MF",
+      "club": "Al-Shamal",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Tahsin Mohammed",
+      "position": "MF",
+      "club": "Al-Duhail",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Hassan Al Haydos",
+      "position": "FW",
+      "club": "Al-Sadd",
+      "caps": null
+    },
+    {
+      "number": null,
       "name": "Ahmed Al Janhi",
       "position": "FW",
-      "club": "Al-Gharafa"
+      "club": "Al-Gharafa",
+      "caps": null
     },
     {
-      "number": 23,
-      "name": "Ahmed Alaa",
+      "number": null,
+      "name": "Almoez Ali",
       "position": "FW",
-      "club": "Al-Rayyan"
+      "club": "Al-Duhail",
+      "caps": null
     },
     {
-      "number": 24,
+      "number": null,
+      "name": "Akram Afif",
+      "position": "FW",
+      "club": "Al-Sadd",
+      "caps": null
+    },
+    {
+      "number": null,
       "name": "Edmilson Junior",
       "position": "FW",
-      "club": "Al-Duhail"
+      "club": "Al-Duhail",
+      "caps": null
     },
     {
-      "number": 25,
+      "number": null,
+      "name": "Ahmed Alaa",
+      "position": "FW",
+      "club": "Al-Rayyan",
+      "caps": null
+    },
+    {
+      "number": null,
       "name": "Mohammed Muntari",
       "position": "FW",
-      "club": "Al-Gharafa"
+      "club": "Al-Gharafa",
+      "caps": null
     },
     {
-      "number": 26,
+      "number": null,
       "name": "Yusuf Abdurisag",
       "position": "FW",
-      "club": "Al-Wakrah"
+      "club": "Al-Wakrah",
+      "caps": null
     }
   ]
 }
