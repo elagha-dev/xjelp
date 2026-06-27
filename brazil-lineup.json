@@ -1,7 +1,7 @@
 {
   "formation": "4-3-3",
   "available": true,
-  "note": "Confirmed XI vs Scotland in World Cup 2026",
+  "note": "Confirmed XI vs Scotland (June 24, 2026)",
   "lineup": {
     "gk": [
       {
@@ -12,7 +12,7 @@
     ],
     "def": [
       {
-        "number": 13,
+        "number": null,
         "name": "Danilo",
         "club": "Flamengo"
       },
@@ -27,43 +27,43 @@
         "club": "Arsenal"
       },
       {
-        "number": 16,
+        "number": 15,
         "name": "Douglas Santos",
         "club": "Zenit"
       }
     ],
     "mid": [
       {
-        "number": 5,
+        "number": 6,
         "name": "Casemiro",
         "club": "Manchester United"
       },
       {
-        "number": 8,
+        "number": null,
         "name": "Bruno Guimaraes",
-        "club": "Newcastle"
+        "club": "Newcastle United"
       },
       {
-        "number": 20,
+        "number": null,
         "name": "Lucas Paqueta",
         "club": "Flamengo"
       }
     ],
     "fwd": [
       {
-        "number": 26,
+        "number": null,
         "name": "Rayan",
         "club": "Bournemouth"
-      },
-      {
-        "number": 9,
-        "name": "Matheus Cunha",
-        "club": "Manchester United"
       },
       {
         "number": 7,
         "name": "Vinicius Jr.",
         "club": "Real Madrid"
+      },
+      {
+        "number": 11,
+        "name": "Matheus Cunha",
+        "club": "Manchester United"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "formation": "4-4-2",
   "available": true,
-  "note": "Confirmed XI vs Switzerland on June 24, 2026 (FIFA World Cup 2026 Group B)",
+  "note": "Confirmed XI vs Switzerland (June 24, 2026). Player numbers are indicative squad numbers where available.",
   "lineup": {
     "gk": [
       {
@@ -18,13 +18,13 @@
       },
       {
         "number": 4,
-        "name": "Luc De Fougerolles",
-        "club": "FCV Dender EH"
+        "name": "Luc de Fougerolles",
+        "club": "Fulham"
       },
       {
         "number": 13,
         "name": "Derek Cornelius",
-        "club": "Rangers"
+        "club": "Marseille"
       },
       {
         "number": 22,
@@ -45,7 +45,7 @@
       },
       {
         "number": 25,
-        "name": "Nathan-Dylan Saliba",
+        "name": "Nathan Saliba",
         "club": "Anderlecht"
       },
       {
@@ -63,7 +63,7 @@
       {
         "number": 9,
         "name": "Cyle Larin",
-        "club": "Southampton"
+        "club": "Mallorca"
       }
     ]
   }

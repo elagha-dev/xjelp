@@ -5,63 +5,63 @@
   "lineup": {
     "gk": [
       {
-        "number": null,
+        "number": 1,
         "name": "Matej Kovar",
         "club": "PSV Eindhoven"
       }
     ],
     "def": [
       {
-        "number": null,
+        "number": 7,
         "name": "Ladislav Krejci",
         "club": "Wolverhampton Wanderers"
       },
       {
-        "number": null,
+        "number": 4,
         "name": "Robin Hranac",
         "club": "Hoffenheim"
       },
       {
-        "number": null,
+        "number": 21,
         "name": "David Doudera",
         "club": "Slavia Prague"
       }
     ],
     "mid": [
       {
-        "number": null,
+        "number": 3,
         "name": "Tomas Holes",
         "club": "Slavia Prague"
       },
       {
-        "number": null,
+        "number": 18,
         "name": "Michal Sadilek",
         "club": "Slavia Prague"
       },
       {
-        "number": null,
+        "number": 12,
         "name": "Lukas Cerv",
-        "club": "Viktoria Plzen"
+        "club": "Viktoria Plzeň"
       },
       {
-        "number": null,
+        "number": 5,
         "name": "Vladimir Coufal",
         "club": "Hoffenheim"
       }
     ],
     "fwd": [
       {
-        "number": null,
+        "number": 15,
         "name": "Pavel Sulc",
-        "club": "Lyon"
+        "club": "Olympique Lyonnais"
       },
       {
-        "number": null,
+        "number": 26,
         "name": "Denis Visinsky",
-        "club": "Viktoria Plzen"
+        "club": "Viktoria Plzeň"
       },
       {
-        "number": null,
+        "number": 9,
         "name": "Adam Hlozek",
         "club": "Hoffenheim"
       }

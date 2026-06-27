@@ -1,69 +1,69 @@
 {
   "formation": "4-3-3",
   "available": true,
-  "note": "Predicted XI vs Bosnia and Herzegovina, June 24, 2026",
+  "note": "Confirmed XI vs Bosnia and Herzegovina (June 24, 2026)",
   "lineup": {
     "gk": [
       {
         "number": null,
         "name": "Mahmoud Abunada",
-        "club": "Al-Rayyan"
+        "club": null
       }
     ],
     "def": [
       {
         "number": null,
         "name": "Ayoub Al Oui",
-        "club": "Al Gharafa"
+        "club": null
       },
       {
         "number": null,
         "name": "Pedro Miguel",
-        "club": "Al-Sadd"
+        "club": null
       },
       {
         "number": null,
         "name": "Boualem Khoukhi",
-        "club": "Al-Sadd"
+        "club": null
       },
       {
         "number": null,
-        "name": "Sultan Al-Brake",
-        "club": "Al-Duhail"
+        "name": "Sultan Al Brake",
+        "club": null
       }
     ],
     "mid": [
       {
         "number": null,
         "name": "Jassem Gaber",
-        "club": "Al-Rayyan"
-      },
-      {
-        "number": null,
-        "name": "Ahmed Fathy",
-        "club": "Al Arabi"
+        "club": null
       },
       {
         "number": null,
         "name": "Karim Boudiaf",
-        "club": "Al-Duhail"
+        "club": null
+      },
+      {
+        "number": null,
+        "name": "Issa Laye",
+        "club": null
       }
     ],
     "fwd": [
       {
         "number": null,
-        "name": "Akram Afif",
-        "club": "Al-Sadd"
-      },
-      {
-        "number": null,
-        "name": "Almoez Ali",
-        "club": "Al-Duhail"
-      },
-      {
-        "number": null,
         "name": "Edmilson Junior",
-        "club": "Al-Duhail"
+        "club": null
+      },
+      {
+        "number": null,
+        "name": "Youssef Abdurisag",
+        "club": null
+      },
+      {
+        "number": null,
+        "name": "Akram Afif",
+        "club": null
       }
     ]
   }

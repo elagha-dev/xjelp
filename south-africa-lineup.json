@@ -1,7 +1,7 @@
 {
-  "formation": "4-2-3-1",
+  "formation": "4-3-3",
   "available": true,
-  "note": "Confirmed starting XI vs South Korea on June 25, 2026, for the FIFA World Cup 2026. Player numbers are assigned based on common football positions as specific confirmed numbers for this match were not readily available in the search results.",
+  "note": "Confirmed XI vs Czechia (June 25, 2026)",
   "lineup": {
     "gk": [
       {
@@ -17,12 +17,12 @@
         "club": "Mamelodi Sundowns"
       },
       {
-        "number": 5,
+        "number": 4,
         "name": "Ime Okon",
         "club": "Hannover 96"
       },
       {
-        "number": 4,
+        "number": 5,
         "name": "Mbekezeli Mbokazi",
         "club": "Chicago Fire"
       },
@@ -35,8 +35,8 @@
     "mid": [
       {
         "number": 6,
-        "name": "Sphephelo Sithole",
-        "club": "CD Tondela"
+        "name": "Teboho Mokoena",
+        "club": "Mamelodi Sundowns"
       },
       {
         "number": 8,
@@ -44,26 +44,26 @@
         "club": "Orlando Pirates"
       },
       {
-        "number": 7,
-        "name": "Thapelo Maseko",
-        "club": "AEL Limassol"
-      },
-      {
-        "number": 10,
-        "name": "Relebohile Mofokeng",
-        "club": "Orlando Pirates"
-      },
-      {
-        "number": 11,
-        "name": "Oswin Appollis",
-        "club": "Orlando Pirates"
+        "number": 15,
+        "name": "Jayden Adams",
+        "club": "Mamelodi Sundowns"
       }
     ],
     "fwd": [
       {
-        "number": 9,
-        "name": "Evidence Makgopa",
+        "number": 11,
+        "name": "Oswin Appollis",
         "club": "Orlando Pirates"
+      },
+      {
+        "number": 18,
+        "name": "Thapelo Maseko",
+        "club": "AEL Limassol"
+      },
+      {
+        "number": 16,
+        "name": "Iqraam Rayners",
+        "club": "Mamelodi Sundowns"
       }
     ]
   }

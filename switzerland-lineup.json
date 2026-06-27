@@ -1,7 +1,7 @@
 {
   "formation": "4-2-3-1",
   "available": true,
-  "note": "Confirmed XI vs Canada",
+  "note": "Confirmed XI vs Canada (June 24, 2026)",
   "lineup": {
     "gk": [
       {
@@ -12,7 +12,7 @@
     ],
     "def": [
       {
-        "number": null,
+        "number": 25,
         "name": "Luca Jaquez",
         "club": "Stuttgart"
       },
@@ -24,12 +24,12 @@
       {
         "number": 5,
         "name": "Manuel Akanji",
-        "club": "Inter Milan"
+        "club": "Inter"
       },
       {
         "number": 13,
         "name": "Ricardo Rodríguez",
-        "club": "Real Betis"
+        "club": "Betis"
       }
     ],
     "mid": [
@@ -47,23 +47,23 @@
         "number": 15,
         "name": "Djibril Sow",
         "club": "Sevilla"
+      },
+      {
+        "number": 9,
+        "name": "Johan Manzambi",
+        "club": "Friburgo"
+      },
+      {
+        "number": 17,
+        "name": "Ruben Vargas",
+        "club": "Sevilla"
       }
     ],
     "fwd": [
       {
-        "number": 9,
-        "name": "Johan Manzambi",
-        "club": "Freiburg"
-      },
-      {
         "number": 7,
         "name": "Breel Embolo",
-        "club": "Rennes"
-      },
-      {
-        "number": 17,
-        "name": "Rubén Vargas",
-        "club": "Sevilla"
+        "club": "Stade Rennes"
       }
     ]
   }

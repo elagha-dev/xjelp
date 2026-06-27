@@ -26,7 +26,7 @@
       "number": 4,
       "name": "Marquinhos",
       "position": "DF",
-      "club": "PSG",
+      "club": "Paris Saint-Germain",
       "caps": 0
     },
     {
@@ -59,16 +59,16 @@
     },
     {
       "number": 9,
-      "name": "Douglas Santos",
+      "name": "Ibañez",
       "position": "DF",
-      "club": "Zenit",
+      "club": "Al-Ahli",
       "caps": 0
     },
     {
       "number": 10,
-      "name": "Ibañez",
+      "name": "Douglas Santos",
       "position": "DF",
-      "club": "Al-Ahli",
+      "club": "Zenit",
       "caps": 0
     },
     {
@@ -80,65 +80,65 @@
     },
     {
       "number": 12,
-      "name": "Eder",
-      "position": "DF",
-      "club": "Atalanta",
-      "caps": 0
-    },
-    {
-      "number": 13,
       "name": "Bruno Guimarães",
       "position": "MF",
       "club": "Newcastle",
       "caps": 0
     },
     {
-      "number": 14,
+      "number": 13,
       "name": "Casemiro",
       "position": "MF",
       "club": "Manchester United",
       "caps": 0
     },
     {
-      "number": 15,
+      "number": 14,
       "name": "Danilo Santos",
       "position": "MF",
       "club": "Botafogo",
       "caps": 0
     },
     {
-      "number": 16,
+      "number": 15,
       "name": "Fabinho",
       "position": "MF",
       "club": "Al-Ittihad",
       "caps": 0
     },
     {
-      "number": 17,
+      "number": 16,
       "name": "Lucas Paquetá",
       "position": "MF",
-      "club": "West Ham United",
+      "club": "Flamengo",
+      "caps": 0
+    },
+    {
+      "number": 17,
+      "name": "Éderson",
+      "position": "MF",
+      "club": "Atalanta",
       "caps": 0
     },
     {
       "number": 18,
+      "name": "Vinícius Jr",
+      "position": "FW",
+      "club": "Real Madrid",
+      "caps": 0
+    },
+    {
+      "number": 19,
       "name": "Raphinha",
       "position": "FW",
       "club": "Barcelona",
       "caps": 0
     },
     {
-      "number": 19,
+      "number": 20,
       "name": "Neymar",
       "position": "FW",
       "club": "Santos",
-      "caps": 0
-    },
-    {
-      "number": 20,
-      "name": "Vinicius Junior",
-      "position": "FW",
-      "club": "Real Madrid",
       "caps": 0
     },
     {
@@ -150,37 +150,37 @@
     },
     {
       "number": 22,
+      "name": "Matheus Cunha",
+      "position": "FW",
+      "club": "Manchester United",
+      "caps": 0
+    },
+    {
+      "number": 23,
       "name": "Gabriel Martinelli",
       "position": "FW",
       "club": "Arsenal",
       "caps": 0
     },
     {
-      "number": 23,
-      "name": "Igor Thiago",
-      "position": "FW",
-      "club": "Brentford",
-      "caps": 0
-    },
-    {
       "number": 24,
-      "name": "Luiz Henrique",
-      "position": "FW",
-      "club": "Zenit",
-      "caps": 0
-    },
-    {
-      "number": 25,
       "name": "Rayan",
       "position": "FW",
       "club": "Bournemouth",
       "caps": 0
     },
     {
-      "number": 26,
-      "name": "Matheus Cunha",
+      "number": 25,
+      "name": "Igor Thiago",
       "position": "FW",
-      "club": "Wolverhampton Wanderers",
+      "club": "Brentford",
+      "caps": 0
+    },
+    {
+      "number": 26,
+      "name": "Luiz Henrique",
+      "position": "FW",
+      "club": "Zenit",
       "caps": 0
     }
   ]

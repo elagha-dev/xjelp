@@ -1,0 +1,70 @@
+{
+  "formation": "4-4-2",
+  "available": true,
+  "note": "Projected XI for opening game vs Haiti",
+  "lineup": {
+    "gk": [
+      {
+        "number": null,
+        "name": "Angus Gunn",
+        "club": "Nottingham Forest"
+      }
+    ],
+    "def": [
+      {
+        "number": null,
+        "name": "Aaron Hickey",
+        "club": "Brentford"
+      },
+      {
+        "number": null,
+        "name": "John Souttar",
+        "club": "Hearts"
+      },
+      {
+        "number": null,
+        "name": "Grant Hanley",
+        "club": "Hibernian"
+      },
+      {
+        "number": null,
+        "name": "Andy Robertson",
+        "club": "Liverpool"
+      }
+    ],
+    "mid": [
+      {
+        "number": null,
+        "name": "Scott McTominay",
+        "club": "Napoli"
+      },
+      {
+        "number": null,
+        "name": "Lewis Ferguson",
+        "club": "Bologna"
+      },
+      {
+        "number": null,
+        "name": "Ben Gannon-Doak",
+        "club": "Bournemouth"
+      },
+      {
+        "number": null,
+        "name": "John McGinn",
+        "club": "Aston Villa"
+      }
+    ],
+    "fwd": [
+      {
+        "number": null,
+        "name": "Lawrence Shankland",
+        "club": "Hearts"
+      },
+      {
+        "number": null,
+        "name": "Che Adams",
+        "club": "Torino"
+      }
+    ]
+  }
+}

@@ -1,57 +1,68 @@
 {
   "formation": "4-4-2",
   "available": true,
-  "note": "Confirmed XI vs Qatar",
+  "note": "Expected World Cup XI",
   "lineup": {
     "gk": [
       {
+        "number": 1,
         "name": "Nikola Vasilj",
         "club": "FC St. Pauli"
       }
     ],
     "def": [
       {
-        "name": "Amar Dedić",
+        "number": 7,
+        "name": "Amar Dedic",
         "club": "SL Benfica"
       },
       {
-        "name": "Nikola Katić",
+        "number": 18,
+        "name": "Nikola Katic",
         "club": "Schalke 04"
       },
       {
-        "name": "Dennis Hadžikadunić",
-        "club": "UC Sampdoria"
+        "number": 5,
+        "name": "Sead Kolasinac",
+        "club": "Atalanta"
       },
       {
-        "name": "Sead Kolašinac",
-        "club": "Atalanta BC"
+        "number": 4,
+        "name": "Tarik Muharemovic",
+        "club": "US Sassuolo"
       }
     ],
     "mid": [
       {
-        "name": "Amar Memić",
-        "club": "FC Viktoria Plzeň"
+        "number": 15,
+        "name": "Amar Memic",
+        "club": "FC Viktoria Plzen"
       },
       {
-        "name": "Benjamin Tahirović",
-        "club": "Bröndby IF"
-      },
-      {
-        "name": "Ivan Šunjić",
+        "number": 14,
+        "name": "Ivan Sunjic",
         "club": "Pafos FC"
       },
       {
-        "name": "Kerim Alajbegović",
+        "number": 6,
+        "name": "Benjamin Tahirovic",
+        "club": "Bröndby IF"
+      },
+      {
+        "number": 19,
+        "name": "Kerim Alajbegovic",
         "club": "RB Salzburg"
       }
     ],
     "fwd": [
       {
-        "name": "Ermedin Demirović",
+        "number": 10,
+        "name": "Ermedin Demirovic",
         "club": "VfB Stuttgart"
       },
       {
-        "name": "Edin Džeko",
+        "number": 11,
+        "name": "Edin Dzeko",
         "club": "FC Schalke 04"
       }
     ]

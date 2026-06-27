@@ -1,7 +1,7 @@
 {
   "formation": "3-4-2-1",
   "available": true,
-  "note": "Confirmed XI vs South Africa",
+  "note": "Confirmed XI vs South Africa, June 24/25, 2026",
   "lineup": {
     "gk": [
       {
@@ -12,58 +12,53 @@
     ],
     "def": [
       {
+        "name": "Lee Han-beom",
+        "club": "FC Midtjylland"
+      },
+      {
         "number": 4,
         "name": "Kim Min-jae",
         "club": "Bayern Munich"
       },
       {
-        "number": 2,
-        "name": "Lee Han-beom",
-        "club": "Midtjylland"
-      },
-      {
-        "number": 14,
-        "name": "Cho Yu-min",
-        "club": "Sharjah FC"
+        "name": "Lee Ki-hyeok",
+        "club": "Gangwon FC"
       }
     ],
     "mid": [
       {
         "number": 22,
         "name": "Seol Young-woo",
-        "club": "Red Star"
+        "club": "FK Crvena zvezda"
       },
       {
         "number": 6,
         "name": "Hwang In-beom",
-        "club": "Feyenoord"
+        "club": "Feyenoord Rotterdam"
       },
       {
         "number": 8,
         "name": "Paik Seung-ho",
-        "club": "Birmingham City"
+        "club": "Birmingham City FC"
       },
       {
-        "number": 13,
         "name": "Lee Tae-seok",
-        "club": "Austria Wien"
+        "club": "FK Austria Wien"
       }
     ],
     "fwd": [
       {
+        "name": "Lee Kang-in",
+        "club": "Paris Saint-Germain FC"
+      },
+      {
         "number": 11,
         "name": "Hwang Hee-chan",
-        "club": "Wolves"
+        "club": "Wolverhampton Wanderers FC"
       },
       {
-        "number": 19,
-        "name": "Lee Kang-in",
-        "club": "PSG"
-      },
-      {
-        "number": 18,
         "name": "Oh Hyeon-gyu",
-        "club": "Besiktas"
+        "club": "Beşiktaş JK"
       }
     ]
   }

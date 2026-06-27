@@ -3,181 +3,134 @@
   "squad": [
     {
       "number": 1,
-      "name": "Matěj Kovář",
+      "name": "Matej Kovar",
       "position": "GK",
-      "club": "PSV Eindhoven",
-      "caps": 0
+      "club": "PSV Eindhoven"
     },
     {
       "number": 16,
-      "name": "Jindřich Staněk",
+      "name": "Jindrich Stanek",
       "position": "GK",
-      "club": "Slavia Prague",
-      "caps": 0
+      "club": "Slavia Prague"
     },
     {
-      "number": 23,
-      "name": "Lukáš Horníček",
+      "name": "Lukas Hornicek",
       "position": "GK",
-      "club": "Braga",
-      "caps": 0
+      "club": "Braga"
+    },
+    {
+      "name": "Vladimir Coufal",
+      "position": "DF",
+      "club": "Hoffenheim"
+    },
+    {
+      "name": "David Doudera",
+      "position": "DF",
+      "club": "Slavia Prague"
+    },
+    {
+      "name": "Tomas Holes",
+      "position": "DF",
+      "club": "Slavia Prague"
+    },
+    {
+      "name": "Robin Hranac",
+      "position": "DF",
+      "club": "Hoffenheim"
+    },
+    {
+      "name": "Stepan Chaloupek",
+      "position": "DF",
+      "club": "Slavia Prague"
+    },
+    {
+      "name": "David Jurasek",
+      "position": "DF",
+      "club": "Slavia Prague"
+    },
+    {
+      "name": "Ladislav Krejci",
+      "position": "DF",
+      "club": "Wolverhampton"
+    },
+    {
+      "name": "Jaroslav Zeleny",
+      "position": "DF",
+      "club": "Sparta Prague"
     },
     {
       "number": 2,
       "name": "David Zima",
       "position": "DF",
-      "club": "Slavia Prague",
-      "caps": 0
+      "club": "Slavia Prague"
     },
     {
-      "number": 3,
-      "name": "Tomáš Holeš",
-      "position": "DF",
-      "club": "Slavia Prague",
-      "caps": 0
-    },
-    {
-      "number": 4,
-      "name": "Robin Hranáč",
-      "position": "DF",
-      "club": "TSG Hoffenheim",
-      "caps": 0
-    },
-    {
-      "number": 5,
-      "name": "Vladimír Coufal",
-      "position": "DF",
-      "club": "TSG Hoffenheim",
-      "caps": 61
-    },
-    {
-      "number": 6,
-      "name": "Štěpán Chaloupek",
-      "position": "DF",
-      "club": "Slavia Prague",
-      "caps": 0
-    },
-    {
-      "number": 7,
-      "name": "Ladislav Krejčí",
-      "position": "DF",
-      "club": "Wolverhampton Wanderers",
-      "caps": 0
-    },
-    {
-      "number": 14,
-      "name": "David Jurásek",
-      "position": "DF",
-      "club": "Slavia Prague",
-      "caps": 0
-    },
-    {
-      "number": 20,
-      "name": "Jaroslav Zelený",
-      "position": "DF",
-      "club": "Sparta Prague",
-      "caps": 0
-    },
-    {
-      "number": 21,
-      "name": "David Douděra",
-      "position": "DF",
-      "club": "Slavia Prague",
-      "caps": 0
-    },
-    {
-      "number": 12,
-      "name": "Lukáš Červ",
+      "name": "Lukas Cerv",
       "position": "MF",
-      "club": "Viktoria Plzeň",
-      "caps": 0
+      "club": "Viktoria Plzen"
     },
     {
-      "number": 8,
-      "name": "Vladimír Darida",
+      "name": "Vladimir Darida",
       "position": "MF",
-      "club": "FC Hradec Králové",
-      "caps": 0
+      "club": "Hradec Kralove"
     },
     {
-      "number": 17,
-      "name": "Lukáš Provod",
+      "name": "Lukas Provod",
       "position": "MF",
-      "club": "Slavia Prague",
-      "caps": 0
+      "club": "Slavia Prague"
     },
     {
-      "number": 18,
-      "name": "Michal Sadílek",
+      "name": "Michal Sadilek",
       "position": "MF",
-      "club": "Slavia Prague",
-      "caps": 0
+      "club": "Slavia Prague"
     },
     {
-      "number": 25,
       "name": "Hugo Sochurek",
       "position": "MF",
-      "club": "Sparta Prague",
-      "caps": 0
+      "club": "Sparta Prague"
     },
     {
-      "number": 24,
       "name": "Alexandr Sojka",
       "position": "MF",
-      "club": "Viktoria Plzeň",
-      "caps": 0
+      "club": "Viktoria Plzen"
     },
     {
-      "number": 22,
-      "name": "Tomáš Souček",
+      "name": "Tomas Soucek",
       "position": "MF",
-      "club": "West Ham United",
-      "caps": 89
+      "club": "West Ham"
     },
     {
-      "number": 15,
-      "name": "Pavel Šulc",
+      "name": "Pavel Sulc",
       "position": "MF",
-      "club": "Olympique Lyonnais",
-      "caps": 0
+      "club": "Olympique Lyonnais"
     },
     {
       "number": 26,
-      "name": "Denis Višinský",
+      "name": "Denis Visinsky",
       "position": "MF",
-      "club": "Viktoria Plzeň",
-      "caps": 0
+      "club": "Viktoria Plzen"
     },
     {
-      "number": 9,
-      "name": "Adam Hložek",
+      "name": "Adam Hlozek",
       "position": "FW",
-      "club": "TSG Hoffenheim",
-      "caps": 0
+      "club": "Hoffenheim"
     },
     {
-      "number": 19,
-      "name": "Tomáš Chorý",
+      "name": "Tomas Chory",
       "position": "FW",
-      "club": "Slavia Prague",
-      "caps": 0
+      "club": "Slavia Prague"
     },
     {
-      "number": 13,
-      "name": "Mojmír Chytil",
+      "name": "Mojmir Chytil",
       "position": "FW",
-      "club": "Slavia Prague",
-      "caps": 0
+      "club": "Slavia Prague"
     },
     {
-      "number": 11,
       "name": "Jan Kuchta",
       "position": "FW",
-      "club": "Sparta Prague",
-      "caps": 0
+      "club": "Sparta Prague"
     },
     {
-      "number": 10,
       "name": "Patrik Schick",
       "position": "FW",
       "club": "Bayer Leverkusen",

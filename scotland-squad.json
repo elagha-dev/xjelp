@@ -1,0 +1,187 @@
+{
+  "coach": "Steve Clarke",
+  "squad": [
+    {
+      "number": 1,
+      "name": "Angus Gunn",
+      "position": "GK",
+      "club": "Nottingham Forest",
+      "caps": null
+    },
+    {
+      "number": 2,
+      "name": "Aaron Hickey",
+      "position": "DF",
+      "club": "Brentford",
+      "caps": null
+    },
+    {
+      "number": 3,
+      "name": "Andy Robertson",
+      "position": "DF",
+      "club": "Liverpool",
+      "caps": null
+    },
+    {
+      "number": 4,
+      "name": "Scott McTominay",
+      "position": "MF",
+      "club": "Napoli",
+      "caps": null
+    },
+    {
+      "number": 5,
+      "name": "Grant Hanley",
+      "position": "DF",
+      "club": "Hibernian",
+      "caps": null
+    },
+    {
+      "number": 6,
+      "name": "Kieran Tierney",
+      "position": "DF",
+      "club": "Celtic",
+      "caps": null
+    },
+    {
+      "number": 7,
+      "name": "John McGinn",
+      "position": "MF",
+      "club": "Aston Villa",
+      "caps": null
+    },
+    {
+      "number": 8,
+      "name": "Tyler Fletcher",
+      "position": "MF",
+      "club": "Manchester United",
+      "caps": null
+    },
+    {
+      "number": 9,
+      "name": "Lyndon Dykes",
+      "position": "FW",
+      "club": null,
+      "caps": null
+    },
+    {
+      "number": 10,
+      "name": "Che Adams",
+      "position": "FW",
+      "club": null,
+      "caps": null
+    },
+    {
+      "number": 11,
+      "name": "Ryan Christie",
+      "position": "MF",
+      "club": null,
+      "caps": null
+    },
+    {
+      "number": 12,
+      "name": "Liam Kelly",
+      "position": "GK",
+      "club": "Rangers",
+      "caps": null
+    },
+    {
+      "number": 13,
+      "name": "Jack Hendry",
+      "position": "DF",
+      "club": "Al-Ettifaq",
+      "caps": null
+    },
+    {
+      "number": 14,
+      "name": "Ross Stewart",
+      "position": "FW",
+      "club": "Southampton",
+      "caps": null
+    },
+    {
+      "number": 15,
+      "name": "John Souttar",
+      "position": "DF",
+      "club": "Rangers",
+      "caps": null
+    },
+    {
+      "number": 16,
+      "name": "Dom Hyam",
+      "position": "DF",
+      "club": "Wrexham",
+      "caps": null
+    },
+    {
+      "number": 17,
+      "name": "Ben Gannon-Doak",
+      "position": "MF",
+      "club": null,
+      "caps": null
+    },
+    {
+      "number": 18,
+      "name": "George Hirst",
+      "position": "FW",
+      "club": null,
+      "caps": null
+    },
+    {
+      "number": 19,
+      "name": "Lewis Ferguson",
+      "position": "MF",
+      "club": "Bologna",
+      "caps": null
+    },
+    {
+      "number": 20,
+      "name": "Lawrence Shankland",
+      "position": "FW",
+      "club": null,
+      "caps": null
+    },
+    {
+      "number": 21,
+      "name": "Craig Gordon",
+      "position": "GK",
+      "club": "Hearts",
+      "caps": 83
+    },
+    {
+      "number": 22,
+      "name": "Nathan Patterson",
+      "position": "DF",
+      "club": "Everton",
+      "caps": null
+    },
+    {
+      "number": 23,
+      "name": "Kenny McLean",
+      "position": "MF",
+      "club": null,
+      "caps": null
+    },
+    {
+      "number": 24,
+      "name": "Anthony Ralston",
+      "position": "DF",
+      "club": "Celtic",
+      "caps": null
+    },
+    {
+      "number": 25,
+      "name": "Findlay Curtis",
+      "position": "MF",
+      "club": null,
+      "caps": null
+    },
+    {
+      "number": 26,
+      "name": "Scott McKenna",
+      "position": "DF",
+      "club": "Dinamo Zagreb",
+      "caps": null
+    }
+  ]
+}
