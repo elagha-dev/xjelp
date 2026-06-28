@@ -6,182 +6,182 @@
       "name": "Ronwen Williams",
       "position": "GK",
       "club": "Mamelodi Sundowns FC",
-      "caps": 0
+      "caps": 55
     },
     {
       "number": 2,
       "name": "Ricardo Goss",
       "position": "GK",
       "club": "Siwelele FC",
-      "caps": 0
+      "caps": 15
     },
     {
       "number": 3,
       "name": "Sipho Chaine",
       "position": "GK",
       "club": "Orlando Pirates FC",
-      "caps": 0
+      "caps": 8
     },
     {
       "number": 4,
-      "name": "Khuliso Mudau",
-      "position": "DF",
-      "club": "Mamelodi Sundowns FC",
-      "caps": 0
-    },
-    {
-      "number": 5,
-      "name": "Olwethu Makhanya",
-      "position": "DF",
-      "club": "Philadelphia Union",
-      "caps": 0
-    },
-    {
-      "number": 6,
-      "name": "Bradley Cross",
-      "position": "DF",
-      "club": "Kaizer Chiefs FC",
-      "caps": 0
-    },
-    {
-      "number": 7,
-      "name": "Aubrey Modiba",
-      "position": "DF",
-      "club": "Mamelodi Sundowns FC",
-      "caps": 0
-    },
-    {
-      "number": 8,
       "name": "Thabang Matuludi",
       "position": "DF",
       "club": "Polokwane City FC",
-      "caps": 0
+      "caps": 20
+    },
+    {
+      "number": 5,
+      "name": "Khulumani Ndamane",
+      "position": "DF",
+      "club": "Mamelodi Sundowns FC",
+      "caps": 32
+    },
+    {
+      "number": 6,
+      "name": "Aubrey Modiba",
+      "position": "DF",
+      "club": "Mamelodi Sundowns FC",
+      "caps": 40
+    },
+    {
+      "number": 7,
+      "name": "Mbekezeli Mbokazi",
+      "position": "DF",
+      "club": "Chicago Fire FC",
+      "caps": 12
+    },
+    {
+      "number": 8,
+      "name": "Samukelo Kabini",
+      "position": "DF",
+      "club": "Molde FK",
+      "caps": 5
     },
     {
       "number": 9,
       "name": "Nkosinathi Sibisi",
       "position": "DF",
       "club": "Orlando Pirates FC",
-      "caps": 0
+      "caps": 25
     },
     {
       "number": 10,
-      "name": "Khulumani Ndamane",
+      "name": "Khuliso Mudau",
       "position": "DF",
       "club": "Mamelodi Sundowns FC",
-      "caps": 0
+      "caps": 38
     },
     {
       "number": 11,
       "name": "Ime Okon",
       "position": "DF",
       "club": "Hannover 96",
-      "caps": 0
+      "caps": 9
     },
     {
       "number": 12,
-      "name": "Samukele Kabini",
+      "name": "Olwethu Makhanya",
       "position": "DF",
-      "club": "Molde FK",
-      "caps": 0
+      "club": "Philadelphia Union",
+      "caps": 7
     },
     {
       "number": 13,
-      "name": "Mbekezeli Mbokazi",
+      "name": "Bradley Cross",
       "position": "DF",
-      "club": "Chicago Fire FC",
-      "caps": 0
+      "club": "Kaizer Chiefs FC",
+      "caps": 4
     },
     {
       "number": 14,
-      "name": "Kamogelo Sebelebele",
-      "position": "DF",
-      "club": "Orlando Pirates FC",
-      "caps": 0
-    },
-    {
-      "number": 15,
       "name": "Teboho Mokoena",
       "position": "MF",
       "club": "Mamelodi Sundowns FC",
-      "caps": 0
+      "caps": 48
     },
     {
-      "number": 16,
-      "name": "Jayden Adams",
-      "position": "MF",
-      "club": "Mamelodi Sundowns FC",
-      "caps": 0
-    },
-    {
-      "number": 17,
+      "number": 15,
       "name": "Thalente Mbatha",
       "position": "MF",
       "club": "Orlando Pirates FC",
-      "caps": 0
+      "caps": 18
     },
     {
-      "number": 18,
-      "name": "Sphephelo Sithole",
-      "position": "MF",
-      "club": "CD Tondela",
-      "caps": 0
-    },
-    {
-      "number": 19,
+      "number": 16,
       "name": "Themba Zwane",
       "position": "MF",
       "club": "Mamelodi Sundowns FC",
-      "caps": 0
+      "caps": 60
     },
     {
-      "number": 20,
+      "number": 17,
+      "name": "Sphephelo Sithole",
+      "position": "MF",
+      "club": "CD Tondela",
+      "caps": 28
+    },
+    {
+      "number": 18,
+      "name": "Jayden Adams",
+      "position": "MF",
+      "club": "Mamelodi Sundowns FC",
+      "caps": 10
+    },
+    {
+      "number": 19,
       "name": "Oswin Appollis",
       "position": "FW",
       "club": "Orlando Pirates FC",
-      "caps": 0
+      "caps": 22
     },
     {
-      "number": 21,
+      "number": 20,
       "name": "Tshepang Moremi",
       "position": "FW",
       "club": "Orlando Pirates FC",
-      "caps": 0
+      "caps": 16
     },
     {
-      "number": 22,
-      "name": "Evidence Makgopa",
-      "position": "FW",
-      "club": "Orlando Pirates FC",
-      "caps": 0
-    },
-    {
-      "number": 23,
+      "number": 21,
       "name": "Lyle Foster",
       "position": "FW",
       "club": "Burnley FC",
-      "caps": 0
+      "caps": 35
+    },
+    {
+      "number": 22,
+      "name": "Relebohile Mofokeng",
+      "position": "FW",
+      "club": "Orlando Pirates FC",
+      "caps": 14
+    },
+    {
+      "number": 23,
+      "name": "Thapelo Maseko",
+      "position": "FW",
+      "club": "AEL Limassol",
+      "caps": 19
     },
     {
       "number": 24,
       "name": "Iqraam Rayners",
       "position": "FW",
       "club": "Mamelodi Sundowns FC",
-      "caps": 0
+      "caps": 27
     },
     {
       "number": 25,
-      "name": "Relebohile Mofokeng",
+      "name": "Evidence Makgopa",
       "position": "FW",
       "club": "Orlando Pirates FC",
-      "caps": 0
+      "caps": 21
     },
     {
       "number": 26,
-      "name": "Thapelo Maseko",
+      "name": "Kamogelo Sebelebele",
       "position": "FW",
-      "club": "AEL Limassol",
-      "caps": 0
+      "club": "Orlando Pirates FC",
+      "caps": 6
     }
   ]
 }

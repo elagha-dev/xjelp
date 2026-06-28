@@ -1,21 +1,55 @@
 {
-  "updatedAt": "Jun 27, 2026",
+  "updatedAt": "Jun 28, 2026",
   "matches": [
+    {
+      "status": "live",
+      "group": "Group L",
+      "team1": {
+        "name": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "score": "0"
+      },
+      "team2": {
+        "name": "Panama",
+        "flag": "🇵🇦",
+        "score": "0"
+      },
+      "venue": "New York/New Jersey",
+      "time": "Jun 28, 2:30 AM IST",
+      "minute": "2'"
+    },
+    {
+      "status": "live",
+      "group": "Group L",
+      "team1": {
+        "name": "Croatia",
+        "flag": "🇭🇷",
+        "score": "0"
+      },
+      "team2": {
+        "name": "Ghana",
+        "flag": "🇬🇭",
+        "score": "0"
+      },
+      "venue": "Philadelphia",
+      "time": "Jun 28, 2:30 AM IST",
+      "minute": "2'"
+    },
     {
       "status": "upcoming",
       "group": "Group K",
       "team1": {
         "name": "Colombia",
         "flag": "🇨🇴",
-        "score": "0"
+        "score": null
       },
       "team2": {
         "name": "Portugal",
         "flag": "🇵🇹",
-        "score": "0"
+        "score": null
       },
-      "venue": "Miami Stadium",
-      "time": "Jun 28, 1:30am CEST"
+      "venue": "Miami",
+      "time": "Jun 28, 4:30 PM EST"
     },
     {
       "status": "upcoming",
@@ -23,15 +57,15 @@
       "team1": {
         "name": "DR Congo",
         "flag": "🇨🇩",
-        "score": "0"
+        "score": null
       },
       "team2": {
         "name": "Uzbekistan",
         "flag": "🇺🇿",
-        "score": "0"
+        "score": null
       },
-      "venue": "Atlanta Stadium",
-      "time": "Jun 28, 1:30am CEST"
+      "venue": "Atlanta",
+      "time": "Jun 28, 4:30 PM EST"
     },
     {
       "status": "upcoming",
@@ -39,143 +73,31 @@
       "team1": {
         "name": "Jordan",
         "flag": "🇯🇴",
-        "score": "0"
+        "score": null
       },
       "team2": {
         "name": "Argentina",
         "flag": "🇦🇷",
-        "score": "0"
-      },
-      "venue": "Dallas Stadium",
-      "time": "Jun 28, 4am CEST"
-    },
-    {
-      "status": "upcoming",
-      "group": "Group J",
-      "team1": {
-        "name": "Algeria",
-        "flag": "🇩🇿",
-        "score": "0"
-      },
-      "team2": {
-        "name": "Austria",
-        "flag": "🇦🇹",
-        "score": "0"
-      },
-      "venue": "Kansas City Stadium",
-      "time": "Jun 28, 4am CEST"
-    },
-    {
-      "status": "final",
-      "group": "Group L",
-      "team1": {
-        "name": "Panama",
-        "flag": "🇵🇦",
-        "score": "0"
-      },
-      "team2": {
-        "name": "England",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "score": "2"
-      },
-      "venue": "New York/New Jersey Stadium",
-      "time": "Jun 27, 11pm CEST"
-    },
-    {
-      "status": "final",
-      "group": "Group L",
-      "team1": {
-        "name": "Croatia",
-        "flag": "🇭🇷",
-        "score": "1"
-      },
-      "team2": {
-        "name": "Ghana",
-        "flag": "🇬🇭",
-        "score": "1"
-      },
-      "venue": "Philadelphia Stadium",
-      "time": "Jun 27, 11pm CEST"
-    },
-    {
-      "status": "final",
-      "group": "Group I",
-      "team1": {
-        "name": "France",
-        "flag": "🇫🇷",
-        "score": "3"
-      },
-      "team2": {
-        "name": "Iraq",
-        "flag": "🇮🇶",
-        "score": "0"
-      },
-      "venue": "Philadelphia",
-      "time": "Jun 26, 8pm CEST"
-    },
-    {
-      "status": "final",
-      "group": "Group I",
-      "team1": {
-        "name": "Norway",
-        "flag": "🇳🇴",
-        "score": "3"
-      },
-      "team2": {
-        "name": "Senegal",
-        "flag": "🇸🇳",
-        "score": "2"
-      },
-      "venue": "New York/New Jersey",
-      "time": "Jun 26, 8pm CEST"
-    },
-    {
-      "status": "final",
-      "group": "Group J",
-      "team1": {
-        "name": "Argentina",
-        "flag": "🇦🇷",
-        "score": "2"
-      },
-      "team2": {
-        "name": "Austria",
-        "flag": "🇦🇹",
-        "score": "0"
+        "score": null
       },
       "venue": "Dallas",
-      "time": "Jun 26, 6pm CEST"
+      "time": "Jun 28, 7:00 PM EST"
     },
     {
-      "status": "final",
+      "status": "upcoming",
       "group": "Group J",
       "team1": {
         "name": "Algeria",
         "flag": "🇩🇿",
-        "score": "2"
+        "score": null
       },
       "team2": {
-        "name": "Jordan",
-        "flag": "🇯🇴",
-        "score": "1"
+        "name": "Austria",
+        "flag": "🇦🇹",
+        "score": null
       },
-      "venue": "San Francisco Bay Area",
-      "time": "Jun 26, 6pm CEST"
-    },
-    {
-      "status": "final",
-      "group": "Group F",
-      "team1": {
-        "name": "Japan",
-        "flag": "🇯🇵",
-        "score": "4"
-      },
-      "team2": {
-        "name": "Tunisia",
-        "flag": "🇹🇳",
-        "score": "0"
-      },
-      "venue": "Monterrey",
-      "time": "Jun 25, 10pm CEST"
+      "venue": "Kansas City",
+      "time": "Jun 28, 7:00 PM EST"
     },
     {
       "status": "final",
@@ -183,15 +105,111 @@
       "team1": {
         "name": "Spain",
         "flag": "🇪🇸",
-        "score": "4"
+        "score": "1"
+      },
+      "team2": {
+        "name": "Uruguay",
+        "flag": "🇺🇾",
+        "score": "0"
+      },
+      "venue": "Estadio Guadalajara",
+      "time": "Jun 27"
+    },
+    {
+      "status": "final",
+      "group": "Group H",
+      "team1": {
+        "name": "Cape Verde",
+        "flag": "🇨🇻",
+        "score": "0"
       },
       "team2": {
         "name": "Saudi Arabia",
         "flag": "🇸🇦",
         "score": "0"
       },
-      "venue": "Atlanta",
-      "time": "Jun 25, 10pm CEST"
+      "venue": "Houston Stadium",
+      "time": "Jun 27"
+    },
+    {
+      "status": "final",
+      "group": "Group I",
+      "team1": {
+        "name": "France",
+        "flag": "🇫🇷",
+        "score": "4"
+      },
+      "team2": {
+        "name": "Norway",
+        "flag": "🇳🇴",
+        "score": "1"
+      },
+      "venue": "Boston Stadium",
+      "time": "Jun 26"
+    },
+    {
+      "status": "final",
+      "group": "Group I",
+      "team1": {
+        "name": "Senegal",
+        "flag": "🇸🇳",
+        "score": "5"
+      },
+      "team2": {
+        "name": "Iraq",
+        "flag": "🇮🇶",
+        "score": "0"
+      },
+      "venue": "Toronto Stadium",
+      "time": "Jun 26"
+    },
+    {
+      "status": "final",
+      "group": "Group E",
+      "team1": {
+        "name": "Germany",
+        "flag": "🇩🇪",
+        "score": "7"
+      },
+      "team2": {
+        "name": "Curacao",
+        "flag": "🇨🇼",
+        "score": "1"
+      },
+      "venue": "New York New Jersey Stadium",
+      "time": "Jun 25"
+    },
+    {
+      "status": "final",
+      "group": "Group F",
+      "team1": {
+        "name": "Netherlands",
+        "flag": "🇳🇱",
+        "score": "5"
+      },
+      "team2": {
+        "name": "Sweden",
+        "flag": "🇸🇪",
+        "score": "1"
+      },
+      "venue": "Kansas City Stadium",
+      "time": "Jun 25"
+    },
+    {
+      "status": "final",
+      "group": "Group F",
+      "team1": {
+        "name": "Japan",
+        "flag": "🇯🇵",
+        "score": "2"
+      },
+      "team2": {
+        "name": "Sweden",
+        "flag": "🇸🇪",
+        "score": "1"
+      },
+      "venue": "Dallas Stadium",
+      "time": "Jun 25"
     }
   ],
   "topScorers": [
@@ -210,45 +228,45 @@
       "goals": 4
     },
     {
-      "rank": 2,
-      "name": "Erling Haaland",
-      "country": "Norway",
-      "flag": "🇳🇴",
-      "goals": 4
-    },
-    {
-      "rank": 2,
+      "rank": 3,
       "name": "Vinicius Junior",
       "country": "Brazil",
       "flag": "🇧🇷",
       "goals": 4
     },
     {
-      "rank": 2,
-      "name": "Ousmane Dembele",
+      "rank": 4,
+      "name": "Erling Haaland",
+      "country": "Norway",
+      "flag": "🇳🇴",
+      "goals": 4
+    },
+    {
+      "rank": 5,
+      "name": "Ousmane Dembélé",
       "country": "France",
       "flag": "🇫🇷",
       "goals": 4
     },
     {
       "rank": 6,
+      "name": "Ismael Saibari",
+      "country": "Morocco",
+      "flag": "🇲🇦",
+      "goals": 3
+    },
+    {
+      "rank": 7,
       "name": "Jonathan David",
       "country": "Canada",
       "flag": "🇨🇦",
       "goals": 3
     },
     {
-      "rank": 6,
-      "name": "Deniz Undav",
-      "country": "Germany",
-      "flag": "🇩🇪",
-      "goals": 3
-    },
-    {
-      "rank": 6,
-      "name": "Johan Manzambi",
-      "country": "Switzerland",
-      "flag": "🇨🇭",
+      "rank": 8,
+      "name": "Matheus Cunha",
+      "country": "Brazil",
+      "flag": "🇧🇷",
       "goals": 3
     }
   ],
@@ -396,9 +414,9 @@
           "name": "USA",
           "p": 3,
           "w": 2,
-          "d": 0,
-          "l": 1,
-          "pts": 6,
+          "d": 1,
+          "l": 0,
+          "pts": 7,
           "qualify": true
         },
         {
@@ -416,19 +434,19 @@
           "name": "Paraguay",
           "p": 3,
           "w": 1,
-          "d": 1,
-          "l": 1,
-          "pts": 4,
+          "d": 0,
+          "l": 2,
+          "pts": 3,
           "qualify": false
         },
         {
           "flag": "🇹🇷",
-          "name": "Turkiye",
+          "name": "Turkey",
           "p": 3,
-          "w": 1,
-          "d": 0,
-          "l": 2,
-          "pts": 3,
+          "w": 0,
+          "d": 2,
+          "l": 1,
+          "pts": 2,
           "qualify": false
         }
       ]
@@ -441,24 +459,24 @@
           "name": "Germany",
           "p": 3,
           "w": 2,
-          "d": 0,
-          "l": 1,
-          "pts": 6,
+          "d": 1,
+          "l": 0,
+          "pts": 7,
+          "qualify": true
+        },
+        {
+          "flag": "🇨🇮",
+          "name": "Ivory Coast",
+          "p": 3,
+          "w": 1,
+          "d": 2,
+          "l": 0,
+          "pts": 5,
           "qualify": true
         },
         {
           "flag": "🇪🇨",
           "name": "Ecuador",
-          "p": 3,
-          "w": 1,
-          "d": 1,
-          "l": 1,
-          "pts": 4,
-          "qualify": true
-        },
-        {
-          "flag": "🇨🇼",
-          "name": "Curacao",
           "p": 3,
           "w": 1,
           "d": 0,
@@ -467,13 +485,13 @@
           "qualify": false
         },
         {
-          "flag": "🇻🇪",
-          "name": "Venezuela",
+          "flag": "🇨🇼",
+          "name": "Curacao",
           "p": 3,
           "w": 0,
-          "d": 1,
-          "l": 2,
-          "pts": 1,
+          "d": 0,
+          "l": 3,
+          "pts": 0,
           "qualify": false
         }
       ]
@@ -509,7 +527,7 @@
           "d": 1,
           "l": 1,
           "pts": 4,
-          "qualify": false
+          "qualify": true
         },
         {
           "flag": "🇹🇳",
@@ -527,6 +545,16 @@
       "name": "Group G",
       "teams": [
         {
+          "flag": "🇧🇪",
+          "name": "Belgium",
+          "p": 3,
+          "w": 2,
+          "d": 1,
+          "l": 0,
+          "pts": 7,
+          "qualify": true
+        },
+        {
           "flag": "🇪🇬",
           "name": "Egypt",
           "p": 3,
@@ -541,16 +569,6 @@
           "name": "Iran",
           "p": 3,
           "w": 0,
-          "d": 3,
-          "l": 0,
-          "pts": 3,
-          "qualify": true
-        },
-        {
-          "flag": "🇧🇪",
-          "name": "Belgium",
-          "p": 3,
-          "w": 0,
           "d": 2,
           "l": 1,
           "pts": 2,
@@ -561,9 +579,9 @@
           "name": "New Zealand",
           "p": 3,
           "w": 0,
-          "d": 1,
-          "l": 2,
-          "pts": 1,
+          "d": 0,
+          "l": 3,
+          "pts": 0,
           "qualify": false
         }
       ]
@@ -585,9 +603,9 @@
           "flag": "🇨🇻",
           "name": "Cape Verde",
           "p": 3,
-          "w": 1,
-          "d": 0,
-          "l": 2,
+          "w": 0,
+          "d": 3,
+          "l": 0,
           "pts": 3,
           "qualify": true
         },
@@ -606,9 +624,9 @@
           "name": "Saudi Arabia",
           "p": 3,
           "w": 0,
-          "d": 1,
-          "l": 2,
-          "pts": 1,
+          "d": 2,
+          "l": 1,
+          "pts": 2,
           "qualify": false
         }
       ]
@@ -630,10 +648,10 @@
           "flag": "🇳🇴",
           "name": "Norway",
           "p": 3,
-          "w": 2,
-          "d": 0,
+          "w": 1,
+          "d": 1,
           "l": 1,
-          "pts": 6,
+          "pts": 4,
           "qualify": true
         },
         {
@@ -641,9 +659,9 @@
           "name": "Senegal",
           "p": 3,
           "w": 1,
-          "d": 0,
-          "l": 2,
-          "pts": 3,
+          "d": 1,
+          "l": 1,
+          "pts": 4,
           "qualify": false
         },
         {
@@ -672,8 +690,8 @@
           "qualify": true
         },
         {
-          "flag": "🇩🇿",
-          "name": "Algeria",
+          "flag": "🇦🇹",
+          "name": "Austria",
           "p": 3,
           "w": 2,
           "d": 0,
@@ -682,8 +700,8 @@
           "qualify": true
         },
         {
-          "flag": "🇦🇹",
-          "name": "Austria",
+          "flag": "🇩🇿",
+          "name": "Algeria",
           "p": 3,
           "w": 1,
           "d": 0,
@@ -710,10 +728,10 @@
           "flag": "🇨🇴",
           "name": "Colombia",
           "p": 3,
-          "w": 2,
-          "d": 1,
+          "w": 3,
+          "d": 0,
           "l": 0,
-          "pts": 7,
+          "pts": 9,
           "qualify": true
         },
         {
@@ -721,19 +739,19 @@
           "name": "Portugal",
           "p": 3,
           "w": 1,
-          "d": 2,
-          "l": 0,
-          "pts": 5,
+          "d": 1,
+          "l": 1,
+          "pts": 4,
           "qualify": true
         },
         {
           "flag": "🇨🇩",
           "name": "DR Congo",
           "p": 3,
-          "w": 1,
-          "d": 0,
+          "w": 0,
+          "d": 1,
           "l": 2,
-          "pts": 3,
+          "pts": 1,
           "qualify": false
         },
         {
@@ -741,9 +759,9 @@
           "name": "Uzbekistan",
           "p": 3,
           "w": 0,
-          "d": 1,
-          "l": 2,
-          "pts": 1,
+          "d": 0,
+          "l": 3,
+          "pts": 0,
           "qualify": false
         }
       ]
@@ -765,20 +783,20 @@
           "flag": "🇭🇷",
           "name": "Croatia",
           "p": 3,
-          "w": 2,
-          "d": 0,
+          "w": 1,
+          "d": 1,
           "l": 1,
-          "pts": 6,
+          "pts": 4,
           "qualify": true
         },
         {
           "flag": "🇬🇭",
           "name": "Ghana",
           "p": 3,
-          "w": 0,
+          "w": 1,
           "d": 1,
-          "l": 2,
-          "pts": 1,
+          "l": 1,
+          "pts": 4,
           "qualify": false
         },
         {
