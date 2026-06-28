@@ -1,69 +1,58 @@
 {
   "formation": "4-3-3",
   "available": true,
-  "note": "Projected XI for the knockout stage",
+  "note": "Confirmed XI vs Czechia (rotated squad after securing Group A top spot) on June 24-25, 2026",
   "lineup": {
     "gk": [
       {
-        "number": 1,
         "name": "Raúl Rangel",
         "club": "Chivas"
       }
     ],
     "def": [
       {
-        "number": 23,
-        "name": "Jesús Gallardo",
-        "club": "Toluca"
+        "name": "Jorge Sánchez",
+        "club": "Cruz Azul"
       },
       {
-        "number": 5,
-        "name": "Johan Vásquez",
-        "club": "Genoa"
+        "name": "Israel Reyes",
+        "club": "América"
       },
       {
-        "number": 3,
         "name": "César Montes",
         "club": "Lokomotiv Moscow"
       },
       {
-        "number": 15,
-        "name": "Israel Reyes",
-        "club": "Club América"
+        "name": "Mateo Chávez",
+        "club": "AZ Alkmaar"
       }
     ],
     "mid": [
       {
-        "number": 4,
+        "name": "Luis Romo",
+        "club": "Chivas"
+      },
+      {
         "name": "Edson Álvarez",
-        "club": "Fenerbahçe"
+        "club": "West Ham United"
       },
       {
-        "number": 8,
-        "name": "Álvaro Fidalgo",
-        "club": "Real Betis"
-      },
-      {
-        "number": 19,
         "name": "Gilberto Mora",
-        "club": "Club Tijuana"
+        "club": "Tijuana"
       }
     ],
     "fwd": [
       {
-        "number": 10,
-        "name": "Alexis Vega",
-        "club": "Toluca"
-      },
-      {
-        "number": 9,
-        "name": "Raúl Jiménez",
-        "club": "Fulham"
-      },
-      {
-        "number": 25,
         "name": "Roberto Alvarado",
         "club": "Chivas"
+      },
+      {
+        "name": "Guillermo Martínez",
+        "club": "Pumas"
+      },
+      {
+        "name": "Julián Quiñones",
+        "club": "Al-Qadsiah"
       }
     ]
   }
