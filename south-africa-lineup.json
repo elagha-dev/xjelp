@@ -1,69 +1,69 @@
 {
-  "formation": "4-3-3",
+  "formation": "4-2-3-1",
   "available": true,
-  "note": "Expected XI vs Canada (based on last confirmed lineup against South Korea, June 24, 2026)",
+  "note": "Confirmed XI vs Canada - FIFA World Cup 2026 Round of 32",
   "lineup": {
     "gk": [
       {
         "number": 1,
         "name": "Ronwen Williams",
-        "club": "Unknown Club"
+        "club": "Mamelodi Sundowns"
       }
     ],
     "def": [
       {
-        "number": 20,
+        "number": 2,
         "name": "Khuliso Mudau",
-        "club": "Unknown Club"
+        "club": "Mamelodi Sundowns"
       },
       {
-        "number": 21,
+        "number": 5,
         "name": "Ime Okon",
-        "club": "Unknown Club"
+        "club": "Hannover 96"
       },
       {
-        "number": 14,
+        "number": 3,
         "name": "Mbekezeli Mbokazi",
-        "club": "Unknown Club"
+        "club": "Chicago Fire"
       },
       {
-        "number": 6,
+        "number": 4,
         "name": "Aubrey Modiba",
-        "club": "Unknown Club"
+        "club": "Mamelodi Sundowns"
       }
     ],
     "mid": [
       {
-        "number": 13,
-        "name": "Sphephelo Sithole",
-        "club": "Unknown Club"
+        "number": 6,
+        "name": "Teboho Mokoena",
+        "club": "Mamelodi Sundowns"
       },
       {
-        "number": 5,
-        "name": "Thalente Mbatha",
-        "club": "Unknown Club"
+        "number": 8,
+        "name": "Sphephelo Sithole",
+        "club": "CD Tondela"
+      },
+      {
+        "number": 11,
+        "name": "Thapelo Maseko",
+        "club": "AEL Limassol"
+      },
+      {
+        "number": 10,
+        "name": "Oswin Appollis",
+        "club": "Orlando Pirates"
       },
       {
         "number": 7,
-        "name": "Oswin Appollis",
-        "club": "Unknown Club"
+        "name": "Relebohile Mofokeng",
+        "club": "Orlando Pirates"
       }
     ],
     "fwd": [
       {
-        "number": 10,
-        "name": "Relebohile Mofokeng",
-        "club": "Unknown Club"
-      },
-      {
-        "number": 12,
-        "name": "Thapelo Maseko",
-        "club": "Mamelodi Sundowns"
-      },
-      {
-        "number": 17,
+        "number": 9,
         "name": "Evidence Makgopa",
-        "club": "Unknown Club"
+        "club": "Orlando Pirates"
       }
     ]
   }
