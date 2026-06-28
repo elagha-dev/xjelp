@@ -1,58 +1,69 @@
 {
   "formation": "4-3-3",
   "available": true,
-  "note": "Confirmed XI vs Czechia (rotated squad after securing Group A top spot) on June 24-25, 2026",
+  "note": "Predicted starting lineup for the FIFA World Cup 2026 based on multiple sources.",
   "lineup": {
     "gk": [
       {
+        "number": null,
         "name": "Raúl Rangel",
         "club": "Chivas"
       }
     ],
     "def": [
       {
-        "name": "Jorge Sánchez",
-        "club": "Cruz Azul"
+        "number": null,
+        "name": "Jesús Gallardo",
+        "club": "Toluca"
       },
       {
-        "name": "Israel Reyes",
-        "club": "América"
+        "number": null,
+        "name": "Johan Vásquez",
+        "club": "Genoa"
       },
       {
+        "number": null,
         "name": "César Montes",
         "club": "Lokomotiv Moscow"
       },
       {
-        "name": "Mateo Chávez",
-        "club": "AZ Alkmaar"
+        "number": null,
+        "name": "Israel Reyes",
+        "club": "América"
       }
     ],
     "mid": [
       {
-        "name": "Luis Romo",
-        "club": "Chivas"
-      },
-      {
+        "number": null,
         "name": "Edson Álvarez",
         "club": "West Ham United"
       },
       {
+        "number": null,
+        "name": "Álvaro Fidalgo",
+        "club": "Real Betis"
+      },
+      {
+        "number": null,
         "name": "Gilberto Mora",
         "club": "Tijuana"
       }
     ],
     "fwd": [
       {
+        "number": null,
+        "name": "Alexis Vega",
+        "club": "Toluca"
+      },
+      {
+        "number": null,
+        "name": "Raúl Jiménez",
+        "club": "Fulham"
+      },
+      {
+        "number": null,
         "name": "Roberto Alvarado",
         "club": "Chivas"
-      },
-      {
-        "name": "Guillermo Martínez",
-        "club": "Pumas"
-      },
-      {
-        "name": "Julián Quiñones",
-        "club": "Al-Qadsiah"
       }
     ]
   }

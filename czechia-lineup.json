@@ -1,69 +1,69 @@
 {
   "formation": "3-4-2-1",
   "available": true,
-  "note": "Confirmed XI vs Mexico",
+  "note": "Confirmed XI vs Mexico, June 25, 2026",
   "lineup": {
     "gk": [
       {
-        "number": 1,
+        "number": null,
         "name": "Matej Kovar",
         "club": "PSV Eindhoven"
       }
     ],
     "def": [
       {
-        "number": 7,
+        "number": null,
         "name": "Ladislav Krejci",
         "club": "Wolverhampton Wanderers"
       },
       {
-        "number": 4,
+        "number": null,
         "name": "Robin Hranac",
-        "club": "Hoffenheim"
+        "club": "TSG Hoffenheim"
       },
       {
-        "number": 21,
+        "number": null,
         "name": "David Doudera",
-        "club": "Slavia Prague"
+        "club": "SK Slavia Praha"
       }
     ],
     "mid": [
       {
-        "number": 3,
+        "number": null,
         "name": "Tomas Holes",
-        "club": "Slavia Prague"
+        "club": "SK Slavia Praha"
       },
       {
-        "number": 18,
+        "number": null,
         "name": "Michal Sadilek",
-        "club": "Slavia Prague"
+        "club": "SK Slavia Praha"
       },
       {
-        "number": 12,
+        "number": null,
         "name": "Lukas Cerv",
-        "club": "Viktoria Plzeň"
+        "club": "FC Viktoria Plzeň"
       },
       {
-        "number": 5,
+        "number": null,
         "name": "Vladimir Coufal",
-        "club": "Hoffenheim"
+        "club": "TSG Hoffenheim"
       }
     ],
     "fwd": [
       {
-        "number": 15,
+        "number": null,
         "name": "Pavel Sulc",
         "club": "Olympique Lyonnais"
       },
       {
-        "number": 26,
+        "number": null,
         "name": "Denis Visinsky",
-        "club": "Viktoria Plzeň"
+        "club": "FC Viktoria Plzeň"
       },
       {
-        "number": 9,
+        "number": null,
         "name": "Adam Hlozek",
-        "club": "Hoffenheim"
+        "club": "TSG Hoffenheim"
       }
     ]
   }

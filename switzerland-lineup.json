@@ -1,5 +1,5 @@
 {
-  "formation": "4-2-3-1",
+  "formation": "4-3-3",
   "available": true,
   "note": "Confirmed XI vs Canada (June 24, 2026)",
   "lineup": {
@@ -47,23 +47,23 @@
         "number": 15,
         "name": "Djibril Sow",
         "club": "Sevilla"
-      },
-      {
-        "number": 9,
-        "name": "Johan Manzambi",
-        "club": "Friburgo"
-      },
-      {
-        "number": 17,
-        "name": "Ruben Vargas",
-        "club": "Sevilla"
       }
     ],
     "fwd": [
       {
+        "number": 17,
+        "name": "Ruben Vargas",
+        "club": "Augsburg"
+      },
+      {
         "number": 7,
         "name": "Breel Embolo",
-        "club": "Stade Rennes"
+        "club": "Stade Rennais"
+      },
+      {
+        "number": 9,
+        "name": "Johan Manzambi",
+        "club": "Freiburg"
       }
     ]
   }

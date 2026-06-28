@@ -1,11 +1,11 @@
 {
   "formation": "4-3-3",
   "available": true,
-  "note": "Confirmed XI vs Scotland (June 24, 2026)",
+  "note": "Expected XI for upcoming match vs Japan on June 29, 2026, identical to confirmed XI vs Scotland on June 24, 2026.",
   "lineup": {
     "gk": [
       {
-        "number": 1,
+        "number": null,
         "name": "Alisson",
         "club": "Liverpool"
       }
@@ -17,53 +17,53 @@
         "club": "Flamengo"
       },
       {
-        "number": 4,
+        "number": null,
         "name": "Marquinhos",
-        "club": "PSG"
+        "club": "Paris Saint-Germain"
       },
       {
-        "number": 3,
-        "name": "Gabriel Magalhaes",
+        "number": null,
+        "name": "Gabriel Magalhães",
         "club": "Arsenal"
       },
       {
-        "number": 15,
+        "number": null,
         "name": "Douglas Santos",
         "club": "Zenit"
       }
     ],
     "mid": [
       {
-        "number": 6,
+        "number": null,
         "name": "Casemiro",
         "club": "Manchester United"
       },
       {
         "number": null,
-        "name": "Bruno Guimaraes",
-        "club": "Newcastle United"
+        "name": "Bruno Guimarães",
+        "club": "Newcastle"
       },
       {
         "number": null,
-        "name": "Lucas Paqueta",
+        "name": "Lucas Paquetá",
         "club": "Flamengo"
       }
     ],
     "fwd": [
       {
         "number": null,
-        "name": "Rayan",
-        "club": "Bournemouth"
-      },
-      {
-        "number": 7,
-        "name": "Vinicius Jr.",
+        "name": "Vinicius Junior",
         "club": "Real Madrid"
       },
       {
-        "number": 11,
+        "number": null,
         "name": "Matheus Cunha",
         "club": "Manchester United"
+      },
+      {
+        "number": null,
+        "name": "Rayan",
+        "club": "Bournemouth"
       }
     ]
   }

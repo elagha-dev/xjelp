@@ -1,69 +1,69 @@
 {
   "formation": "4-3-3",
   "available": true,
-  "note": "Confirmed XI vs Czechia (June 25, 2026)",
+  "note": "Expected XI vs Canada (based on last confirmed lineup against South Korea, June 24, 2026)",
   "lineup": {
     "gk": [
       {
         "number": 1,
         "name": "Ronwen Williams",
-        "club": "Mamelodi Sundowns"
+        "club": "Unknown Club"
       }
     ],
     "def": [
       {
-        "number": 2,
+        "number": 20,
         "name": "Khuliso Mudau",
-        "club": "Mamelodi Sundowns"
+        "club": "Unknown Club"
       },
       {
-        "number": 4,
+        "number": 21,
         "name": "Ime Okon",
-        "club": "Hannover 96"
+        "club": "Unknown Club"
       },
       {
-        "number": 5,
+        "number": 14,
         "name": "Mbekezeli Mbokazi",
-        "club": "Chicago Fire"
+        "club": "Unknown Club"
       },
       {
-        "number": 3,
+        "number": 6,
         "name": "Aubrey Modiba",
-        "club": "Mamelodi Sundowns"
+        "club": "Unknown Club"
       }
     ],
     "mid": [
       {
-        "number": 6,
-        "name": "Teboho Mokoena",
-        "club": "Mamelodi Sundowns"
+        "number": 13,
+        "name": "Sphephelo Sithole",
+        "club": "Unknown Club"
       },
       {
-        "number": 8,
+        "number": 5,
         "name": "Thalente Mbatha",
-        "club": "Orlando Pirates"
+        "club": "Unknown Club"
       },
       {
-        "number": 15,
-        "name": "Jayden Adams",
-        "club": "Mamelodi Sundowns"
+        "number": 7,
+        "name": "Oswin Appollis",
+        "club": "Unknown Club"
       }
     ],
     "fwd": [
       {
-        "number": 11,
-        "name": "Oswin Appollis",
-        "club": "Orlando Pirates"
+        "number": 10,
+        "name": "Relebohile Mofokeng",
+        "club": "Unknown Club"
       },
       {
-        "number": 18,
+        "number": 12,
         "name": "Thapelo Maseko",
-        "club": "AEL Limassol"
+        "club": "Mamelodi Sundowns"
       },
       {
-        "number": 16,
-        "name": "Iqraam Rayners",
-        "club": "Mamelodi Sundowns"
+        "number": 17,
+        "name": "Evidence Makgopa",
+        "club": "Unknown Club"
       }
     ]
   }

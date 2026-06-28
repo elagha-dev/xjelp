@@ -2,186 +2,186 @@
   "coach": "Mohamed Ouahbi",
   "squad": [
     {
-      "number": 1,
+      "number": null,
       "name": "Yassine Bounou",
       "position": "GK",
-      "club": "Al Hilal",
-      "caps": 72
+      "club": "Al Hilal SC",
+      "caps": null
     },
     {
-      "number": 12,
+      "number": null,
       "name": "Munir El Kajoui",
       "position": "GK",
       "club": "RS Berkane",
-      "caps": 50
+      "caps": null
     },
     {
-      "number": 22,
+      "number": null,
       "name": "Ahmed Reda Tagnaouti",
       "position": "GK",
-      "club": "AS FAR",
-      "caps": 3
+      "club": "ASFAR",
+      "caps": null
     },
     {
-      "number": 2,
+      "number": null,
       "name": "Achraf Hakimi",
       "position": "DF",
       "club": "Paris Saint-Germain",
-      "caps": 99
+      "caps": null
     },
     {
-      "number": 3,
+      "number": null,
       "name": "Noussair Mazraoui",
       "position": "DF",
-      "club": "Manchester United",
-      "caps": 0
+      "club": "Manchester United FC",
+      "caps": null
     },
     {
-      "number": 0,
+      "number": null,
       "name": "Nayef Aguerd",
       "position": "DF",
-      "club": "Olympique de Marseille",
-      "caps": 0
+      "club": "Olympique Marseille",
+      "caps": null
     },
     {
-      "number": 18,
-      "name": "Chadi Riad",
-      "position": "DF",
-      "club": "Crystal Palace",
-      "caps": 9
-    },
-    {
-      "number": 14,
-      "name": "Issa Diop",
-      "position": "DF",
-      "club": "Fulham",
-      "caps": 0
-    },
-    {
-      "number": 26,
-      "name": "Anass Salah-Eddine",
-      "position": "DF",
-      "club": "PSV Eindhoven",
-      "caps": 0
-    },
-    {
-      "number": 13,
+      "number": null,
       "name": "Zakaria El Ouahdi",
       "position": "DF",
-      "club": "Genk",
-      "caps": 0
+      "club": "KRC Genk",
+      "caps": null
     },
     {
-      "number": 25,
-      "name": "Redouane Halhal",
+      "number": null,
+      "name": "Issa Diop",
       "position": "DF",
-      "club": "Mechelen",
-      "caps": 4
+      "club": "Fulham FC",
+      "caps": null
     },
     {
-      "number": 19,
+      "number": null,
+      "name": "Chadi Riad",
+      "position": "DF",
+      "club": "Crystal Palace FC",
+      "caps": null
+    },
+    {
+      "number": null,
       "name": "Youssef Belammari",
       "position": "DF",
-      "club": "Al Ahly",
-      "caps": 0
+      "club": "Al Ahly FC",
+      "caps": null
     },
     {
-      "number": 15,
-      "name": "Samir El Mourabet",
-      "position": "MF",
-      "club": "Strasbourg",
-      "caps": 0
+      "number": null,
+      "name": "Redouane Halhal",
+      "position": "DF",
+      "club": "KV Mechelen",
+      "caps": null
     },
     {
-      "number": 6,
-      "name": "Ayyoub Bouaddi",
-      "position": "MF",
-      "club": "Lille",
-      "caps": 2
+      "number": null,
+      "name": "Anass Salah Eddine",
+      "position": "DF",
+      "club": "PSV Eindhoven",
+      "caps": null
     },
     {
-      "number": 24,
-      "name": "Neil El Aynaoui",
-      "position": "MF",
-      "club": "AS Roma",
-      "caps": 2
-    },
-    {
-      "number": 4,
+      "number": null,
       "name": "Sofyan Amrabat",
       "position": "MF",
       "club": "Real Betis",
-      "caps": 76
+      "caps": null
     },
     {
-      "number": 8,
+      "number": null,
+      "name": "Ayyoub Bouaddi",
+      "position": "MF",
+      "club": "Lille OSC",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Chemsdine Talbi",
+      "position": "MF",
+      "club": "Sunderland AFC",
+      "caps": null
+    },
+    {
+      "number": null,
       "name": "Azzedine Ounahi",
       "position": "MF",
-      "club": "Girona",
-      "caps": 2
+      "club": "Girona FC",
+      "caps": null
     },
     {
-      "number": 23,
-      "name": "Bilal El Khannouss",
-      "position": "MF",
-      "club": "Stuttgart",
-      "caps": 2
-    },
-    {
-      "number": 11,
+      "number": null,
       "name": "Ismael Saibari",
       "position": "MF",
       "club": "PSV Eindhoven",
-      "caps": 33
+      "caps": null
     },
     {
-      "number": 7,
-      "name": "Chemsdine Talbi",
+      "number": null,
+      "name": "Samir El Mourabet",
       "position": "MF",
-      "club": "Sunderland",
-      "caps": 7
+      "club": "RC Strasbourg",
+      "caps": null
     },
     {
-      "number": 16,
+      "number": null,
       "name": "Yassine Gessime",
       "position": "MF",
       "club": "RC Strasbourg",
-      "caps": 0
+      "caps": null
     },
     {
-      "number": 9,
+      "number": null,
+      "name": "Bilal El Khannouss",
+      "position": "MF",
+      "club": "VfB Stuttgart",
+      "caps": null
+    },
+    {
+      "number": null,
+      "name": "Neil El Aynaoui",
+      "position": "MF",
+      "club": "AS Roma",
+      "caps": null
+    },
+    {
+      "number": null,
       "name": "Soufiane Rahimi",
       "position": "FW",
       "club": "Al Ain FC",
-      "caps": 40
+      "caps": null
     },
     {
-      "number": 10,
+      "number": null,
       "name": "Brahim Diaz",
       "position": "FW",
-      "club": "Real Madrid C.F.",
-      "caps": 2
+      "club": "Real Madrid C. F.",
+      "caps": null
     },
     {
-      "number": 0,
+      "number": null,
       "name": "Abde Ezzalzouli",
       "position": "FW",
       "club": "Real Betis",
-      "caps": 0
+      "caps": null
     },
     {
-      "number": 20,
+      "number": null,
       "name": "Ayoub El Kaabi",
       "position": "FW",
       "club": "Olympiacos FC",
-      "caps": 0
+      "caps": null
     },
     {
-      "number": 21,
+      "number": null,
       "name": "Ayoub Amaimouni",
       "position": "FW",
       "club": "Eintracht Frankfurt",
-      "caps": 0
+      "caps": null
     }
   ]
 }

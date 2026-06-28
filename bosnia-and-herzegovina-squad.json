@@ -6,182 +6,182 @@
       "name": "Nikola Vasilj",
       "position": "GK",
       "club": "FC St. Pauli",
-      "caps": 0
+      "caps": null
     },
     {
       "number": 2,
-      "name": "Osman Hadzikic",
-      "position": "GK",
-      "club": "Slaven Belupo",
-      "caps": 0
+      "name": "Nihad Mujakić",
+      "position": "DF",
+      "club": "Gaziantep FK",
+      "caps": null
     },
     {
       "number": 3,
-      "name": "Martin Zlomislic",
-      "position": "GK",
-      "club": "HNK Rijeka",
-      "caps": 0
-    },
-    {
-      "number": 4,
-      "name": "Sead Kolasinac",
-      "position": "DF",
-      "club": "Atalanta BC",
-      "caps": 0
-    },
-    {
-      "number": 5,
-      "name": "Amar Dedic",
-      "position": "DF",
-      "club": "SL Benfica",
-      "caps": 0
-    },
-    {
-      "number": 6,
-      "name": "Nihad Mujakic",
-      "position": "DF",
-      "club": "Gaziantep FK",
-      "caps": 0
-    },
-    {
-      "number": 7,
-      "name": "Nikola Katic",
-      "position": "DF",
-      "club": "FC Schalke 04",
-      "caps": 0
-    },
-    {
-      "number": 8,
-      "name": "Tarik Muharemovic",
-      "position": "DF",
-      "club": "US Sassuolo",
-      "caps": 0
-    },
-    {
-      "number": 9,
-      "name": "Stjepan Radeljic",
-      "position": "DF",
-      "club": "HNK Rijeka",
-      "caps": 0
-    },
-    {
-      "number": 10,
       "name": "Dennis Hadžikadunić",
       "position": "DF",
       "club": "UC Sampdoria",
-      "caps": 0
+      "caps": null
     },
     {
-      "number": 11,
-      "name": "Nidal Čelik",
+      "number": 4,
+      "name": "Tarik Muharemović",
       "position": "DF",
-      "club": "RC Lens",
-      "caps": 0
+      "club": "US Sassuolo",
+      "caps": null
     },
     {
-      "number": 12,
-      "name": "Amir Hadžiahmetović",
-      "position": "MF",
-      "club": "Hull City FC",
-      "caps": 0
+      "number": 5,
+      "name": "Sead Kolašinac",
+      "position": "DF",
+      "club": "Atalanta BC",
+      "caps": null
     },
     {
-      "number": 13,
-      "name": "Ivan Šunjić",
-      "position": "MF",
-      "club": "Pafos FC",
-      "caps": 0
-    },
-    {
-      "number": 14,
-      "name": "Ivan Bašić",
-      "position": "MF",
-      "club": "FC Astana",
-      "caps": 0
-    },
-    {
-      "number": 15,
-      "name": "Dženis Burnić",
-      "position": "MF",
-      "club": "Karlsruher SC",
-      "caps": 0
-    },
-    {
-      "number": 16,
-      "name": "Ermin Mahmić",
-      "position": "MF",
-      "club": "FC Slovan Liberec",
-      "caps": 0
-    },
-    {
-      "number": 17,
+      "number": 6,
       "name": "Benjamin Tahirović",
       "position": "MF",
       "club": "Bröndby IF",
-      "caps": 0
+      "caps": null
     },
     {
-      "number": 18,
-      "name": "Amar Memić",
-      "position": "MF",
-      "club": "FC Viktoria Plzeň",
-      "caps": 0
+      "number": 7,
+      "name": "Amar Dedić",
+      "position": "DF",
+      "club": "SL Benfica",
+      "caps": null
     },
     {
-      "number": 19,
+      "number": 8,
       "name": "Armin Gigović",
       "position": "MF",
       "club": "BSC Young Boys",
-      "caps": 0
+      "caps": null
     },
     {
-      "number": 20,
-      "name": "Kerim Alajbegović",
-      "position": "MF",
-      "club": "RB Salzburg",
-      "caps": 0
-    },
-    {
-      "number": 21,
-      "name": "Esmir Bajraktarević",
-      "position": "MF",
-      "club": "PSV Eindhoven",
-      "caps": 0
-    },
-    {
-      "number": 22,
-      "name": "Edin Džeko",
+      "number": 9,
+      "name": "Samed Baždar",
       "position": "FW",
-      "club": "FC Schalke 04",
-      "caps": 0
+      "club": "Jagiellonia Białystok",
+      "caps": null
     },
     {
-      "number": 23,
+      "number": 10,
       "name": "Ermedin Demirović",
       "position": "FW",
       "club": "VfB Stuttgart",
-      "caps": 0
+      "caps": null
     },
     {
-      "number": 24,
+      "number": 11,
+      "name": "Edin Džeko",
+      "position": "FW",
+      "club": "FC Schalke 04",
+      "caps": 150
+    },
+    {
+      "number": 12,
+      "name": "Mladen Jurkas",
+      "position": "GK",
+      "club": "FK Borac Banja Luka",
+      "caps": null
+    },
+    {
+      "number": 13,
+      "name": "Ivan Bašić",
+      "position": "MF",
+      "club": "FC Astana",
+      "caps": null
+    },
+    {
+      "number": 14,
+      "name": "Ivan Šunjić",
+      "position": "MF",
+      "club": "Pafos FC",
+      "caps": null
+    },
+    {
+      "number": 15,
+      "name": "Amar Memić",
+      "position": "MF",
+      "club": "FC Viktoria Plzen",
+      "caps": null
+    },
+    {
+      "number": 16,
+      "name": "Amir Hadžiahmetović",
+      "position": "MF",
+      "club": "Hull City",
+      "caps": null
+    },
+    {
+      "number": 17,
+      "name": "Dženis Burnić",
+      "position": "MF",
+      "club": "Karlsruher SC",
+      "caps": null
+    },
+    {
+      "number": 18,
+      "name": "Nikola Katić",
+      "position": "DF",
+      "club": "Schalke 04",
+      "caps": null
+    },
+    {
+      "number": 19,
+      "name": "Kerim Alajbegović",
+      "position": "MF",
+      "club": "RB Salzburg",
+      "caps": null
+    },
+    {
+      "number": 20,
+      "name": "Esmir Bajraktarević",
+      "position": "FW",
+      "club": "PSV Eindhoven",
+      "caps": null
+    },
+    {
+      "number": 21,
+      "name": "Stjepan Radeljić",
+      "position": "DF",
+      "club": "HNK Rijeka",
+      "caps": null
+    },
+    {
+      "number": 22,
+      "name": "Martin Zlomislić",
+      "position": "GK",
+      "club": "HNK Rijeka",
+      "caps": null
+    },
+    {
+      "number": 23,
       "name": "Haris Tabaković",
       "position": "FW",
       "club": "Borussia Mönchengladbach",
-      "caps": 0
+      "caps": null
+    },
+    {
+      "number": 24,
+      "name": "Nidal Čelik",
+      "position": "DF",
+      "club": "RC Lens",
+      "caps": null
     },
     {
       "number": 25,
-      "name": "Samed Bazdar",
+      "name": "Jovo Lukić",
       "position": "FW",
-      "club": "Jagiellonia Białystok",
-      "caps": 0
+      "club": "FC Universitatea Cluj",
+      "caps": null
     },
     {
       "number": 26,
-      "name": "Jovo Lukic",
-      "position": "FW",
-      "club": "Universitatea Cluj",
-      "caps": 0
+      "name": "Ermin Mahmić",
+      "position": "MF",
+      "club": "FC Slovan Liberec",
+      "caps": null
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "formation": "4-4-2",
   "available": true,
-  "note": "Expected World Cup XI",
+  "note": "Confirmed XI vs Qatar (FIFA World Cup 2026 Group Stage, June 24, 2026). Bosnia and Herzegovina will play USA in the Round of 32 on July 1, 2026.",
   "lineup": {
     "gk": [
       {
@@ -12,58 +12,58 @@
     ],
     "def": [
       {
-        "number": 7,
-        "name": "Amar Dedic",
-        "club": "SL Benfica"
-      },
-      {
-        "number": 18,
-        "name": "Nikola Katic",
-        "club": "Schalke 04"
-      },
-      {
         "number": 5,
-        "name": "Sead Kolasinac",
-        "club": "Atalanta"
+        "name": "Sead Kolašinac",
+        "club": "Atalanta BC"
       },
       {
         "number": 4,
-        "name": "Tarik Muharemovic",
-        "club": "US Sassuolo"
+        "name": "Stjepan Radeljić",
+        "club": "HNK Rijeka"
+      },
+      {
+        "number": 3,
+        "name": "Nikola Katić",
+        "club": "Schalke 04"
+      },
+      {
+        "number": 2,
+        "name": "Arjan Malić",
+        "club": "Sturm Graz"
       }
     ],
     "mid": [
       {
-        "number": 15,
-        "name": "Amar Memic",
-        "club": "FC Viktoria Plzen"
+        "number": 7,
+        "name": "Esmir Bajraktarević",
+        "club": "PSV Eindhoven"
       },
       {
-        "number": 14,
-        "name": "Ivan Sunjic",
+        "number": 13,
+        "name": "Ivan Bašić",
+        "club": "FC Astana"
+      },
+      {
+        "number": 10,
+        "name": "Ivan Šunjić",
         "club": "Pafos FC"
       },
       {
-        "number": 6,
-        "name": "Benjamin Tahirovic",
-        "club": "Bröndby IF"
-      },
-      {
-        "number": 19,
-        "name": "Kerim Alajbegovic",
+        "number": 11,
+        "name": "Kerim Alajbegović",
         "club": "RB Salzburg"
       }
     ],
     "fwd": [
       {
-        "number": 10,
-        "name": "Ermedin Demirovic",
-        "club": "VfB Stuttgart"
+        "number": 9,
+        "name": "Edin Džeko",
+        "club": "Schalke 04"
       },
       {
-        "number": 11,
-        "name": "Edin Dzeko",
-        "club": "FC Schalke 04"
+        "number": 17,
+        "name": "Ermedin Demirović",
+        "club": "VfB Stuttgart"
       }
     ]
   }

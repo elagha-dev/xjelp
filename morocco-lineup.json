@@ -1,7 +1,7 @@
 {
-  "formation": "4-3-3",
+  "formation": "4-2-3-1",
   "available": true,
-  "note": "Confirmed XI vs Haiti (June 24, 2026)",
+  "note": "Confirmed XI vs Haiti (June 24, 2026) in the FIFA World Cup 2026",
   "lineup": {
     "gk": [
       {
@@ -14,12 +14,7 @@
       {
         "number": 2,
         "name": "Achraf Hakimi",
-        "club": "Paris Saint-Germain"
-      },
-      {
-        "number": 18,
-        "name": "Chadi Riad",
-        "club": "Crystal Palace"
+        "club": "PSG"
       },
       {
         "number": 25,
@@ -27,33 +22,31 @@
         "club": "Mechelen"
       },
       {
-        "number": 26,
-        "name": "Anass Salah-Eddine",
-        "club": "PSV Eindhoven"
+        "number": 18,
+        "name": "Chadi Riad",
+        "club": "Crystal Palace"
+      },
+      {
+        "number": 3,
+        "name": "Noussair Mazraoui",
+        "club": "Manchester United"
       }
     ],
     "mid": [
       {
-        "number": 4,
-        "name": "Sofyan Amrabat",
-        "club": "Real Betis"
-      },
-      {
         "number": 24,
         "name": "Neil El Aynaoui",
-        "club": "AS Roma"
+        "club": null
       },
       {
-        "number": 23,
-        "name": "Bilal El Khannouss",
-        "club": "VfB Stuttgart"
-      }
-    ],
-    "fwd": [
+        "number": 4,
+        "name": "Sofyan Amrabat",
+        "club": null
+      },
       {
         "number": 10,
-        "name": "Brahim Diaz",
-        "club": "Real Madrid C. F."
+        "name": "Brahim Díaz",
+        "club": "Real Madrid"
       },
       {
         "number": 11,
@@ -61,9 +54,16 @@
         "club": "PSV Eindhoven"
       },
       {
+        "number": 23,
+        "name": "Bilal El Khannouss",
+        "club": "Stuttgart"
+      }
+    ],
+    "fwd": [
+      {
         "number": 20,
         "name": "Ayoub El Kaabi",
-        "club": "Olympiacos FC"
+        "club": null
       }
     ]
   }
