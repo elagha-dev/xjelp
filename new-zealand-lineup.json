@@ -1,7 +1,7 @@
 {
   "formation": "4-2-3-1",
   "available": true,
-  "note": "Predicted XI vs Belgium",
+  "note": "Confirmed XI vs Belgium on 2026-06-26",
   "lineup": {
     "gk": [
       {
@@ -22,14 +22,14 @@
         "club": "Portland Timbers"
       },
       {
-        "number": 5,
-        "name": "Michael Boxall",
-        "club": "Minnesota United"
+        "number": null,
+        "name": "Tyler Bindon",
+        "club": "Nottingham Forest"
       },
       {
-        "number": 13,
+        "number": null,
         "name": "Liberato Cacace",
-        "club": "Wrexham AFC"
+        "club": "Wrexham"
       }
     ],
     "mid": [
@@ -42,11 +42,13 @@
         "number": 8,
         "name": "Marko Stamenic",
         "club": "Swansea City"
-      },
+      }
+    ],
+    "fwd": [
       {
-        "number": 20,
-        "name": "Callum McCowatt",
-        "club": "Silkeborg IF"
+        "number": null,
+        "name": "Ryan Thomas",
+        "club": "PEC Zwolle"
       },
       {
         "number": 10,
@@ -55,11 +57,9 @@
       },
       {
         "number": 11,
-        "name": "Eli Just",
+        "name": "Elijah Just",
         "club": "Motherwell FC"
-      }
-    ],
-    "fwd": [
+      },
       {
         "number": 9,
         "name": "Chris Wood",

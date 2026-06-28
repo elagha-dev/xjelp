@@ -1,0 +1,187 @@
+{
+  "coach": "Thomas Tuchel",
+  "squad": [
+    {
+      "number": 1,
+      "name": "Jordan Pickford",
+      "position": "GK",
+      "club": "Everton",
+      "caps": 87
+    },
+    {
+      "number": null,
+      "name": "Dean Henderson",
+      "position": "GK",
+      "club": "Crystal Palace",
+      "caps": 5
+    },
+    {
+      "number": null,
+      "name": "James Trafford",
+      "position": "GK",
+      "club": "Manchester City",
+      "caps": 2
+    },
+    {
+      "number": null,
+      "name": "Ezri Konsa",
+      "position": "DF",
+      "club": "Aston Villa",
+      "caps": 23
+    },
+    {
+      "number": 3,
+      "name": "Nico O'Reilly",
+      "position": "DF",
+      "club": "Manchester City",
+      "caps": 8
+    },
+    {
+      "number": null,
+      "name": "John Stones",
+      "position": "DF",
+      "club": "Manchester City",
+      "caps": 90
+    },
+    {
+      "number": null,
+      "name": "Marc Guéhi",
+      "position": "DF",
+      "club": "Manchester City",
+      "caps": 32
+    },
+    {
+      "number": null,
+      "name": "Trevoh Chalobah",
+      "position": "DF",
+      "club": "Chelsea",
+      "caps": 1
+    },
+    {
+      "number": null,
+      "name": "Dan Burn",
+      "position": "DF",
+      "club": "Newcastle United",
+      "caps": 8
+    },
+    {
+      "number": null,
+      "name": "Reece James",
+      "position": "DF",
+      "club": "Chelsea",
+      "caps": 26
+    },
+    {
+      "number": null,
+      "name": "Djed Spence",
+      "position": "DF",
+      "club": "Tottenham Hotspur",
+      "caps": 9
+    },
+    {
+      "number": null,
+      "name": "Jarell Quansah",
+      "position": "DF",
+      "club": "Bayer Leverkusen",
+      "caps": 4
+    },
+    {
+      "number": null,
+      "name": "Declan Rice",
+      "position": "MF",
+      "club": "Arsenal",
+      "caps": 75
+    },
+    {
+      "number": null,
+      "name": "Elliot Anderson",
+      "position": "MF",
+      "club": "Nottingham Forest",
+      "caps": 12
+    },
+    {
+      "number": 10,
+      "name": "Jude Bellingham",
+      "position": "MF",
+      "club": "Real Madrid",
+      "caps": 51
+    },
+    {
+      "number": null,
+      "name": "Jordan Henderson",
+      "position": "MF",
+      "club": "Brentford",
+      "caps": 91
+    },
+    {
+      "number": null,
+      "name": "Kobbie Mainoo",
+      "position": "MF",
+      "club": "Manchester United",
+      "caps": 14
+    },
+    {
+      "number": 17,
+      "name": "Morgan Rogers",
+      "position": "MF",
+      "club": "Aston Villa",
+      "caps": 18
+    },
+    {
+      "number": null,
+      "name": "Eberechi Eze",
+      "position": "MF",
+      "club": "Not specified in search results",
+      "caps": 19
+    },
+    {
+      "number": 9,
+      "name": "Harry Kane",
+      "position": "FW",
+      "club": "Bayern Munich",
+      "caps": 117
+    },
+    {
+      "number": 11,
+      "name": "Marcus Rashford",
+      "position": "FW",
+      "club": "Not specified in search results",
+      "caps": 75
+    },
+    {
+      "number": null,
+      "name": "Bukayo Saka",
+      "position": "FW",
+      "club": "Not specified in search results",
+      "caps": 52
+    },
+    {
+      "number": null,
+      "name": "Ollie Watkins",
+      "position": "FW",
+      "club": "Not specified in search results",
+      "caps": 23
+    },
+    {
+      "number": null,
+      "name": "Anthony Gordon",
+      "position": "FW",
+      "club": "Not specified in search results",
+      "caps": 21
+    },
+    {
+      "number": null,
+      "name": "Noni Madueke",
+      "position": "FW",
+      "club": "Not specified in search results",
+      "caps": 14
+    },
+    {
+      "number": null,
+      "name": "Ivan Toney",
+      "position": "FW",
+      "club": "Not specified in search results",
+      "caps": 8
+    }
+  ]
+}
